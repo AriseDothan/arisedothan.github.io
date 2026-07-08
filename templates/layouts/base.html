@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{page.title}}</title>
+  <meta name="description" content="{{page.meta_description}}">
+  {{#if page.noindex}}<meta name="robots" content="noindex, nofollow">{{/if}}
+  <link rel="canonical" href="https://{{domain}}{{page.path}}">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="{{page.title}}">
+  <meta property="og:description" content="{{page.meta_description}}">
+  <meta property="og:image" content="https://{{domain}}/{{page.og_image}}">
+  <meta property="og:url" content="https://{{domain}}{{page.path}}">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="{{business.name}}">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{page.title}}">
+  <meta name="twitter:description" content="{{page.meta_description}}">
+  <meta name="twitter:image" content="https://{{domain}}/{{page.og_image}}">
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="{{{fonts_url}}}" rel="stylesheet">
+
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="/css/variables.css">
+  <link rel="stylesheet" href="/css/base.css">
+  <link rel="stylesheet" href="/css/components.css">
+  <link rel="stylesheet" href="/css/responsive.css">
+  <link rel="stylesheet" href="/css/blog.css">
+  <link rel="stylesheet" href="/css/beliefs.css">
+
+  {{#if integrations.ahrefs_analytics_key}}
+  <!-- Ahrefs Analytics -->
+  <script src="https://analytics.ahrefs.com/analytics.js" data-key="{{integrations.ahrefs_analytics_key}}" async></script>
+  {{/if}}
+
+  {{#if integrations.google_tag_manager_id}}
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','{{integrations.google_tag_manager_id}}');</script>
+  {{/if}}
+</head>
+<body>
+
+{{#if integrations.google_tag_manager_id}}
+<!-- GTM noscript -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{integrations.google_tag_manager_id}}" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+{{/if}}
+
+{{> header}}
+
+<main>
+{{{page.content}}}
+</main>
+
+{{> footer}}
+
+<!-- Scripts -->
+<script src="/js/main.js"></script>
+<script src="/js/motion.js"></script>
+<script src="/js/form-handler.js"></script>
+<script src="/js/tracking.js"></script>
+
+<!-- Church Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": ["Church", "PlaceOfWorship"],
+  "name": "{{business.name}}",
+  "url": "https://{{domain}}",
+  "telephone": "{{business.phone}}",
+  "email": "{{business.email}}",
+  "description": "{{seo.default_meta_description}}",
+  "image": "https://{{domain}}/{{seo.default_og_image}}",
+  "slogan": "{{business.tagline}}",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "{{business.address.street}}",
+    "addressLocality": "{{business.address.city}}",
+    "addressRegion": "{{business.address.state}}",
+    "postalCode": "{{business.address.zip}}",
+    "addressCountry": "US"
+  },
+  {{#if business.geo.lat}}"geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "{{business.geo.lat}}",
+    "longitude": "{{business.geo.lng}}"
+  },{{/if}}
+  "areaServed": {
+    "@type": "City", "name": "{{business.address.city}}",
+    "containedInPlace": {"@type": "State", "name": "{{business.address.state_full}}"}
+  },
+  "sameAs": [
+    {{#if social.facebook}}"{{social.facebook}}"{{/if}}{{#if social.instagram}},"{{social.instagram}}"{{/if}}{{#if social.x}},"{{social.x}}"{{/if}}
+  ]
+}
+</script>
+
+</body>
+</html>

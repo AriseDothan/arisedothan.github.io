@@ -1,0 +1,21 @@
+<div class="newsletter-band reveal">
+  <div class="newsletter-band__icon" aria-hidden="true">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16v16H4z"/><path d="m4 6 8 7 8-7"/></svg>
+  </div>
+  <div class="newsletter-band__body">
+    <h3>Stay in the <span class="ti">loop</span></h3>
+    <p>Get a heads-up before each month's Interest Night, plus occasional news from Arise Dothan. No spam, unsubscribe anytime.</p>
+  </div>
+  <form class="newsletter-band__form" data-arise-form data-endpoint="{{integrations.newsletter_endpoint}}" data-phone="{{business.phone}}">
+    <input type="text" name="company" class="newsletter-hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+    <input type="hidden" name="list" value="newsletter-interest-night">
+    <input type="hidden" name="_subject" value="New email signup — Arise Dothan website">
+    <input type="hidden" name="_template" value="table">
+    <input type="hidden" name="_captcha" value="false">
+    <div class="newsletter-band__row">
+      <input class="input" type="email" name="email" placeholder="you@email.com" required autocomplete="email" aria-label="Email address">
+      <button class="btn btn--gold" type="submit">Keep me posted</button>
+    </div>
+    <p class="form-status" aria-live="polite"></p>
+  </form>
+</div>

@@ -1,0 +1,99 @@
+<section class="hero" id="main">
+  <img class="hero__bg" data-parallax src="/images/wide-1.webp" alt="" aria-hidden="true">
+  <div class="hero__overlay"></div>
+  <div class="hero__sun"></div>
+  <div class="ember-field" aria-hidden="true"></div>
+  <div class="container">
+    <div class="hero__inner">
+      <span class="eyebrow">{{cro.connect.eyebrow}}</span>
+      <h1>
+        <span class="hero__line">Let's plan your</span>
+        <span class="hero__line">first <span class="tg">visit</span>.</span>
+      </h1>
+      <p class="hero__sub">{{cro.connect.hero_sub}}</p>
+    </div>
+  </div>
+</section>
+
+<div class="marquee marquee--gold" aria-hidden="true">
+  <div class="marquee__track">
+    <span class="marquee__item">Say hello</span><span class="marquee__item">Come as you are</span><span class="marquee__item">We saved you a seat</span><span class="marquee__item">There's room for you</span><span class="marquee__item">Start a conversation</span>
+    <span class="marquee__item">Say hello</span><span class="marquee__item">Come as you are</span><span class="marquee__item">We saved you a seat</span><span class="marquee__item">There's room for you</span><span class="marquee__item">Start a conversation</span>
+  </div>
+</div>
+
+<section class="section">
+  <div class="container">
+    <div class="split" data-plan>
+      <!-- The composer -->
+      <div class="split__body reveal-left">
+        <div class="give-card stack">
+          <span class="eyebrow">Say hello</span>
+          <h2 style="margin-top:.2rem">Text Pastor <span class="ti">Brian</span> directly</h2>
+          <p>No crowd, no cold walk-in. Fill this in and we'll open your phone's messages with a friendly note ready to send — Brian will be expecting you.</p>
+
+          <div class="field">
+            <label for="planName">Your first name</label>
+            <input class="input" id="planName" name="planName" autocomplete="given-name" placeholder="e.g. Jordan">
+          </div>
+
+          <div class="give-field stack" style="gap:.6rem">
+            <label>What brings you?</label>
+            <div class="chip-row" data-plan-intent role="group" aria-label="What brings you">
+              <button type="button" class="chip" data-value="visit">Plan a Thursday visit</button>
+              <button type="button" class="chip" data-value="meet">Meet you first</button>
+              <button type="button" class="chip" data-value="question">Ask a question</button>
+              <button type="button" class="chip" data-value="prayer">I'd like prayer</button>
+            </div>
+          </div>
+
+          <div class="field">
+            <label for="planNote">Anything you'd like Brian to know? <span class="help">(optional)</span></label>
+            <textarea class="textarea" id="planNote" name="planNote" style="min-height:92px" placeholder="A little about you, any questions, kids' ages…"></textarea>
+          </div>
+
+          <div class="stack" style="gap:.5rem">
+            <div class="msg-preview-label">Your message to Pastor Brian</div>
+            <div class="msg-preview" data-plan-preview></div>
+          </div>
+
+          <a class="btn btn--gold btn--lg btn--block" data-plan-send href="#" role="button">
+            <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true"><path d="M20 2H4a2 2 0 0 0-2 2v18l4-4h14a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2z"/></svg>
+            Text Pastor Brian now
+          </a>
+          <p class="help">This opens your messages with the note above — you can edit anything before you hit send. On a computer? Text <a href="tel:{{business.phone_raw}}">{{business.phone}}</a> or email <a href="mailto:{{business.email}}">{{business.email}}</a>.</p>
+        </div>
+      </div>
+
+      <!-- What happens next -->
+      <div class="split__body stack reveal-right">
+        <span class="eyebrow">What happens next</span>
+        <h2>You won't walk in as a <span class="ti">stranger</span>.</h2>
+        <p class="lede">The hardest part of visiting a new church is the first step. So we made it a conversation, not a crowd.</p>
+        <div class="grid" style="gap:.9rem">
+          <div class="card"><div class="card__icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor" aria-hidden="true"><path d="M20 2H4a2 2 0 0 0-2 2v18l4-4h14a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2z"/></svg></div><h3>A real person</h3><p>Your text goes straight to Pastor Brian — not a form or an inbox no one checks.</p></div>
+          <div class="card"><div class="card__icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor" aria-hidden="true"><path d="M12 21s-7-4.35-9.5-8.5C.9 9.6 2.3 6 5.5 6 7.4 6 8.8 7 12 9.8 15.2 7 16.6 6 18.5 6 21.7 6 23.1 9.6 21.5 12.5 19 16.65 12 21 12 21z"/></svg></div><h3>He'll be expecting you</h3><p>Come Thursday, you'll already have a friendly face who knows your name.</p></div>
+          <div class="card"><div class="card__icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor" aria-hidden="true"><path d="M12 2C8.1 2 5 5.1 5 9c0 5.2 7 13 7 13s7-7.8 7-13c0-3.9-3.1-7-7-7zm0 9.5A2.5 2.5 0 1 1 12 6.5a2.5 2.5 0 0 1 0 5z"/></svg></div><h3>Come as you are</h3><p>We gather upstairs at Mural City Coffee in {{business.address.city}} — casual, warm, and centered on Jesus.</p></div>
+        </div>
+        <div class="btn-row"><a class="btn btn--ghost" href="{{business.map_url}}" target="_blank" rel="noopener">See where we gather</a></div>
+        {{#if social.facebook}}<p class="help">Follow along: <a href="{{social.facebook}}" target="_blank" rel="noopener">Facebook</a>{{#if social.instagram}} · <a href="{{social.instagram}}" target="_blank" rel="noopener">Instagram</a>{{/if}}{{#if social.x}} · <a href="{{social.x}}" target="_blank" rel="noopener">X</a>{{/if}}</p>{{/if}}
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--dark cta-band">
+  <div class="cta-glow" aria-hidden="true"></div>
+  <div class="container stack text-center">
+    <span class="eyebrow mx-auto reveal">Come and see</span>
+    <h2 class="reveal">We saved you a <span class="tg">seat</span>.</h2>
+    <p class="lede mx-auto maxw-680 reveal">See when and where we gather, or get to know the heart behind Arise.</p>
+    <div class="btn-row reveal" style="justify-content:center;margin-top:.6rem">
+      <a class="btn btn--gold btn--lg" href="/gatherings/">See our gatherings</a>
+      <a class="btn btn--on-dark btn--lg" href="/our-story/">Our story</a>
+    </div>
+  </div>
+</section>
+
+<script>window.ARISE_PLAN = { pastorSms: "{{integrations.pastor_sms}}" };</script>
+<script src="/js/plan-visit.js"></script>

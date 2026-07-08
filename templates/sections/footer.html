@@ -1,0 +1,42 @@
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer__grid">
+      <div class="footer__brand">
+        <a class="brand" href="/">
+          <img class="brand__logo" src="/images/logo.webp" width="42" height="42" alt="{{business.name}} logo">
+          <span>{{business.name}}</span>
+        </a>
+        <p>{{business.tagline}} We gather in downtown {{business.address.city}} to follow Jesus, become like Him, and do what He did.</p>
+        <div class="footer__social">
+          {{#if social.facebook}}<a href="{{social.facebook}}" aria-label="Facebook" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M14 9h3l.5-3H14V4.3c0-.9.3-1.5 1.6-1.5H17V.1C16.6 0 15.6 0 14.5 0 12 0 10.3 1.5 10.3 4v2H7.5v3h2.8v8H14V9z"/></svg></a>{{/if}}
+          {{#if social.instagram}}<a href="{{social.instagram}}" aria-label="Instagram" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2.2c3.2 0 3.6 0 4.9.1 1.2.1 1.8.3 2.2.4.6.2 1 .5 1.4.9.4.4.7.8.9 1.4.2.4.4 1 .4 2.2.1 1.3.1 1.7.1 4.9s0 3.6-.1 4.9c-.1 1.2-.3 1.8-.4 2.2-.2.6-.5 1-.9 1.4-.4.4-.8.7-1.4.9-.4.2-1 .4-2.2.4-1.3.1-1.7.1-4.9.1s-3.6 0-4.9-.1c-1.2-.1-1.8-.3-2.2-.4-.6-.2-1-.5-1.4-.9-.4-.4-.7-.8-.9-1.4-.2-.4-.4-1-.4-2.2C2.2 15.6 2.2 15.2 2.2 12s0-3.6.1-4.9c.1-1.2.3-1.8.4-2.2.2-.6.5-1 .9-1.4.4-.4.8-.7 1.4-.9.4-.2 1-.4 2.2-.4C8.4 2.2 8.8 2.2 12 2.2zm0 1.8c-3.1 0-3.5 0-4.7.1-1.1.1-1.7.2-2.1.4-.5.2-.9.4-1.3.8-.4.4-.6.8-.8 1.3-.2.4-.3 1-.4 2.1C2.6 9.9 2.6 10.3 2.6 12s0 2.1.1 3.3c.1 1.1.2 1.7.4 2.1.2.5.4.9.8 1.3.4.4.8.6 1.3.8.4.2 1 .3 2.1.4 1.2.1 1.6.1 4.7.1s3.5 0 4.7-.1c1.1-.1 1.7-.2 2.1-.4.5-.2.9-.4 1.3-.8.4-.4.6-.8.8-1.3.2-.4.3-1 .4-2.1.1-1.2.1-1.6.1-3.3s0-2.1-.1-3.3c-.1-1.1-.2-1.7-.4-2.1-.2-.5-.4-.9-.8-1.3-.4-.4-.8-.6-1.3-.8-.4-.2-1-.3-2.1-.4-1.2-.1-1.6-.1-4.7-.1zm0 3.1a4.9 4.9 0 110 9.8 4.9 4.9 0 010-9.8zm0 8.1a3.2 3.2 0 100-6.4 3.2 3.2 0 000 6.4zm6.3-8.3a1.15 1.15 0 11-2.3 0 1.15 1.15 0 012.3 0z"/></svg></a>{{/if}}
+          {{#if social.x}}<a href="{{social.x}}" aria-label="X" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.5 3h3l-6.6 7.5L21.8 21h-5.9l-4.6-6-5.3 6H3l7-8L2.6 3h6l4.2 5.5L17.5 3zm-1 16h1.7L7.6 4.8H5.8L16.5 19z"/></svg></a>{{/if}}
+        </div>
+      </div>
+
+      <div class="footer__col">
+        <h4>Explore</h4>
+        <ul class="footer__links">
+          {{#each nav_links}}<li><a href="{{this.href}}">{{this.label}}</a></li>{{/each}}
+          <li><a href="/connect/">Plan your visit</a></li>
+        </ul>
+      </div>
+
+      <div class="footer__col">
+        <h4>Gather &amp; Connect</h4>
+        <ul class="footer__links">
+          <li><a href="/gatherings/">Thursdays &middot; 6:00 PM &middot; Mural City Coffee</a></li>
+          <li><a href="tel:{{business.phone_raw}}">{{business.phone}}</a></li>
+          <li><a href="mailto:{{business.email}}">{{business.email}}</a></li>
+          {{#if business.map_url}}<li><a href="{{business.map_url}}" target="_blank" rel="noopener">{{business.address.street}}<br>{{business.address.city}}, {{business.address.state}} {{business.address.zip}}</a></li>{{/if}}
+        </ul>
+      </div>
+    </div>
+
+    <div class="footer__bottom">
+      <span>&copy; {{year}} {{business.name}}. All rights reserved.</span>
+      <span>A Foursquare church plant</span>
+      <span>{{business.tagline}}</span>
+    </div>
+  </div>
+</footer>

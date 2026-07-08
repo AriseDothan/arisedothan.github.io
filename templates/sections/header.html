@@ -1,0 +1,20 @@
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="container site-header__inner">
+    <a class="brand" href="/" aria-label="{{business.name}} home">
+      <img class="brand__logo" src="/images/logo.webp" width="42" height="42" alt="{{business.name}} logo" fetchpriority="high">
+      <span>{{business.name}}</span>
+    </a>
+
+    <nav id="primary-nav" class="nav" aria-label="Primary">
+      {{#each nav_links}}
+      <a class="nav__link" href="{{this.href}}">{{this.label}}</a>
+      {{/each}}
+      <span class="nav__cta"><a class="btn btn--gold" href="/connect/">Plan your visit</a></span>
+    </nav>
+
+    <button class="nav-toggle" type="button" aria-label="Menu" aria-controls="primary-nav" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>

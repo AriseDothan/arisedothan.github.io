@@ -1,0 +1,138 @@
+<section class="hero" id="main">
+  <img class="hero__bg" data-parallax src="/images/wide-1.webp" alt="" aria-hidden="true" fetchpriority="high">
+  <div class="hero__overlay"></div>
+  <div class="hero__sun"></div>
+  <svg class="hero__rays" viewBox="0 0 100 100" fill="none" aria-hidden="true">
+    <g stroke="currentColor" stroke-width="1.4" stroke-linecap="round">
+      <line x1="50" y1="50" x2="50" y2="6"/><line x1="50" y1="50" x2="72" y2="12"/><line x1="50" y1="50" x2="88" y2="28"/>
+      <line x1="50" y1="50" x2="94" y2="50"/><line x1="50" y1="50" x2="88" y2="72"/><line x1="50" y1="50" x2="72" y2="88"/>
+      <line x1="50" y1="50" x2="50" y2="94"/><line x1="50" y1="50" x2="28" y2="88"/><line x1="50" y1="50" x2="12" y2="72"/>
+      <line x1="50" y1="50" x2="6" y2="50"/><line x1="50" y1="50" x2="12" y2="28"/><line x1="50" y1="50" x2="28" y2="12"/>
+    </g>
+  </svg>
+  <div class="ember-field" aria-hidden="true"></div>
+  <div class="container">
+    <div class="hero__inner">
+      <span class="eyebrow">{{cro.home.eyebrow}}</span>
+      <h1>
+        <span class="hero__line">Rise with us in the</span>
+        <span class="hero__line">heart of <span class="tg">Dothan</span>.</span>
+      </h1>
+      <p class="hero__sub">{{cro.home.hero_sub}}</p>
+      <div class="btn-row hero__actions">
+        <a class="btn btn--gold btn--lg btn--pulse" href="/connect/">{{cro.home.cta1_text}}</a>
+        <a class="btn btn--on-dark btn--lg" href="/gatherings/">See our gatherings</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="marquee" aria-hidden="true">
+  <div class="marquee__track">
+    <span class="marquee__item">Follow</span><span class="marquee__item">Become</span><span class="marquee__item">Do</span><span class="marquee__item">There's room for you</span><span class="marquee__item">Come as you are</span><span class="marquee__item">All are welcome</span>
+    <span class="marquee__item">Follow</span><span class="marquee__item">Become</span><span class="marquee__item">Do</span><span class="marquee__item">There's room for you</span><span class="marquee__item">Come as you are</span><span class="marquee__item">All are welcome</span>
+  </div>
+</div>
+
+<section class="section">
+  <div class="container">
+    <div class="split">
+      <div class="split__media reveal-left">
+        <img src="/images/hero-family.webp" alt="The Arise Dothan family gathered together" loading="lazy">
+      </div>
+      <div class="split__body stack reveal-right">
+        <span class="eyebrow">Our heart</span>
+        <h2>A church for the <span class="ti">unchurched</span>, the dechurched, and the over-churched.</h2>
+        <p class="lede">We're a young church plant in downtown Dothan, gathering to pray, open the Scriptures, and follow Jesus together. Wherever you are on the journey, there's room for you here.</p>
+        <p>Our mission is simple — <strong>Follow. Become. Do.</strong> We participate in God's kingdom by multiplying disciples across our city — helping people follow Jesus, become like Him, and do what He did in the Wiregrass.</p>
+        <div class="btn-row"><a class="btn btn--primary" href="/our-story/">Read our story</a></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--warm">
+  <div class="container">
+    <div class="text-center maxw-680 mx-auto stack reveal">
+      <span class="eyebrow mx-auto">Join us</span>
+      <h2>When we <span class="ti">gather</span></h2>
+      <p class="lede">We meet upstairs at Mural City Coffee in downtown Dothan.</p>
+    </div>
+    <div class="times" style="margin-top:2.6rem">
+      {{#each gatherings}}
+      <div class="time-card reveal rd{{@index}}">
+        <div class="time-card__when">{{this.when}}</div>
+        <p style="font-weight:600;margin-top:.3rem">{{this.time}} · {{this.what}}</p>
+        <p class="time-card__what">{{this.detail}}</p>
+      </div>
+      {{/each}}
+    </div>
+    <div class="btn-row" style="justify-content:center;margin-top:2.4rem">
+      <a class="btn btn--primary btn--lg reveal" href="/gatherings/">Plan your visit</a>
+      <a class="btn btn--ghost btn--lg reveal" href="/gatherings/#what-to-expect">New here? See what to expect</a>
+    </div>
+    <div style="margin-top:2.6rem">
+      {{> newsletter}}
+    </div>
+  </div>
+</section>
+
+<section class="section section--dawn">
+  <div class="container">
+    <div class="text-center maxw-680 mx-auto stack reveal">
+      <span class="eyebrow mx-auto">Vision &amp; Mission</span>
+      <h2>What we <span class="ti">see</span> — and what we're doing</h2>
+    </div>
+    <div class="grid grid--2" style="margin-top:2.6rem;max-width:980px;margin-left:auto;margin-right:auto">
+      <div class="card reveal rd1">
+        <span class="eyebrow">{{vision_mission.vision.eyebrow}}</span>
+        <h3>{{{vision_mission.vision.title}}}</h3>
+        <p class="lede">{{vision_mission.vision.lede}}</p>
+        <p>{{vision_mission.vision.text}}</p>
+      </div>
+      <div class="card reveal rd2">
+        <span class="eyebrow">{{vision_mission.mission.eyebrow}}</span>
+        <h3>{{{vision_mission.mission.title}}}</h3>
+        <p class="lede">{{vision_mission.mission.lede}}</p>
+        <p>{{vision_mission.mission.text}}</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--warm">
+  <div class="container">
+    <div class="text-center maxw-680 mx-auto stack reveal">
+      <span class="eyebrow mx-auto">Core Values · Who are we becoming?</span>
+      <h2>Six things that <span class="ti">shape</span> us</h2>
+    </div>
+    <div class="sun-divider reveal"><span></span><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><circle cx="12" cy="12" r="4"/><g stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><line x1="12" y1="2" x2="12" y2="5"/><line x1="12" y1="19" x2="12" y2="22"/><line x1="2" y1="12" x2="5" y2="12"/><line x1="19" y1="12" x2="22" y2="12"/><line x1="5" y1="5" x2="7" y2="7"/><line x1="17" y1="17" x2="19" y2="19"/><line x1="19" y1="5" x2="17" y2="7"/><line x1="7" y1="17" x2="5" y2="19"/></g></svg><span></span></div>
+    <div class="values-grid" style="margin-top:2.2rem">
+      {{#each values}}
+      <div class="value reveal rd{{@index}}"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 21s-7-4.35-9.5-8.5C.9 9.6 2.3 6 5.5 6 7.4 6 8.8 7 12 9.8 15.2 7 16.6 6 18.5 6 21.7 6 23.1 9.6 21.5 12.5 19 16.65 12 21 12 21z"/></svg><span>{{this.title}}</span></div>
+      {{/each}}
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="quote reveal">
+      <blockquote>Arise, shine, for your light has come, and the glory of the Lord rises upon you.</blockquote>
+      <cite>Isaiah 60:1</cite>
+    </div>
+  </div>
+</section>
+
+<section class="section section--dark cta-band">
+  <div class="cta-glow" aria-hidden="true"></div>
+  <div class="container stack text-center">
+    <span class="eyebrow mx-auto reveal">Come and see</span>
+    <h2 class="reveal">There's a <span class="tg">seat</span> saved for you this Thursday.</h2>
+    <p class="lede mx-auto maxw-680 reveal">Take the first step with a quick hello to Pastor Brian — no crowd, no pressure. You'll know a friendly face before you ever walk in.</p>
+    <div class="btn-row reveal" style="justify-content:center;margin-top:.6rem">
+      <a class="btn btn--gold btn--lg" href="/connect/">Text Pastor Brian</a>
+      <a class="btn btn--on-dark btn--lg" href="/gatherings/">See our gatherings</a>
+    </div>
+  </div>
+</section>

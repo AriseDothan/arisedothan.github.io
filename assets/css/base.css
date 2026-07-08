@@ -1,0 +1,148 @@
+/* ============================================================
+   Arise Dothan — base.css
+   Editorial foundation: Fraunces + Jost, reveal system, atmosphere.
+   Brand tokens (--accent cobalt, --gold sunrise, --dark navy, --card2
+   cream, --black ink…) come from /css/variables.css (generateVariablesCSS).
+   Motif: the site rises like dawn.
+   ============================================================ */
+
+:root {
+  /* motion eases */
+  --ease-out-expo: cubic-bezier(.16, 1, .3, 1);
+  --ease-spring: cubic-bezier(.34, 1.4, .64, 1);
+  --ease-out-quart: cubic-bezier(.25, 1, .5, 1);
+
+  /* dawn atmosphere (derived from brand) */
+  --dawn-amber: 224, 166, 78;      /* --gold as rgb */
+  --dawn-cobalt: 27, 79, 200;      /* --accent as rgb */
+  --dawn-rose: 233, 150, 122;
+  --glow-gold: rgba(224, 166, 78, .5);
+
+  /* fluid type scale */
+  --fs-hero: clamp(2.75rem, 6.4vw, 5.25rem);
+  --fs-h2: clamp(1.9rem, 4.2vw, 3.25rem);
+  --fs-h3: clamp(1.25rem, 2.2vw, 1.6rem);
+  --fs-eyebrow: .72rem;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+* { margin: 0; }
+
+html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+
+body {
+  font-family: var(--font-body);
+  color: var(--black);
+  background: var(--white);
+  line-height: 1.72;
+  font-size: 1.05rem;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  overflow-x: hidden;
+}
+
+img, picture, svg, video { display: block; max-width: 100%; height: auto; }
+
+a { color: var(--accent); text-decoration: none; transition: color .2s ease; }
+a:hover { color: var(--accent-dim); }
+
+h1, h2, h3, h4 {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  line-height: 1.04;
+  color: var(--black);
+  letter-spacing: -0.015em;
+  text-wrap: balance;
+}
+h1 { font-size: var(--fs-hero); font-weight: 500; letter-spacing: -0.02em; }
+h2 { font-size: var(--fs-h2); }
+h3 { font-size: var(--fs-h3); font-weight: 600; }
+
+/* the signature: one italic Fraunces word inside a roman headline */
+.ti { font-family: var(--font-accent); font-style: italic; font-weight: 500; color: var(--accent); }
+.tg { font-family: var(--font-accent); font-style: italic; font-weight: 500;
+  background: linear-gradient(100deg, var(--accent) 0%, var(--gold) 55%, var(--accent) 100%);
+  background-size: 200% auto; -webkit-background-clip: text; background-clip: text;
+  -webkit-text-fill-color: transparent; }
+
+strong { font-weight: 600; }
+ul, ol { padding-left: 1.15rem; }
+::selection { background: var(--accent); color: #fff; }
+:focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; border-radius: 4px; }
+
+/* ---- Layout primitives ---- */
+.container { width: 100%; max-width: 1160px; margin-inline: auto; padding-inline: 1.6rem; }
+.container--narrow { max-width: 760px; }
+
+.section { position: relative; padding-block: clamp(4rem, 9vw, 7.5rem); overflow: clip; }
+.section--warm { background: var(--card2); }
+.section--dawn { background:
+  radial-gradient(120% 85% at 82% -10%, rgba(var(--dawn-amber), .14), transparent 58%),
+  radial-gradient(120% 90% at 0% 115%, rgba(var(--dawn-cobalt), .07), transparent 60%),
+  var(--card2); }
+.section--dark { background: var(--dark); color: #e7eefb; }
+.section--dark h1, .section--dark h2, .section--dark h3 { color: #fff; }
+.section--dark p { color: #b8c6df; }
+
+.stack > * + * { margin-top: 1.15rem; }
+.text-center { text-align: center; }
+.mx-auto { margin-inline: auto; }
+.maxw-680 { max-width: 680px; }
+.maxw-760 { max-width: 760px; }
+
+/* ---- Eyebrow with drawing hairline rule (editorial signature) ---- */
+.eyebrow {
+  display: inline-flex; align-items: center; gap: .8rem;
+  font-family: var(--font-body); font-size: var(--fs-eyebrow); font-weight: 600;
+  letter-spacing: .26em; text-transform: uppercase; color: var(--accent);
+}
+.eyebrow::before {
+  content: ""; width: 2.2rem; height: 2px; border-radius: 2px;
+  background: linear-gradient(90deg, var(--gold), transparent);
+  transition: width .7s var(--ease-out-expo) .1s;
+}
+.reveal .eyebrow::before, .eyebrow.reveal::before { }
+.section--dark .eyebrow { color: var(--gold); }
+.lede { font-size: clamp(1.12rem, 1.8vw, 1.35rem); color: var(--muted); line-height: 1.65; font-weight: 400; }
+.section--dark .lede { color: #b8c6df; }
+
+/* ---- Scroll-reveal system (rises like dawn) ---- */
+.reveal { opacity: 0; transform: translateY(30px); transition: opacity .8s var(--ease-out-expo), transform .8s var(--ease-out-expo); }
+.reveal.visible { opacity: 1; transform: none; }
+.reveal-left { opacity: 0; transform: translateX(-42px); transition: opacity .9s var(--ease-out-expo), transform .9s var(--ease-out-expo); }
+.reveal-left.visible { opacity: 1; transform: none; }
+.reveal-right { opacity: 0; transform: translateX(42px); transition: opacity .9s var(--ease-out-expo), transform .9s var(--ease-out-expo); }
+.reveal-right.visible { opacity: 1; transform: none; }
+.reveal-scale { opacity: 0; transform: scale(.94); transition: opacity .9s var(--ease-out-expo), transform .9s var(--ease-out-expo); }
+.reveal-scale.visible { opacity: 1; transform: none; }
+.rd1 { transition-delay: .08s; } .rd2 { transition-delay: .16s; } .rd3 { transition-delay: .24s; }
+.rd4 { transition-delay: .32s; } .rd5 { transition-delay: .40s; } .rd6 { transition-delay: .48s; }
+
+/* ---- Sun divider ---- */
+.sun-divider { display: flex; align-items: center; justify-content: center; gap: .9rem; margin: 1.8rem 0; }
+.sun-divider span { height: 2px; width: min(96px, 22vw); background: linear-gradient(90deg, transparent, var(--gold)); border-radius: 2px; }
+.sun-divider span:last-child { background: linear-gradient(90deg, var(--gold), transparent); }
+.sun-divider svg { width: 26px; height: 26px; color: var(--gold); flex: none; animation: sunSpin 60s linear infinite; }
+
+.skip-link { position: absolute; left: -999px; }
+.skip-link:focus { left: 1rem; top: 1rem; background: var(--accent); color: #fff; padding: .6rem 1rem; border-radius: 8px; z-index: 2000; }
+
+/* ---- Keyframes ---- */
+@keyframes sunSpin { to { transform: rotate(360deg); } }
+@keyframes shimmer { to { background-position: 200% center; } }
+@keyframes emberRise {
+  0% { transform: translateY(0) translateX(0) scale(.5); opacity: 0; }
+  12% { opacity: .75; } 70% { opacity: .5; }
+  100% { transform: translateY(-82vh) translateX(var(--drift, 16px)) scale(1.1); opacity: 0; }
+}
+@keyframes drift { 0%, 100% { transform: translate(0, 0); } 33% { transform: translate(20px, -22px); } 66% { transform: translate(-14px, 14px); } }
+@keyframes dawnOn { 0% { opacity: 0; transform: translateY(16px); filter: none; } 60% { opacity: 1; filter: drop-shadow(0 0 20px rgba(var(--dawn-amber), .5)); } 100% { opacity: 1; filter: drop-shadow(0 0 7px rgba(var(--dawn-amber), .22)); transform: none; } }
+@keyframes ctaGlowPulse { 0%, 100% { opacity: .55; transform: translate(-50%, -50%) scale(1); } 50% { opacity: 1; transform: translate(-50%, -50%) scale(1.08); } }
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  .reveal, .reveal-left, .reveal-right, .reveal-scale { opacity: 1 !important; transform: none !important; transition: none !important; }
+  .sun-divider svg, .ember-field, [data-parallax] { animation: none !important; }
+  * { animation-duration: .001ms !important; animation-iteration-count: 1 !important; }
+}

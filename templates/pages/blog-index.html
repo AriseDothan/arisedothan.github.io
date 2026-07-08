@@ -1,0 +1,76 @@
+<section class="hero" id="main">
+  <img class="hero__bg" data-parallax src="/images/community-3.webp" alt="" aria-hidden="true" fetchpriority="high">
+  <div class="hero__overlay"></div>
+  <div class="hero__sun"></div>
+  <svg class="hero__rays" viewBox="0 0 100 100" fill="none" aria-hidden="true">
+    <g stroke="currentColor" stroke-width="1.4" stroke-linecap="round">
+      <line x1="50" y1="50" x2="50" y2="6"/><line x1="50" y1="50" x2="72" y2="12"/><line x1="50" y1="50" x2="88" y2="28"/>
+      <line x1="50" y1="50" x2="94" y2="50"/><line x1="50" y1="50" x2="88" y2="72"/><line x1="50" y1="50" x2="72" y2="88"/>
+      <line x1="50" y1="50" x2="50" y2="94"/><line x1="50" y1="50" x2="28" y2="88"/><line x1="50" y1="50" x2="12" y2="72"/>
+      <line x1="50" y1="50" x2="6" y2="50"/><line x1="50" y1="50" x2="12" y2="28"/><line x1="50" y1="50" x2="28" y2="12"/>
+    </g>
+  </svg>
+  <div class="ember-field" aria-hidden="true"></div>
+  <div class="container">
+    <div class="hero__inner">
+      <span class="eyebrow">Blog</span>
+      <h1>
+        <span class="hero__line">Stories from a church</span>
+        <span class="hero__line">learning to <span class="tg">rise</span>.</span>
+      </h1>
+      <p class="hero__sub">Reflections on Scripture, vision, and life together as we follow Jesus, become like Him, and do what He did in the Wiregrass.</p>
+    </div>
+  </div>
+</section>
+
+<div class="marquee" aria-hidden="true">
+  <div class="marquee__track">
+    <span class="marquee__item">Follow</span><span class="marquee__item">Become</span><span class="marquee__item">Do</span><span class="marquee__item">There's room for you</span><span class="marquee__item">Come as you are</span><span class="marquee__item">All are welcome</span>
+    <span class="marquee__item">Follow</span><span class="marquee__item">Become</span><span class="marquee__item">Do</span><span class="marquee__item">There's room for you</span><span class="marquee__item">Come as you are</span><span class="marquee__item">All are welcome</span>
+  </div>
+</div>
+
+<section class="section blog-grid-section">
+  <div class="container">
+    {{#if blog_index.categories.length}}
+    <div class="chip-row blog-cats reveal">
+      <a class="chip{{#if blog_index.is_all}} is-active{{/if}}" href="/blog/">All posts</a>
+      {{#each blog_index.categories}}
+      <a class="chip{{#if this.active}} is-active{{/if}}" href="/blog/category/{{this.slug}}/">{{this.name}} <span class="blog-cat-count">{{this.count}}</span></a>
+      {{/each}}
+    </div>
+    {{/if}}
+
+    <div class="blog-grid" style="margin-top:2.4rem">
+      {{#each blog_index.posts}}
+      <a class="blog-card reveal rd{{@index}}" href="/blog/{{this.slug}}/">
+        {{#if this.category}}<span class="blog-card__category">{{this.category}}</span>{{/if}}
+        <h3 class="blog-card__title">{{this.title}}</h3>
+        <p class="blog-card__excerpt">{{this.excerpt}}</p>
+        <span class="blog-card__date">{{this.published_date_display}}</span>
+      </a>
+      {{/each}}
+    </div>
+
+    {{#if blog_index.has_pagination}}
+    <div class="blog-pagination">
+      {{#if blog_index.prev_page}}<a class="btn btn--ghost" href="{{blog_index.prev_page}}">&larr; Newer</a>{{/if}}
+      <span class="blog-pagination-info">Page {{blog_index.current_page}} of {{blog_index.total_pages}}</span>
+      {{#if blog_index.next_page}}<a class="btn btn--ghost" href="{{blog_index.next_page}}">Older &rarr;</a>{{/if}}
+    </div>
+    {{/if}}
+  </div>
+</section>
+
+<section class="section section--dark cta-band">
+  <div class="cta-glow" aria-hidden="true"></div>
+  <div class="container stack text-center">
+    <span class="eyebrow mx-auto reveal">Come and see</span>
+    <h2 class="reveal">There's a seat for you as we <span class="tg">rise</span>.</h2>
+    <p class="lede mx-auto maxw-680 reveal">Wherever you are on the journey, there's room for you here. Come gather with us upstairs at Mural City Coffee.</p>
+    <div class="btn-row reveal" style="justify-content:center;margin-top:.6rem">
+      <a class="btn btn--gold btn--lg" href="/connect/">Text Pastor Brian</a>
+      <a class="btn btn--on-dark btn--lg" href="/gatherings/">See our gatherings</a>
+    </div>
+  </div>
+</section>

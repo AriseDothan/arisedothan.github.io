@@ -1,0 +1,22 @@
+{
+  "name": "arise-sites",
+  "version": "1.0.0",
+  "description": "Static website builder for Arise Dothan — Handlebars templates + JSON config, built to static HTML and deployed to GitHub Pages.",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build": "node build.js --all",
+    "build:arise": "node build.js arise-dothan",
+    "clean": "rm -rf dist"
+  },
+  "dependencies": {
+    "clean-css": "^5.3.3",
+    "handlebars": "^4.7.8",
+    "html-minifier-terser": "^7.2.0",
+    "marked": "^18.0.5",
+    "sharp": "^0.34.5",
+    "terser": "^5.31.0",
+    "yaml": "^2.9.0"
+  }
+}

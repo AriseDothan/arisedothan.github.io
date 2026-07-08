@@ -1,0 +1,53 @@
+<section class="section section--dark blog-post-hero" id="main">
+  <div class="cta-glow" aria-hidden="true"></div>
+  <div class="container">
+    <a class="blog-back-link reveal" href="/blog/">&larr; Back to Blog</a>
+    <div class="stack">
+      <span class="eyebrow reveal">{{#if blog.category}}{{blog.category}}{{else}}Blog{{/if}}</span>
+      <h1 class="reveal">{{blog.title}}</h1>
+      <div class="blog-meta-top reveal">
+        <time datetime="{{blog.published_at}}">{{blog.published_date_display}}</time>
+        {{#if blog.author}}<span>&middot; {{blog.author}}</span>{{/if}}
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section blog-article">
+  <div class="container">
+    <div class="blog-content reveal">
+      {{{blog.content}}}
+    </div>
+
+    <div class="blog-nav-bottom">
+      <a class="btn btn--ghost" href="/blog/">&larr; All posts</a>
+      <a class="btn btn--primary" href="/connect/">Text Pastor Brian</a>
+    </div>
+  </div>
+</section>
+
+<section class="section section--dark cta-band">
+  <div class="cta-glow" aria-hidden="true"></div>
+  <div class="container stack text-center">
+    <span class="eyebrow mx-auto reveal">Come and see</span>
+    <h2 class="reveal">There's a seat for you as we <span class="tg">rise</span>.</h2>
+    <p class="lede mx-auto maxw-680 reveal">Wherever you are on the journey, there's room for you here. Come gather with us upstairs at Mural City Coffee.</p>
+    <div class="btn-row reveal" style="justify-content:center;margin-top:.6rem">
+      <a class="btn btn--gold btn--lg" href="/connect/">Text Pastor Brian</a>
+      <a class="btn btn--on-dark btn--lg" href="/gatherings/">See our gatherings</a>
+    </div>
+  </div>
+</section>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "{{blog.title}}",
+  "datePublished": "{{blog.published_at}}",
+  "description": "{{blog.meta_description}}",
+  "author": { "@type": "Person", "name": "{{#if blog.author}}{{blog.author}}{{else}}{{business.name}}{{/if}}" },
+  "publisher": { "@type": "Organization", "name": "{{business.name}}" },
+  "mainEntityOfPage": "https://{{domain}}/blog/{{blog.slug}}/"
+}
+</script>
