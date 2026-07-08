@@ -50,7 +50,6 @@
     "giving_api_url": "https://arise-giving-api.onrender.com",
     "stripe_publishable_key": "pk_live_PLACEHOLDER_CONFIRM_WITH_ARISE",
     "contact_endpoint": "PLACEHOLDER_SUPABASE_OR_EMAIL_RELAY",
-    "newsletter_endpoint": "https://formsubmit.co/ajax/info@arisedothan.com",
     "_pastor_sms_note": "CONFIRMED (Christian, 2026-07-02): this is Pastor Brian's personal cell — the plan-visit composer and all 'Text Pastor Brian' sms: links open Messages pre-filled to this number. E.164 format with +1.",
     "pastor_sms": "+13342161587"
   },
