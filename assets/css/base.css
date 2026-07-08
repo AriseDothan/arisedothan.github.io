@@ -13,10 +13,10 @@
   --ease-out-quart: cubic-bezier(.25, 1, .5, 1);
 
   /* dawn atmosphere (derived from brand) */
-  --dawn-amber: 224, 166, 78;      /* --gold as rgb */
-  --dawn-cobalt: 27, 79, 200;      /* --accent as rgb */
+  --dawn-amber: 188, 105, 7;      /* --gold as rgb */
+  --dawn-cobalt: 7, 82, 188;      /* --accent as rgb */
   --dawn-rose: 233, 150, 122;
-  --glow-gold: rgba(224, 166, 78, .5);
+  --glow-gold: rgba(188, 105, 7, .5);
 
   /* fluid type scale */
   --fs-hero: clamp(2.75rem, 6.4vw, 5.25rem);

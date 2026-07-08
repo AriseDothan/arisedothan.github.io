@@ -29,7 +29,7 @@
   "branding": {
     "logo": "/images/logo.webp",
     "logo_text": "Arise Dothan",
-    "colors": { "primary": "#1b4fc8", "accent": "#e0a64e", "dark": "#0a1a2e", "black": "#0e1726" }
+    "colors": { "primary": "#0752BC", "accent": "#BC6907", "dark": "#0A1A2E", "black": "#0A1A2E" }
   },
 
   "seo": {

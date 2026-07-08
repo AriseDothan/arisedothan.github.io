@@ -49,10 +49,10 @@
 .blog-card {
   display: flex; flex-direction: column; background: var(--card); border: 1px solid var(--border);
   border-radius: 18px; padding: 1.9rem; text-decoration: none; color: inherit;
-  box-shadow: 0 2px 12px rgba(14,23,38,.04);
+  box-shadow: 0 2px 12px rgba(10,26,46,.04);
   transition: transform .35s var(--ease-out-quart), box-shadow .35s, border-color .35s;
 }
-.blog-card:hover { transform: translateY(-6px); border-color: var(--border-hover); box-shadow: 0 22px 46px rgba(14,23,38,.12); color: inherit; }
+.blog-card:hover { transform: translateY(-6px); border-color: var(--border-hover); box-shadow: 0 22px 46px rgba(10,26,46,.12); color: inherit; }
 .blog-card__category {
   font-size: .7rem; letter-spacing: .18em; text-transform: uppercase; font-weight: 600;
   color: var(--accent); margin-bottom: .8rem;
