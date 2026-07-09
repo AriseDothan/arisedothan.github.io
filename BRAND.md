@@ -12,11 +12,39 @@ always trace back to these values.
 | Arise Blue | `#0752BC` | Primary brand color | `--accent` |
 | Arise White | `#FFFFFF` | Clean backgrounds / contrast | `--card`, `--white` |
 | Dawn Gold | `#BC6907` | Accent / mission highlights | `--gold` |
-| Morning Sky | `#B3D1F6` | Soft backgrounds | `--accent-glow` (used as a translucent tint, `rgba(179, 209, 246, .45)`, to preserve the existing soft-glow look on icon circles and input focus rings) |
-| Early Light | `#E6F0FC` | Light website sections | `--card2` |
-| Deep Midnight | `#0A1A2E` | Text / stability | `--dark`, `--black` (unified — see note below) |
+| Morning Sky | `#B3D1F6` | Soft backgrounds | not currently used as a flat swatch — see cream exception below |
+| Early Light | `#E6F0FC` | Light website sections | not currently used — see cream exception below |
+| Deep Midnight | `#0A1A2E` | Text / stability | `--dark`, `--black` (unified — previously two near-identical near-blacks) |
 | Warm Charcoal | `#2E2E2E` | Utility / body text | `--muted` |
-| Soft Gray | `#CCCCCC` | Minimal lines / forms | `--border` |
+| Soft Gray | `#CCCCCC` | Minimal lines / forms | not currently used — see cream exception below |
+
+### Deliberate exception: legacy warm cream retained for section backgrounds
+
+Brian's call: the site keeps its original warm cream instead of switching to
+Early Light / Soft Gray for section backgrounds and borders. Everything else
+in this doc (Arise Blue, Dawn Gold, Deep Midnight, Warm Charcoal) is the
+official value as specified.
+
+- `--card2` (light section backgrounds, e.g. "When we gather", the dawn
+  gradient sections, the newsletter/msg-preview cards) = `#fdf6ee` (the
+  original cream), **not** Early Light `#E6F0FC`.
+- `--border` / `--border-hover` (card, form, and divider lines) =
+  `#e6e2d9` / `#cbb48c` (the original warm tan tones), **not** Soft Gray
+  `#CCCCCC`. These sit on both white and cream backgrounds throughout the
+  site, and the warm tone reads better against cream than a cool gray does —
+  Soft Gray remains the official spec on paper, but isn't applied here.
+- `--accent-glow` (soft translucent backgrounds behind icon circles + input
+  focus rings) = a translucent tint of the *current* Arise Blue,
+  `rgba(7, 82, 188, .20)` — the same "accent at low alpha" pattern the site
+  used before the rebrand, just re-derived from the new blue. Not tied to
+  Morning Sky: those icon circles render on white cards (`--card`), not
+  directly on the cream `--card2`, so a flat Morning Sky swatch was never
+  actually needed here, and a blue-on-cream flat fill risked looking muddy
+  next to the restored cream sections. Verified visually — no clash.
+
+If a lighter blue-tinted background is ever wanted for a *new* component
+sitting on white, `#B3D1F6` / `#E6F0FC` / `#CCCCCC` are the correct official
+values to reach for — they're just not in use on the current page set.
 
 ### Notes on values without a direct official swatch
 
@@ -25,8 +53,6 @@ to stay in the same family rather than left on the old (pre-rebrand) hex:
 
 - `--accent-dim` (`#053E8D`) — a darker shade of Arise Blue, used for link/button
   hover states.
-- `--border-hover` (`#999999`) — a darker neutral gray than Soft Gray, used for
-  hover states on card/ghost-button borders.
 - `--muted2` (`#6B6B6B`) — a lighter neutral gray than Warm Charcoal, used for
   de-emphasized secondary text (captions, footer fine print).
 - `--orange` (`#d5813f`) — unchanged. A decorative-only accent used once (the
@@ -71,4 +97,7 @@ wired into the current site's design tokens.
   `--gold` / `--accent` by hand if those values change again.
 - `scripts/publish-post.js` inline-styles the publish emails independently
   (email clients don't support external stylesheets or CSS custom
-  properties) — keep its hardcoded hex values in sync with this palette too.
+  properties) — keep its hardcoded hex values in sync with this palette too,
+  including the cream exception (its background/footer use `#fdf6ee` /
+  `#e6e2d9` to match the site's `--card2`/`--border`, not Early Light/Soft
+  Gray).

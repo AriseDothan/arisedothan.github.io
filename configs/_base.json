@@ -1,18 +1,18 @@
 {
   "_comment": "Base config deep-merged UNDER every site config (build.js loadConfig → deepMerge). Put ONLY cross-site defaults here: branding tokens + fonts + shared nav. Arrays (nav_links) are REPLACED wholesale by a site config that redefines them, not merged.",
 
-  "_branding_note": "Official Arise Dothan brand palette (see BRAND.md for the full palette incl. ministry sub-brand colors, not used site-wide). KEY NAMES are load-bearing — generateVariablesCSS() maps each to a :root CSS var (accent→--accent, gold→--gold, black→--black, font_heading→--font-heading, …) that the stylesheets reference. Keep the keys; change values only.",
+  "_branding_note": "Official Arise Dothan brand palette (see BRAND.md for the full palette incl. ministry sub-brand colors, not used site-wide, and the deliberate cream exception). KEY NAMES are load-bearing — generateVariablesCSS() maps each to a :root CSS var (accent→--accent, gold→--gold, black→--black, font_heading→--font-heading, …) that the stylesheets reference. Keep the keys; change values only.",
   "branding": {
     "black": "#0A1A2E",
     "charcoal": "#14233a",
     "dark": "#0A1A2E",
     "card": "#FFFFFF",
-    "card2": "#E6F0FC",
-    "border": "#CCCCCC",
-    "border_hover": "#999999",
+    "card2": "#fdf6ee",
+    "border": "#e6e2d9",
+    "border_hover": "#cbb48c",
     "accent": "#0752BC",
     "accent_dim": "#053E8D",
-    "accent_glow": "rgba(179, 209, 246, 0.45)",
+    "accent_glow": "rgba(7, 82, 188, 0.20)",
     "gold": "#BC6907",
     "orange": "#d5813f",
     "white": "#FFFFFF",
