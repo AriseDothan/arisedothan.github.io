@@ -50,6 +50,8 @@
     "giving_api_url": "https://arise-giving-api.onrender.com",
     "stripe_publishable_key": "pk_live_PLACEHOLDER_CONFIRM_WITH_ARISE",
     "contact_endpoint": "PLACEHOLDER_SUPABASE_OR_EMAIL_RELAY",
+    "_newsletter_endpoint_note": "GoHighLevel inbound webhook for the 'Website Email Signup' workflow (published). Maps email/first_name/source into a GHL contact.",
+    "newsletter_endpoint": "https://services.leadconnectorhq.com/hooks/osffbIttYxRN16oAnv5P/webhook-trigger/c3b25672-6532-4de5-a774-3c788b3d17c7",
     "_pastor_sms_note": "CONFIRMED (Christian, 2026-07-02): this is Pastor Brian's personal cell — the plan-visit composer and all 'Text Pastor Brian' sms: links open Messages pre-filled to this number. E.164 format with +1.",
     "pastor_sms": "+13342161587"
   },

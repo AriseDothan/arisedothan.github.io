@@ -220,7 +220,7 @@
 .section--dark .brian-band__body p { color: #b8c6df; }
 .section--dark .brian-band__avatar::after { border-color: var(--dark); }
 
-/* ---- Newsletter signup band (email capture via embedded GHL form) ---- */
+/* ---- Newsletter signup band (email capture, form-handler.js) ---- */
 .newsletter-band { display: flex; align-items: center; gap: 1.6rem; flex-wrap: wrap;
   background: var(--card); border: 1px solid var(--border); border-radius: 20px;
   padding: 1.8rem 2rem; box-shadow: 0 18px 44px rgba(10,26,46,.1); position: relative; overflow: hidden; }
@@ -233,10 +233,10 @@
 .newsletter-band__body h3 { margin-bottom: .25rem; }
 .newsletter-band__body p { color: var(--muted); font-size: .95rem; }
 .newsletter-band__form { flex: 1 1 320px; min-width: 260px; }
-.newsletter-band__iframe { display: block; width: 100%; height: 150px; border: none; }
-@media (max-width: 480px) {
-  .newsletter-band__iframe { height: 190px; }
-}
+.newsletter-band__row { display: flex; gap: .7rem; flex-wrap: wrap; }
+.newsletter-band__row .input { flex: 1 1 200px; }
+.newsletter-hp { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+.newsletter-band .form-status { margin-top: .6rem; font-size: .88rem; }
 .section--dark .newsletter-band { background: rgba(255,255,255,.06); border-color: rgba(255,255,255,.14); }
 .section--dark .newsletter-band__body h3 { color: #fff; }
 .section--dark .newsletter-band__body p { color: #b8c6df; }
