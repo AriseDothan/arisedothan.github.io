@@ -7,3 +7,5 @@ dist/
 npm-debug.log*
 .wrangler/
 deployed-mirror/
+.tunnel-url
+.preview-keepalive.pid
