@@ -2,6 +2,7 @@
 title: "Arise, Shine: Why We're Planting Arise Dothan"
 slug: arise-shine-why-were-planting-arise-dothan
 published_at: "2026-07-06"
+draft: true
 author: "Pastor Brian"
 excerpt: "Isaiah 60:1 gave us our name and our why. Here's the vision behind Arise Dothan — and where we are in the journey right now."
 ---
@@ -28,7 +29,7 @@ We live that out through three Kingdom Rhythms, and I want you to know them by n
 
 **Move In — Community.** Right now, this is where we live. Every Thursday at 6:00 PM, upstairs at Mural City Coffee, we gather as a Disciple Making Community — a smaller group doing the slow work of following Jesus together: shared life, Scripture, prayer, hospitality, accountability, mutual encouragement. This isn't a placeholder. It's how a launch team gets built, one honest Thursday at a time.
 
-**Move Out — Mission.** On the second Saturday of every month, we serve alongside Love in Action Ministries here in Dothan and the Wiregrass. We don't want to be a people who are only gathered — we want to be a people who are sent, carrying whatever we've received back out into the city.
+**Move Out — Mission.** On the second Saturday of every month, we move out together to serve Dothan and the Wiregrass. We don't want to be a people who are only gathered — we want to be a people who are sent, carrying whatever we've received back out into the city.
 
 **Move Up — Worship.** This is where we're headed. Sunday morning worship gatherings — a whole city invited to worship Jesus, encounter His presence, and be formed by Scripture and the Holy Spirit — launch once our core team is formed. We're not there yet, and I want to be honest about that. But worship isn't waiting on a launch date. It's already woven through our Thursdays, growing toward the morning we get to do this with all of Dothan.
 
@@ -36,7 +37,7 @@ Community. Mission. Worship coming. Move In, Move Out, and Move Up — that's th
 
 ## What season we're in
 
-We're young and we're small, and I'm not going to pretend otherwise. We're a launch team in the making — not yet a Sunday morning church, but building toward one with real intention. Every Thursday, our Disciple Making Community gathers for coffee, prayer, Scripture, and honest conversation. Every second Saturday, we serve alongside Love in Action. That's the whole rhythm right now, and it's enough to build something real on.
+We're young and we're small, and I'm not going to pretend otherwise. We're a launch team in the making — not yet a Sunday morning church, but building toward one with real intention. Every Thursday, our Disciple Making Community gathers for coffee, prayer, Scripture, and honest conversation. Every second Saturday, we move out together to serve our city. That's the whole rhythm right now, and it's enough to build something real on.
 
 It's not flashy. There's no fog machine, no big stage. What there is: real people, an open Bible, and a growing conviction that God is doing something in this city that's bigger than our upstairs room. Every dawn starts small. We're praying this is one of those mornings.
 

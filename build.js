@@ -939,18 +939,7 @@ function loadBlogCategories(posts) {
 
 async function buildBlogPages(config, templatesDir, outputDir, context, baseLayout) {
   const posts = loadBlogPosts(config);
-  if (posts.length === 0) {
-    const blogDir = config.blog_content_dir || 'content/blog';
-    console.log(`  BLOG: No blog posts found in ${blogDir}/, skipping`);
-    return [];
-  }
-
-  console.log(`\n  BLOG: Building ${posts.length} blog posts...`);
-
-  const categories = loadBlogCategories(posts);
-  const catList = Object.entries(categories).map(([name, info]) => ({
-    name, slug: info.slug, count: info.count
-  })).sort((a, b) => b.count - a.count);
+  const blogDir = config.blog_content_dir || 'content/blog';
 
   // Load blog templates
   const postTemplateSrc = loadTemplate(templatesDir, 'pages/blog-post.html');
@@ -960,6 +949,20 @@ async function buildBlogPages(config, templatesDir, outputDir, context, baseLayo
     console.log('  BLOG: Missing blog templates, skipping');
     return [];
   }
+
+  // Zero published posts (all drafts/future, or none written yet) still gets
+  // a /blog/ index page — it renders an empty state via blog-index.html
+  // rather than 404ing, since "Blog" is a permanent nav link.
+  if (posts.length === 0) {
+    console.log(`  BLOG: No published posts in ${blogDir}/ — building an empty blog index`);
+  } else {
+    console.log(`\n  BLOG: Building ${posts.length} blog posts...`);
+  }
+
+  const categories = loadBlogCategories(posts);
+  const catList = Object.entries(categories).map(([name, info]) => ({
+    name, slug: info.slug, count: info.count
+  })).sort((a, b) => b.count - a.count);
 
   const postTemplate = Handlebars.compile(postTemplateSrc);
   const indexTemplate = Handlebars.compile(indexTemplateSrc);
@@ -1010,7 +1013,9 @@ async function buildBlogPages(config, templatesDir, outputDir, context, baseLayo
   console.log(`  BLOG: ${built} post pages built (${noindexCount} noindexed, ${built - noindexCount} in sitemap)`);
 
   // ── Build paginated index pages ──
-  const totalPages = Math.ceil(posts.length / POSTS_PER_PAGE);
+  // At least 1 page always builds, even with 0 posts, so /blog/ renders the
+  // empty state instead of never being written (Math.ceil(0/30) is 0).
+  const totalPages = Math.max(1, Math.ceil(posts.length / POSTS_PER_PAGE));
 
   for (let pageNum = 1; pageNum <= totalPages; pageNum++) {
     const startIdx = (pageNum - 1) * POSTS_PER_PAGE;

@@ -32,6 +32,7 @@
 
 <section class="section blog-grid-section">
   <div class="container">
+    {{#if blog_index.posts.length}}
     {{#if blog_index.categories.length}}
     <div class="chip-row blog-cats reveal">
       <a class="chip{{#if blog_index.is_all}} is-active{{/if}}" href="/blog/">All posts</a>
@@ -57,6 +58,16 @@
       {{#if blog_index.prev_page}}<a class="btn btn--ghost" href="{{blog_index.prev_page}}">&larr; Newer</a>{{/if}}
       <span class="blog-pagination-info">Page {{blog_index.current_page}} of {{blog_index.total_pages}}</span>
       {{#if blog_index.next_page}}<a class="btn btn--ghost" href="{{blog_index.next_page}}">Older &rarr;</a>{{/if}}
+    </div>
+    {{/if}}
+    {{else}}
+    <div class="text-center maxw-680 mx-auto stack reveal">
+      <span class="eyebrow mx-auto">Coming soon</span>
+      <h2>Fresh words are <span class="ti">coming</span>.</h2>
+      <p class="lede">Our first posts are on the way. Sign up below to be the first to read them.</p>
+    </div>
+    <div style="margin-top:2.4rem;max-width:680px;margin-inline:auto">
+      {{> newsletter}}
     </div>
     {{/if}}
   </div>

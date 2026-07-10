@@ -21,7 +21,7 @@ Here's what I don't want you to hear: "worship is coming later, so it doesn't ma
 
 ## Why we're building this way
 
-I could try to gather a crowd for a Sunday morning tomorrow. I'm not going to. A church plant that skips the slow work of forming a team and jumps straight to a public gathering is building on sand. We're doing this in order: Move In first — a launch team that actually knows how to walk with Jesus and with each other. Move Out alongside that — serving Dothan through Love in Action so mission isn't an afterthought either. And then Move Up: a Sunday worship gathering carried by people who've already learned what it means to worship together, not a group starting from zero in front of a crowd.
+I could try to gather a crowd for a Sunday morning tomorrow. I'm not going to. A church plant that skips the slow work of forming a team and jumps straight to a public gathering is building on sand. We're doing this in order: Move In first — a launch team that actually knows how to walk with Jesus and with each other. Move Out alongside that — moving out together to serve Dothan so mission isn't an afterthought either. And then Move Up: a Sunday worship gathering carried by people who've already learned what it means to worship together, not a group starting from zero in front of a crowd.
 
 ## What Sunday will actually be
 
