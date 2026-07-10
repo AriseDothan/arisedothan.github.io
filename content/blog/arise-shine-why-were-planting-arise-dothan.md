@@ -26,7 +26,7 @@ Everything we do traces back to three words: **Follow. Become. Do.** We want to 
 
 We live that out through three movements, and I want you to know them by name because you'll hear us talk about them often:
 
-**Move Up — Worship.** We gather to worship Jesus, encounter God's presence, and be formed by Scripture and the Holy Spirit. Before anything else, we're a people who come face-to-face with God. Everything else we do flows out of that gathering.
+**Move Up — Worship.** We gather to worship Jesus, encounter God's presence, and be formed by Scripture and the Holy Spirit. Before anything else, we're a people who come face-to-face with God. Everything else we do flows out of that. We're in a pre-launch season right now, so our full Sunday morning worship gatherings are still ahead — but worship isn't waiting on that date. It's already woven through the smaller, relational gathering we have now, building toward the Sunday we're praying toward.
 
 **Move In — Community.** We grow together in authentic disciple-making communities through shared life, Scripture, prayer, hospitality, accountability, and mutual encouragement as we follow Jesus and become like Him. Faith was never meant to be a solo pursuit. We need each other — the coffee-table conversations as much as the Sunday-morning ones.
 
@@ -36,7 +36,7 @@ Worship. Community. Mission. Up, in, and out. That's the rhythm of Arise Dothan,
 
 ## What this actually looks like right now
 
-We're young and we're small, and I'm not going to pretend otherwise. Right now, "church" for us means gathering upstairs at Mural City Coffee in downtown Dothan every Thursday at 6:00 PM — coffee, prayer, Scripture, and honest conversation. Once a month, on the second Saturday, we serve alongside Love in Action Ministries because Move Out has to be more than a phrase on a page.
+We're young and we're small, and I'm not going to pretend otherwise. Right now, we're a launch team in the making, not yet a Sunday morning church — that's still ahead of us. What we have today is our Disciple Making Community: a smaller group gathering upstairs at Mural City Coffee in downtown Dothan every Thursday at 6:00 PM — coffee, prayer, Scripture, and honest conversation. It's where worship and community are already taking shape, before we ever open a Sunday to the whole city. Once a month, on the second Saturday, we serve alongside Love in Action Ministries because Move Out has to be more than a phrase on a page.
 
 It's not flashy. There's no fog machine, no big stage. What there is: real people, an open Bible, and a growing conviction that God is doing something in this city that's bigger than our upstairs room. Every dawn starts small. We're praying this is one of those mornings.
 

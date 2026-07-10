@@ -6,7 +6,7 @@ author: "Pastor Brian"
 excerpt: "Move Out is the last of our Kingdom Rhythms — how worship and community spill out into serving Dothan alongside Love in Action Ministries."
 ---
 
-This is the third post in a short series on what we call our Kingdom Rhythms — the three movements that shape life at Arise Dothan. We started with Move Up, worship, because that's where everything begins. Then Move In, community, because worship spills into how we treat each other. Now Move Out: mission. This is where all of it turns outward, toward Dothan.
+This is the third post in a short series on what we call our Kingdom Rhythms — the three movements that shape life at Arise Dothan. We started with Move Up, worship — already central to who we are now, and building toward the Sunday morning gatherings still ahead of us. Then Move In, our Thursday Disciple Making Community, because worship spills into how we treat each other. Now Move Out: mission. This is where all of it turns outward, toward Dothan.
 
 ## A church that only moves up and in eventually turns inward
 
@@ -14,7 +14,7 @@ I've said this before and I believe it more every week: a church that only moves
 
 ## What Move Out looks like right now
 
-We're young and we're small, so I want to be honest about scale — we're not running a dozen ministries yet. But once a month, on the second Saturday, we serve alongside Love in Action Ministries here in Dothan and the Wiregrass. It's not flashy. It's showing up, doing the work, and loving people in Jesus' name without needing credit for it. That's Move Out in its simplest form: taking whatever we've received on Thursday nights — the worship, the community, the encouragement — and carrying it back out into the city.
+We're young and we're small, so I want to be honest about scale — we're not running a dozen ministries yet. But once a month, on the second Saturday, we serve alongside Love in Action Ministries here in Dothan and the Wiregrass. It's not flashy. It's showing up, doing the work, and loving people in Jesus' name without needing credit for it. That's Move Out in its simplest form: taking whatever we've received in our Disciple Making Community on Thursday nights — worship, community, encouragement — and carrying it back out into the city.
 
 ## Sharing the gospel, not just serving
 
@@ -26,7 +26,7 @@ The last piece of Move Out is multiplying disciples — helping the people we se
 
 ## An invitation
 
-If you've been looking for a way to serve that isn't tied to a huge commitment, our monthly Love in Action Saturday is a great low-key place to start — ask us through Connect and we'll get you the details for this month. Or, if you want to see where this all starts, come to a Thursday gathering first. Worship, then community, then mission — that's the rhythm, and there's room for you at every part of it.
+If you've been looking for a way to serve that isn't tied to a huge commitment, our monthly Love in Action Saturday is a great low-key place to start — ask us through Connect and we'll get you the details for this month. Or, if you want to see where this all starts, come to a Thursday Disciple Making Community gathering first. Worship, community, mission — that's the rhythm we're living now, and it's building toward the day our doors open wide on Sunday mornings too.
 
 The glory of the Lord is rising over Dothan. Come move up, move in, and move out with us.
 
