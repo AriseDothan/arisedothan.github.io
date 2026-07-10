@@ -4,6 +4,12 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  schedule:
+    # 13:05 UTC ≈ 8:05 AM Central — daily rebuild so scheduled blog posts
+    # (content/blog/*.md with a future published_at) go live automatically
+    # on their date without a manual push. See build.js's BUILD_DATE-aware
+    # future-post filtering.
+    - cron: '5 13 * * *'
 
 permissions:
   contents: read

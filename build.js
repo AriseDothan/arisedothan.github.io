@@ -853,6 +853,16 @@ function excerptFromHtml(html, maxLen = 160) {
   return text.slice(0, text.lastIndexOf(' ', maxLen)).trim() + '…';
 }
 
+// Build date used to decide which posts are "live" yet. Defaults to the
+// real current date; override with BUILD_DATE=YYYY-MM-DD for testing a
+// future date without editing post frontmatter or waiting for the day to
+// arrive. Compared at UTC day granularity so a post goes live the moment
+// its published_at date arrives, regardless of server timezone/time-of-day.
+function getBuildDateUTC() {
+  const raw = process.env.BUILD_DATE ? new Date(process.env.BUILD_DATE) : new Date();
+  return Date.UTC(raw.getUTCFullYear(), raw.getUTCMonth(), raw.getUTCDate());
+}
+
 function loadBlogPosts(config) {
   // Support per-site blog content directory via config.blog_content_dir
   const blogDir = config && config.blog_content_dir
@@ -864,6 +874,7 @@ function loadBlogPosts(config) {
   const files = fs.readdirSync(blogDir)
     .filter(f => f.endsWith('.md') && !f.startsWith('_'));
 
+  const buildDateUTC = getBuildDateUTC();
   const posts = [];
   for (const file of files) {
     try {
@@ -877,11 +888,17 @@ function loadBlogPosts(config) {
       const bodyMd = match[2] || '';
 
       data.slug = data.slug || slugify(file.replace(/\.md$/, ''));
+
+      const d = new Date(data.published_at);
+      const postDateUTC = Date.UTC(d.getUTCFullYear(), d.getUTCMonth(), d.getUTCDate());
+      if (data.published_at && postDateUTC > buildDateUTC) {
+        console.log(`  BLOG: blog/${file} is scheduled for ${data.published_at} — not live yet, excluding`);
+        continue;
+      }
+
       data.content = marked.parse(bodyMd.trim());
       data.excerpt = data.excerpt || excerptFromHtml(data.content);
       data.meta_description = data.meta_description || data.excerpt;
-
-      const d = new Date(data.published_at);
       data.published_date_display = d.toLocaleDateString('en-US', {
         year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC'
       });
