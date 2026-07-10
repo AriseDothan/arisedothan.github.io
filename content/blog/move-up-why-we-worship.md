@@ -2,6 +2,7 @@
 title: "Move Up: Why We Worship"
 slug: move-up-why-we-worship
 published_at: "2026-07-14"
+draft: true
 author: "Pastor Brian"
 excerpt: "Move Up is our third Kingdom Rhythm — the Sunday morning worship gathering we're building toward, and why it's worth doing right instead of rushing."
 ---

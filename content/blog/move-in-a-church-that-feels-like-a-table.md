@@ -2,6 +2,7 @@
 title: "Move In: A Church That Feels Like a Table"
 slug: move-in-a-church-that-feels-like-a-table
 published_at: "2026-07-21"
+draft: true
 author: "Pastor Brian"
 excerpt: "Move In is our current core rhythm — Thursday Disciple Making Communities where we're making disciples and building the launch team, one table at a time."
 ---

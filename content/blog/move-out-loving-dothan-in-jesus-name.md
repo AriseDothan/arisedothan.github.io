@@ -2,6 +2,7 @@
 title: "Move Out: Loving Dothan in Jesus' Name"
 slug: move-out-loving-dothan-in-jesus-name
 published_at: "2026-07-28"
+draft: true
 author: "Pastor Brian"
 excerpt: "Move Out is our concrete monthly rhythm of mission — the 2nd Saturday of every month, serving Dothan alongside Love in Action."
 ---

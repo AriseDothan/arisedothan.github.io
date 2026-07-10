@@ -889,6 +889,15 @@ function loadBlogPosts(config) {
 
       data.slug = data.slug || slugify(file.replace(/\.md$/, ''));
 
+      // draft: true fully excludes a post from the build — no page, no
+      // index/sitemap/llms.txt entry — regardless of published_at. Use this
+      // to hold a scheduled post without losing its intended date; a fake
+      // future date would also hide it, but draft is unambiguous about why.
+      if (data.draft) {
+        console.log(`  BLOG: blog/${file} is a draft — excluding`);
+        continue;
+      }
+
       const d = new Date(data.published_at);
       const postDateUTC = Date.UTC(d.getUTCFullYear(), d.getUTCMonth(), d.getUTCDate());
       if (data.published_at && postDateUTC > buildDateUTC) {
@@ -902,7 +911,7 @@ function loadBlogPosts(config) {
       data.published_date_display = d.toLocaleDateString('en-US', {
         year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC'
       });
-      data._noindex = !!data.draft || !!data.noindex;
+      data._noindex = !!data.noindex;
       posts.push(data);
     } catch (e) {
       console.log(`  WARN: Could not parse blog/${file}: ${e.message}`);
