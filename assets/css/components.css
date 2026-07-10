@@ -35,6 +35,9 @@
 @keyframes ctaIdleGlow { 0%, 100% { box-shadow: 0 8px 22px rgba(var(--dawn-amber), .34); } 50% { box-shadow: 0 12px 34px rgba(var(--dawn-amber), .5), 0 0 0 1px rgba(var(--dawn-amber), .25); } }
 .btn--pulse { animation: ctaIdleGlow 3.6s ease-in-out infinite; }
 
+/* ---- Mobile sticky "Text Pastor Brian" ---- */
+.sticky-cta { display: none; }
+
 /* ---- Header (glass condense) ---- */
 .site-header { position: sticky; top: 0; z-index: 100;
   background: rgba(255,255,255,.72); backdrop-filter: saturate(160%) blur(18px); -webkit-backdrop-filter: saturate(160%) blur(18px);

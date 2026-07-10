@@ -64,6 +64,10 @@
 
 {{> footer}}
 
+{{#unless (eq page.path "/connect/")}}
+{{> sticky-cta}}
+{{/unless}}
+
 <!-- Scripts -->
 <script src="/js/main.js"></script>
 <script src="/js/motion.js"></script>

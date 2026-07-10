@@ -36,6 +36,18 @@
     });
   }
 
+  // Sticky mobile "Text Pastor Brian" — hide once the footer scrolls into view
+  var stickyCta = document.getElementById("sticky-cta");
+  var footer = document.querySelector(".site-footer");
+  if (stickyCta && footer && "IntersectionObserver" in window) {
+    var footerObserver = new IntersectionObserver(function (entries) {
+      entries.forEach(function (entry) {
+        stickyCta.classList.toggle("is-hidden", entry.isIntersecting);
+      });
+    }, { rootMargin: "0px" });
+    footerObserver.observe(footer);
+  }
+
   // Smooth-scroll for same-page anchors
   document.querySelectorAll('a[href^="#"]').forEach(function (a) {
     a.addEventListener("click", function (e) {
