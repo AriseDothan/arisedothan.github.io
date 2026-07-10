@@ -11,7 +11,7 @@ A few weeks ago I wrote about Move Up — the Sunday morning worship gathering w
 
 ## The church's current core rhythm
 
-Here's what I want you to understand clearly: right now, Move In isn't a side program or a stepping stone to something more "real." It's the center of church life at Arise Dothan. Every Thursday at 6:00 PM, upstairs at Mural City Coffee, we gather as a Disciple Making Community — a smaller, relational group doing the work of making disciples and forming the team that will one day carry Sunday mornings. This is the main thing right now, not a placeholder for the main thing.
+Here's what I want you to understand clearly: right now, Move In isn't a side program or a stepping stone to something more "real." It's the center of church life at Arise Dothan. Every Thursday at 6:00 PM at Mural City Coffee, we gather as a Disciple Making Community — a smaller, relational group doing the work of making disciples and forming the team that will one day carry Sunday mornings. This is the main thing right now, not a placeholder for the main thing.
 
 ## What we mean by "disciple making"
 
@@ -19,7 +19,7 @@ We describe Move In this way: we grow together in authentic disciple-making comm
 
 ## Why a coffee shop
 
-We meet upstairs at Mural City Coffee, and I don't think that's an accident, even though it started out of necessity more than strategy. A coffee shop doesn't let you hide the way a big auditorium can. There's no back row. You're at a table, with people, having an actual conversation. Coffee, prayer, Scripture, and honest conversation — that's not just what we do, it's what we're becoming. The coffee-table conversations are building the same launch team that will one day open the doors on a Sunday morning.
+We meet at Mural City Coffee, and I don't think that's an accident, even though it started out of necessity more than strategy. A coffee shop doesn't let you hide the way a big auditorium can. There's no back row. You're at a table, with people, having an actual conversation. Coffee, prayer, Scripture, and honest conversation — that's not just what we do, it's what we're becoming. The coffee-table conversations are building the same launch team that will one day open the doors on a Sunday morning.
 
 ## Come as you are, actually
 

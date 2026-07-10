@@ -27,7 +27,7 @@ Everything we do traces back to three words: **Follow. Become. Do.** We want to 
 
 We live that out through three Kingdom Rhythms, and I want you to know them by name because you'll hear us talk about them often:
 
-**Move In — Community.** Right now, this is where we live. Every Thursday at 6:00 PM, upstairs at Mural City Coffee, we gather as a Disciple Making Community — a smaller group doing the slow work of following Jesus together: shared life, Scripture, prayer, hospitality, accountability, mutual encouragement. This isn't a placeholder. It's how a launch team gets built, one honest Thursday at a time.
+**Move In — Community.** Right now, this is where we live. Every Thursday at 6:00 PM at Mural City Coffee, we gather as a Disciple Making Community — a smaller group doing the slow work of following Jesus together: shared life, Scripture, prayer, hospitality, accountability, mutual encouragement. This isn't a placeholder. It's how a launch team gets built, one honest Thursday at a time.
 
 **Move Out — Mission.** On the second Saturday of every month, we move out together to serve Dothan and the Wiregrass. We don't want to be a people who are only gathered — we want to be a people who are sent, carrying whatever we've received back out into the city.
 
@@ -39,7 +39,7 @@ Community. Mission. Worship coming. Move In, Move Out, and Move Up — that's th
 
 We're young and we're small, and I'm not going to pretend otherwise. We're a launch team in the making — not yet a Sunday morning church, but building toward one with real intention. Every Thursday, our Disciple Making Community gathers for coffee, prayer, Scripture, and honest conversation. Every second Saturday, we move out together to serve our city. That's the whole rhythm right now, and it's enough to build something real on.
 
-It's not flashy. There's no fog machine, no big stage. What there is: real people, an open Bible, and a growing conviction that God is doing something in this city that's bigger than our upstairs room. Every dawn starts small. We're praying this is one of those mornings.
+It's not flashy. There's no fog machine, no big stage. What there is: real people, an open Bible, and a growing conviction that God is doing something in this city that's bigger than this room. Every dawn starts small. We're praying this is one of those mornings.
 
 ## An invitation, not a pitch
 
