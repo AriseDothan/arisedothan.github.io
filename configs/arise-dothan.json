@@ -72,7 +72,7 @@
     "gatherings": {
       "eyebrow": "Gatherings",
       "hero_title": "Come and see. We saved you a seat.",
-      "hero_sub": "We meet at Mural City Coffee in downtown Dothan. Casual, warm, and centered on Jesus."
+      "hero_sub": "We meet at Mural City Coffee in Dothan. Casual, warm, and centered on Jesus."
     },
     "give": {
       "eyebrow": "Give",
@@ -103,8 +103,7 @@
     "vision": {
       "eyebrow": "Vision · What do we see?",
       "title": "The future we're praying toward",
-      "lede": "We see people in Dothan follow Jesus, become like Him, and do what He did in the power of the Spirit.",
-      "text": "This is the future we're praying toward."
+      "lede": "We see people in Dothan follow Jesus, become like Him, and do what He did in the power of the Spirit."
     },
     "mission": {
       "eyebrow": "Mission · What are we doing?",
@@ -170,7 +169,7 @@
   },
 
   "pages": [
-    { "template": "pages/index.html",      "output": "index.html",             "path": "/",            "title": "Arise Dothan | A Spirit-filled, Bible-centered church in Dothan, AL", "meta_description": "Arise Dothan is a church plant meeting at Mural City Coffee in downtown Dothan. Follow Jesus, become like Him, do what He did. All are welcome.", "priority": "1.0", "changefreq": "weekly" },
+    { "template": "pages/index.html",      "output": "index.html",             "path": "/",            "title": "Arise Dothan | A Spirit-filled, Bible-centered church in Dothan, AL", "meta_description": "Arise Dothan is a church plant meeting at Mural City Coffee in Dothan. Follow Jesus, become like Him, do what He did. All are welcome.", "priority": "1.0", "changefreq": "weekly" },
     { "template": "pages/our-story.html",  "output": "our-story/index.html",   "path": "/our-story/",  "title": "Our Story", "meta_description": "Meet Arise Dothan — our mission (Follow. Become. Do.), our core values, and our leaders Brian & Jaclyn Turner.", "priority": "0.8", "changefreq": "monthly" },
     { "template": "pages/beliefs.html",    "output": "beliefs/index.html",     "path": "/beliefs/",    "title": "What We Believe", "meta_description": "What Arise Dothan believes — rooted in Scripture, centered on Jesus, and alive by the Spirit, plus the Foursquare Church's official Declaration of Faith.", "priority": "0.7", "changefreq": "monthly" },
     { "template": "pages/gatherings.html", "output": "gatherings/index.html",  "path": "/gatherings/", "title": "Gatherings & What to Expect", "meta_description": "When and where Arise Dothan gathers — our Thursday Disciple Making Community at 6 PM at Mural City Coffee, plus our monthly Interest Night and serving the city together on the 2nd Saturday.", "priority": "0.9", "changefreq": "weekly" },
