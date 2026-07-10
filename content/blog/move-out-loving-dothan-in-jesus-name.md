@@ -3,18 +3,22 @@ title: "Move Out: Loving Dothan in Jesus' Name"
 slug: move-out-loving-dothan-in-jesus-name
 published_at: "2026-07-28"
 author: "Pastor Brian"
-excerpt: "Move Out is the last of our Kingdom Rhythms — how worship and community spill out into serving Dothan alongside Love in Action Ministries."
+excerpt: "Move Out is our concrete monthly rhythm of mission — the 2nd Saturday of every month, serving Dothan alongside Love in Action."
 ---
 
-This is the third post in a short series on what we call our Kingdom Rhythms — the three movements that shape life at Arise Dothan. We started with Move Up, worship — already central to who we are now, and building toward the Sunday morning gatherings still ahead of us. Then Move In, our Thursday Disciple Making Community, because worship spills into how we treat each other. Now Move Out: mission. This is where all of it turns outward, toward Dothan.
+This is the third post in a short series on our Kingdom Rhythms — the movements that shape life at Arise Dothan right now. I wrote about Move Up, the Sunday morning worship gathering still ahead of us, and Move In, our Thursday Disciple Making Community where disciples get made and our launch team is being built. Now: Move Out. This is where all of it turns outward, toward Dothan — and unlike Move Up, this one isn't a someday. It's happening right now, every second Saturday.
 
-## A church that only moves up and in eventually turns inward
+## A concrete rhythm, not a vague idea
 
-I've said this before and I believe it more every week: a church that only moves up and in eventually turns inward. Worship without mission becomes a private experience. Community without mission becomes a closed circle. We don't want to be a people who are only gathered — we want to be a people who are sent. Move Out is how we join God's work throughout our city by serving others, sharing the gospel, demonstrating the kingdom, and multiplying disciples. It's the natural overflow of everything we've been talking about the last two weeks.
+I could talk about mission in the abstract — "we care about our city," "we want to serve Dothan" — and all of that would be true. But I'd rather tell you exactly what Move Out looks like: on the second Saturday of every month, we serve alongside Love in Action Ministries here in Dothan and the Wiregrass. Same rhythm every month. Not a once-a-year service event we point to and call it done — a regular, repeating practice of showing up for our city.
 
-## What Move Out looks like right now
+## Why mission can't wait for Sunday mornings
 
-We're young and we're small, so I want to be honest about scale — we're not running a dozen ministries yet. But once a month, on the second Saturday, we serve alongside Love in Action Ministries here in Dothan and the Wiregrass. It's not flashy. It's showing up, doing the work, and loving people in Jesus' name without needing credit for it. That's Move Out in its simplest form: taking whatever we've received in our Disciple Making Community on Thursday nights — worship, community, encouragement — and carrying it back out into the city.
+A church that only moves in and never moves out eventually turns inward. Community without mission becomes a closed circle — a group of people enjoying each other's company but never carrying anything back out into the world. We don't want to be a people who are only gathered — we want to be a people who are sent. Move Out is how we join God's work throughout our city by serving others, sharing the gospel, demonstrating the kingdom, and multiplying disciples. And here's what I love about it: we didn't wait for a Sunday morning launch to start doing this. Mission started the same season our Disciple Making Community did.
+
+## What a Love in Action Saturday actually looks like
+
+It's not flashy. It's showing up, doing the work, and loving people in Jesus' name without needing credit for it. Whatever our Disciple Making Community has received on Thursday nights — worship, community, encouragement — Move Out is where we carry it back out into the city on Saturday. Real hands, real work, real people in Dothan and the Wiregrass who need to know somebody showed up for them.
 
 ## Sharing the gospel, not just serving
 
@@ -22,12 +26,12 @@ I want to be careful here, because Move Out isn't only about service projects. I
 
 ## Multiplying disciples, not just doing projects
 
-The last piece of Move Out is multiplying disciples — helping the people we serve alongside, and the people who join us, become people who then go make more disciples themselves. That's the difference between a service project and a movement. We're not just trying to do good in Dothan once a month. We're trying to raise up a whole community of people who follow Jesus, become like Him, and do what He did, in the power of the Holy Spirit, long after we're gone.
+The last piece of Move Out is multiplying disciples — helping the people we serve alongside, and the people who join us, become people who then go make more disciples themselves. That's the difference between a service project and a movement. We're not just trying to do good in Dothan once a month. We're trying to raise up a whole community of people who follow Jesus, become like Him, and do what He did, in the power of the Holy Spirit, long after our launch team becomes a whole church.
 
 ## An invitation
 
-If you've been looking for a way to serve that isn't tied to a huge commitment, our monthly Love in Action Saturday is a great low-key place to start — ask us through Connect and we'll get you the details for this month. Or, if you want to see where this all starts, come to a Thursday Disciple Making Community gathering first. Worship, community, mission — that's the rhythm we're living now, and it's building toward the day our doors open wide on Sunday mornings too.
+If you've been looking for a way to serve that isn't tied to a huge commitment, our monthly Love in Action Saturday is a great low-key place to start — ask us through Connect and we'll get you the details for this month. Or, if you want to see where this all starts, come to a Thursday Disciple Making Community gathering first. Community, mission, and the worship gathering we're building toward — that's the whole rhythm, and there's room for you in every part of it right now.
 
-The glory of the Lord is rising over Dothan. Come move up, move in, and move out with us.
+The glory of the Lord is rising over Dothan. Come move in, move out, and move up with us.
 
 — Pastor Brian

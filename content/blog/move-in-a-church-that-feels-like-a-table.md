@@ -3,34 +3,34 @@ title: "Move In: A Church That Feels Like a Table"
 slug: move-in-a-church-that-feels-like-a-table
 published_at: "2026-07-21"
 author: "Pastor Brian"
-excerpt: "Move In is the second of our Kingdom Rhythms — why our Thursday Disciple Making Community at Mural City Coffee looks less like a lobby and more like a table."
+excerpt: "Move In is our current core rhythm — Thursday Disciple Making Communities where we're making disciples and building the launch team, one table at a time."
 ---
 
-A few weeks ago I wrote about Move Up — how worship is already central to Arise Dothan, even in this pre-launch season before we have Sunday mornings. This week I want to talk about the space where that worship is actually taking shape: our Thursday gathering, which we call our Disciple Making Community. This is the relational core of the church plant right now, and it's the reason we don't really have a lobby — we have a coffee shop.
+A few weeks ago I wrote about Move Up — the Sunday morning worship gathering we're building toward, still ahead of us. This week I want to talk about the rhythm that's actually carrying us there: Move In, our Thursday Disciple Making Community. If Move Up is the destination, Move In is the vehicle. It's where disciples get made and where our launch team is being built, one Thursday at a time.
 
-## Community, not just a crowd
+## The church's current core rhythm
 
-Here's how we describe Move In: we grow together in authentic disciple-making communities through shared life, Scripture, prayer, hospitality, accountability, and mutual encouragement as we follow Jesus and become like Him. That's a mouthful, so let me put it simpler. Move In means we don't just show up next to each other — we actually know each other. We ask real questions and stick around for real answers. We celebrate wins and sit with people in hard seasons. Faith was never meant to be a solo pursuit, and we're trying to build a church where nobody has to carry it alone.
+Here's what I want you to understand clearly: right now, Move In isn't a side program or a stepping stone to something more "real." It's the center of church life at Arise Dothan. Every Thursday at 6:00 PM, upstairs at Mural City Coffee, we gather as a Disciple Making Community — a smaller, relational group doing the work of making disciples and forming the team that will one day carry Sunday mornings. This is the main thing right now, not a placeholder for the main thing.
 
-## Why we call it a Disciple Making Community
+## What we mean by "disciple making"
 
-I want to be precise about what Thursdays are, because it matters to me that you understand this correctly: our Thursday gathering at Mural City Coffee is our Disciple Making Community, not a worship service standing in for a Sunday. It's the relational core of this church plant in its earliest season — a smaller group of us doing the slow, personal work of following Jesus together, before we ever open our doors to a wider Sunday morning gathering. Worship happens here too, woven through prayer and Scripture, but the shape of Thursday is community first: shared life, discipleship, and the kind of honest relationships a launch team needs to have with each other.
+We describe Move In this way: we grow together in authentic disciple-making communities through shared life, Scripture, prayer, hospitality, accountability, and mutual encouragement as we follow Jesus and become like Him. Disciple making isn't a class you attend — it's a relationship where someone is actively helping you follow Jesus, and you're doing the same for someone else. That's slower and more personal than a typical Sunday service allows, and honestly, that's the point. This season exists so that when Sunday mornings launch, they're carried by people who've already learned to walk with Jesus and with each other, not by strangers meeting for the first time in a crowd.
 
 ## Why a coffee shop
 
-We meet upstairs at Mural City Coffee every Thursday at 6:00 PM, and I don't think that's an accident, even though it started out of necessity more than strategy. A coffee shop doesn't let you hide the way a big auditorium can. There's no back row. You're at a table, with people, having an actual conversation. Coffee, prayer, Scripture, and honest conversation — that's not just what we do, it's kind of who we're becoming. The coffee-table conversations matter to us as much as anything that will one day happen on a Sunday morning, because this is where community actually gets built.
+We meet upstairs at Mural City Coffee, and I don't think that's an accident, even though it started out of necessity more than strategy. A coffee shop doesn't let you hide the way a big auditorium can. There's no back row. You're at a table, with people, having an actual conversation. Coffee, prayer, Scripture, and honest conversation — that's not just what we do, it's what we're becoming. The coffee-table conversations are building the same launch team that will one day open the doors on a Sunday morning.
 
 ## Come as you are, actually
 
 We say "come as you are" a lot, and I want you to know we mean it. Jeans, boots, a ballcap — whatever's comfortable. There's no dress code and nothing to prove. Families and kids are welcome, because this is a gathering for the whole household, not just the grown-ups. Longtime believers, curious skeptics, and honest seekers all have a seat at the same table. Nobody's sorted into categories at the door. You just pull up a chair.
 
-## Community with accountability
+## Team-building, not just fellowship
 
-I want to be honest that Move In isn't only the cozy parts. Real community includes accountability and mutual encouragement — the kind of relationships where someone can ask how you're really doing and you can tell them the truth, where someone can gently call you back toward Jesus when you're drifting, and you'd want them to. That's harder than showing up and staying anonymous. It's also exactly the kind of foundation a Disciple Making Community is meant to build before it grows into something larger.
+I want to be honest that Move In isn't only the cozy parts. Real disciple making includes accountability and mutual encouragement — the kind of relationships where someone can ask how you're really doing and you can tell them the truth, where someone can gently call you back toward Jesus when you're drifting, and you'd want them to. That's harder than showing up and staying anonymous. It's also exactly what a launch team needs: people who know each other well enough to carry a Sunday morning gathering together when that day comes.
 
 ## An invitation
 
-If Sunday-morning-sized church has never quite worked for you, or if you've been burned by community before and you're wary of trying again, I get it. Come try a Thursday. Sit at the table. You don't have to know anyone, and you don't have to have it figured out. If you're the kind of person who wants a lower-pressure first step, our monthly Interest Night is built exactly for that — a relaxed evening to meet the Arise family, hear our story, and ask anything, no commitment required.
+If Sunday-morning-sized church has never quite worked for you, or if you've been burned by community before and you're wary of trying again, I get it. Come try a Thursday. Sit at the table. You don't have to know anyone, and you don't have to have it figured out. If you're the kind of person who wants a lower-pressure first step, our monthly Interest Night is built exactly for that — a relaxed evening to meet the Arise family, hear our story, and ask anything, no commitment required. And if you're ready to dig in and help build this launch team from here, let's talk.
 
 We saved you a seat at the table. I hope you'll come find it.
 

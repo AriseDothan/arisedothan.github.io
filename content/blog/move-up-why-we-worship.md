@@ -3,31 +3,33 @@ title: "Move Up: Why We Worship"
 slug: move-up-why-we-worship
 published_at: "2026-07-14"
 author: "Pastor Brian"
-excerpt: "Move Up is the first of our three Kingdom Rhythms — why worship is already central to Arise Dothan, and how it's building toward the Sunday morning gatherings still ahead of us."
+excerpt: "Move Up is our third Kingdom Rhythm — the Sunday morning worship gathering we're building toward, and why it's worth doing right instead of rushing."
 ---
 
-When we launched Arise Dothan, I wrote about Isaiah 60:1 — arise, shine, for your light has come. That verse gave us our name. It also gave us our starting point, because before anything else, before community, before mission, there's this: God's glory is already rising, and our first move is to turn toward it. We call that Move Up. It's the first of three Kingdom Rhythms that shape our life together, and over the next few weeks I want to spend some time on each one — starting here, with worship.
+When we launched Arise Dothan, I wrote about Isaiah 60:1 — arise, shine, for your light has come. That verse gave us our name, and it gave us a promise: the glory of the Lord is already rising over this city. I also told you we're living in three Kingdom Rhythms right now — Move In, Move Out, and Move Up — and that the third one, worship, is still ahead of us. I want to spend this post telling you why, and why it's worth the wait.
 
-## Worship isn't waiting on a launch date
+## The destination, not an afterthought
 
-I want to say this plainly: worship is central to Arise Dothan, both where we're headed and where we are right now. We're in a pre-launch season. That means our full, gathered Sunday morning worship services haven't started yet — we're still forming our launch team and laying the foundation for that day. But I don't want anyone to hear "pre-launch" and think worship is on hold until then. It isn't. It's already the center of everything we do, just in a different shape than it will take later.
+Let's be clear about what Move Up actually is: a Sunday morning worship gathering for the whole city of Dothan — a room full of people worshiping Jesus together, encountering His presence, and being formed by Scripture and the Holy Spirit. No stage tricks needed to make that powerful. Just God's people, gathered, giving Him what He's due.
 
-## What worship looks like right now
+That gathering doesn't exist yet. We're a launch team in the making, still forming the core group of people who will carry Arise Dothan into its next season. Sunday mornings launch once that team is ready — not before, and not because we're stalling, but because we want to do it right. A Sunday gathering built on a shallow foundation doesn't last. One built by a team that's already learned to worship, pray, and follow Jesus together on Thursdays? That's a foundation that can hold weight.
 
-Here's how we describe Move Up: we gather to worship Jesus, encounter God's presence, and be formed by Scripture and the Holy Spirit. Right now, that happens Thursdays at 6:00 PM, upstairs at Mural City Coffee, inside what we call our Disciple Making Community — a smaller, relational gathering where a core group of us are learning to follow Jesus together before we ever open the doors on a Sunday. It's not a worship service in the way you might picture one. There's no stage, no band, no bulletin. But worship is woven all through it — open Scripture, unhurried prayer, honest conversation, and a real expectation that the Holy Spirit is present and active among us. Spirit-filled without being showy.
+## Worship isn't waiting in the wings
 
-## Building toward Sunday
+Here's what I don't want you to hear: "worship is coming later, so it doesn't matter now." That's backwards. Worship is already happening — just not yet in the form of a Sunday service. Every Thursday, our Disciple Making Community gathers at Mural City Coffee, and worship is woven through it: open Scripture, unhurried prayer, honest conversation, and a real expectation that the Holy Spirit is present and active among us. It's Spirit-filled without being showy. There's no band, no bulletin, no stage — but there's God, and there's His people turning toward Him. That's worship in its rawest, truest form.
 
-I believe God is going to grow this into a Sunday morning worship gathering for our whole city — not someday in the abstract, but as the next real step once our launch team is formed and ready. Everything happening on Thursdays right now is part of how we get there. The prayer, the Scripture, the presence of the Spirit we're experiencing together in a coffee shop — that's not a placeholder for "real" worship. It's the root system. When Sunday mornings launch, they'll grow out of a people who already know how to worship together, not a group starting from zero.
+## Why we're building this way
 
-## Formed, not just informed
+I could try to gather a crowd for a Sunday morning tomorrow. I'm not going to. A church plant that skips the slow work of forming a team and jumps straight to a public gathering is building on sand. We're doing this in order: Move In first — a launch team that actually knows how to walk with Jesus and with each other. Move Out alongside that — serving Dothan through Love in Action so mission isn't an afterthought either. And then Move Up: a Sunday worship gathering carried by people who've already learned what it means to worship together, not a group starting from zero in front of a crowd.
 
-There's a difference between hearing about God and being formed by Him, and that formation is happening now, in this in-between season. We open Scripture together not to collect information but to let it work on us — to let it shape how we see God, how we see ourselves, and how we see the people around us. That's slow work, and it's exactly the work a launch team needs to do together before we ever ask a wider city to gather with us on a Sunday.
+## What Sunday will actually be
+
+When that day comes, I want it to be simple and real: a room where the unchurched, the dechurched, and the over-churched can all find a seat, where Scripture is opened honestly, where the Holy Spirit is welcome to move, and where nobody has to perform faith they don't have. Everything happening now — the prayer, the Scripture, the presence of God we're experiencing on Thursdays — is the root system for that day. When Sunday mornings launch, they'll grow out of a people who already know how to worship together.
 
 ## An invitation
 
-If the idea of helping build something from its earliest days appeals to you, I'd love to talk with you about joining our launch team. And if you're just curious, come sit with us on a Thursday. Bring your coffee, bring your questions, bring whatever you're carrying. You'll get a real picture of a people who are learning to worship together now, anticipating the day we get to do it with the whole city on a Sunday morning.
+If the idea of helping build a Sunday morning worship gathering from its earliest days appeals to you, I'd love to talk with you about joining our launch team. And if you're just curious, come sit with us on a Thursday first — you'll get an honest picture of a people who are learning to worship now, anticipating the day we get to do it with the whole city.
 
-The glory of the Lord is rising over Dothan. I'd love for you to rise with us — now, and on the Sunday that's coming.
+The glory of the Lord is rising over Dothan. I'd love for you to rise with us — now, in this season, and on the Sunday that's coming.
 
 — Pastor Brian
