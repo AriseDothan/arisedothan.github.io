@@ -26,7 +26,7 @@
 
   "fonts_url": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;0,9..144,900;1,9..144,500;1,9..144,600;1,9..144,700&family=Jost:wght@300;400;500;600;700&display=swap",
 
-  "_nav_note": "Church navigation for a launch-phase plant. The header CTA button is 'Plan your visit' (→ /connect/, the text-Pastor-Brian composer), so 'Connect' is intentionally NOT in this array. 'Give' was re-added once online giving went live through the partner church's PushPay portal.",
+  "_nav_note": "Church navigation for a launch-phase plant. The header CTA button is 'Text Pastor Brian' (→ /connect/, the text-Pastor-Brian composer) — the site's primary call to action this season — so 'Connect' is intentionally NOT in this array. 'Give' was re-added once online giving went live through the partner church's PushPay portal.",
   "nav_links": [
     { "label": "Home", "href": "/" },
     { "label": "Our Story", "href": "/our-story/" },
