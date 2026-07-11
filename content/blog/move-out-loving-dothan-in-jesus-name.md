@@ -31,7 +31,7 @@ The last piece of Move Out is multiplying disciples — helping the people we se
 
 ## An invitation
 
-If you've been looking for a way to serve that isn't tied to a huge commitment, our monthly Move Out Saturday is a great low-key place to start — ask us through Connect and we'll get you the details for this month. Or, if you want to see where this all starts, come to a Thursday Disciple Making Community gathering first. Community, mission, and the worship gathering we're building toward — that's the whole rhythm, and there's room for you in every part of it right now.
+If you've been looking for a way to serve that isn't tied to a huge commitment, our monthly Move Out Saturday is a great low-key place to start — text Pastor Brian and we'll get you the details for this month. Or, if you want to see where this all starts, come to a Thursday Disciple Making Community gathering first. Community, mission, and the worship gathering we're building toward — that's the whole rhythm, and there's room for you in every part of it right now.
 
 The glory of the Lord is rising over Dothan. Come move in, move out, and move up with us.
 
