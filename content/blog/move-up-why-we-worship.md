@@ -25,7 +25,7 @@ I could try to gather a crowd for a Sunday morning tomorrow. I'm not going to. A
 
 ## What Sunday will actually be
 
-When that day comes, I want it to be simple and real: a room where the unchurched, the dechurched, and the over-churched can all find a seat, where Scripture is opened honestly, where the Holy Spirit is welcome to move, and where nobody has to perform faith they don't have. Everything happening now — the prayer, the Scripture, the presence of God we're experiencing on Thursdays — is the root system for that day. When Sunday mornings launch, they'll grow out of a people who already know how to worship together.
+When that day comes, I want it to be simple and real: a room where anyone can find a seat — whether you've never set foot in a church, walked away from one, or got worn out inside one — where Scripture is opened honestly, where the Holy Spirit is welcome to move, and where nobody has to perform faith they don't have. Everything happening now — the prayer, the Scripture, the presence of God we're experiencing on Thursdays — is the root system for that day. When Sunday mornings launch, they'll grow out of a people who already know how to worship together.
 
 ## An invitation
 

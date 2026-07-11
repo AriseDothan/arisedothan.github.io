@@ -17,7 +17,7 @@ That's the word I believe God has for Dothan.
 
 ## Why here, why now
 
-I didn't plant this church because Dothan lacked churches. It doesn't. I planted it because I believe God isn't finished here — and because so many people in this city have quietly written off church altogether. The unchurched who never had a reason to walk in. The dechurched who walked out and haven't found a reason to walk back. The over-churched who've sat through a thousand services and are still hungry for something real.
+I didn't plant this church because Dothan lacked churches. It doesn't. I planted it because I believe God isn't finished here — and because so many people in this city have quietly written off church altogether. Some have never set foot in one. Some walked away and haven't found a reason to walk back. Some sat through a thousand services and are still hungry for something real.
 
 Arise Dothan exists for all three. There's a seat at this table for you, wherever you're starting from. Come as you are — that's not a slogan, it's the whole posture of this church.
 
