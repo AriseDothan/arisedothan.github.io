@@ -28,12 +28,12 @@
   <link href="{{{fonts_url}}}" rel="stylesheet">
 
   <!-- Stylesheets -->
-  <link rel="stylesheet" href="/css/variables.css">
-  <link rel="stylesheet" href="/css/base.css">
-  <link rel="stylesheet" href="/css/components.css">
-  <link rel="stylesheet" href="/css/responsive.css">
-  <link rel="stylesheet" href="/css/blog.css">
-  <link rel="stylesheet" href="/css/beliefs.css">
+  <link rel="stylesheet" href="/css/variables.css?v={{cachebust}}">
+  <link rel="stylesheet" href="/css/base.css?v={{cachebust}}">
+  <link rel="stylesheet" href="/css/components.css?v={{cachebust}}">
+  <link rel="stylesheet" href="/css/responsive.css?v={{cachebust}}">
+  <link rel="stylesheet" href="/css/blog.css?v={{cachebust}}">
+  <link rel="stylesheet" href="/css/beliefs.css?v={{cachebust}}">
 
   {{#if integrations.ahrefs_analytics_key}}
   <!-- Ahrefs Analytics -->
@@ -69,10 +69,10 @@
 {{/unless}}
 
 <!-- Scripts -->
-<script src="/js/main.js"></script>
-<script src="/js/motion.js"></script>
-<script src="/js/form-handler.js"></script>
-<script src="/js/tracking.js"></script>
+<script src="/js/main.js?v={{cachebust}}"></script>
+<script src="/js/motion.js?v={{cachebust}}"></script>
+<script src="/js/form-handler.js?v={{cachebust}}"></script>
+<script src="/js/tracking.js?v={{cachebust}}"></script>
 
 <!-- Church Schema -->
 <script type="application/ld+json">
