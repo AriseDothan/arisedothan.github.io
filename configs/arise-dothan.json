@@ -80,9 +80,9 @@
       "hero_sub": "Every gift helps us make disciples who make disciples and build the team launching Sunday worship in Dothan — and beyond."
     },
     "connect": {
-      "eyebrow": "Plan your visit",
-      "hero_title": "Let's plan your first visit.",
-      "hero_sub": "No forms, no pressure. Tell us a little about you and we'll open a text to Pastor Brian — you'll be talking to a real person before you ever walk in the door."
+      "eyebrow": "Say hello",
+      "hero_title": "Let's start with a hello.",
+      "hero_sub": "No forms, no pressure — just a quick hello. Tell us a little about you and we'll open a text to Pastor Brian; you'll be talking to a real person before you ever walk in the door."
     },
     "beliefs": {
       "eyebrow": "What We Believe",
@@ -174,6 +174,6 @@
     { "template": "pages/beliefs.html",    "output": "beliefs/index.html",     "path": "/beliefs/",    "title": "What We Believe", "meta_description": "What Arise Dothan believes — rooted in Scripture, centered on Jesus, alive by the Spirit, and lived out as we Move Up, Move In, and Move Out, plus the Foursquare Church's official Declaration of Faith.", "priority": "0.7", "changefreq": "monthly" },
     { "template": "pages/gatherings.html", "output": "gatherings/index.html",  "path": "/gatherings/", "title": "Gatherings & What to Expect", "meta_description": "When and where Arise Dothan gathers — our Thursday Disciple Making Community at 6 PM at Mural City Coffee, plus our monthly Interest Night and serving the city together on the 2nd Saturday. Text Pastor Brian to plan your first Thursday.", "priority": "0.9", "changefreq": "weekly" },
     { "template": "pages/give.html",       "output": "give/index.html",        "path": "/give/",       "title": "Give", "meta_description": "Give to Arise Dothan online through our partner church — just choose 'Tithes - Arise Church (Dothan)' from the dropdown, or give in person or by mail. Every gift helps us make disciples who make disciples and build our launch team.", "priority": "0.6", "changefreq": "monthly" },
-    { "template": "pages/connect.html",    "output": "connect/index.html",     "path": "/connect/",    "title": "Plan Your Visit", "meta_description": "Planning a first visit to Arise Dothan? Skip the form — send a quick text straight to Pastor Brian and start a real conversation before you ever visit.", "priority": "0.9", "changefreq": "monthly" }
+    { "template": "pages/connect.html",    "output": "connect/index.html",     "path": "/connect/",    "title": "Say Hello | Arise Dothan", "meta_description": "Planning a first visit to Arise Dothan? Skip the form — send a quick text straight to Pastor Brian and start a real conversation before you ever visit.", "priority": "0.9", "changefreq": "monthly" }
   ]
 }
