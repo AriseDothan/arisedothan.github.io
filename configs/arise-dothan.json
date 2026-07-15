@@ -139,9 +139,9 @@
   "_this_week_note": "WEEKLY UPDATE — edit this block every week (see CLAUDE.md 'Updating this week's gathering location'), commit, push to both repos. date_label/location_name/note are free text; map_url is optional (a Google Maps search link) and the 'Get directions' button hides automatically if it's left blank.",
   "this_week": {
     "date_label": "This Thursday · July 16",
-    "location_name": "Kiwanis Park",
-    "note": "Weather permitting — if it rains, we'll gather at Mural City Coffee instead.",
-    "map_url": "https://www.google.com/maps/search/?api=1&query=Kiwanis+Park+Dothan+AL"
+    "location_name": "Mural City Coffee",
+    "note": "We're at Mural City Coffee this week — 192 S. Foster St. Grab a coffee and pull up a seat.",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Mural+City+Coffee+Dothan+AL"
   },
 
   "give_options": {
