@@ -86,7 +86,7 @@
     },
     "beliefs": {
       "eyebrow": "What We Believe",
-      "hero_sub": "The convictions that shape everything we do — rooted in Scripture, centered on Jesus, and alive by the Spirit."
+      "hero_sub": "The convictions that shape everything we do — centered in Jesus, rooted in Scripture, and alive by the Spirit."
     }
   },
 
@@ -179,7 +179,7 @@
   "pages": [
     { "template": "pages/index.html",      "output": "index.html",             "path": "/",            "title": "Arise Dothan | A Spirit-filled, Bible-centered church in Dothan, AL", "meta_description": "Arise Dothan is a church plant gathering every Thursday as a Disciple Making Community — the location moves, so text Pastor Brian for this week's spot. We Move Up, Move In, and Move Out: follow Jesus, become like Him, do what He did.", "priority": "1.0", "changefreq": "weekly" },
     { "template": "pages/our-story.html",  "output": "our-story/index.html",   "path": "/our-story/",  "title": "Our Story", "meta_description": "Meet Arise Dothan — our mission to make disciples who make disciples, our core values, and our leaders Brian & Jaclyn Turner.", "priority": "0.8", "changefreq": "monthly" },
-    { "template": "pages/beliefs.html",    "output": "beliefs/index.html",     "path": "/beliefs/",    "title": "What We Believe", "meta_description": "What Arise Dothan believes — rooted in Scripture, centered on Jesus, alive by the Spirit, and lived out as we Move Up, Move In, and Move Out, plus the Foursquare Church's official Declaration of Faith.", "priority": "0.7", "changefreq": "monthly" },
+    { "template": "pages/beliefs.html",    "output": "beliefs/index.html",     "path": "/beliefs/",    "title": "What We Believe", "meta_description": "What Arise Dothan believes — centered in Jesus, rooted in Scripture, alive by the Spirit, and lived out as we Move Up, Move In, and Move Out, plus the Foursquare Church's official Declaration of Faith.", "priority": "0.7", "changefreq": "monthly" },
     { "template": "pages/gatherings.html", "output": "gatherings/index.html",  "path": "/gatherings/", "title": "Gatherings & What to Expect", "meta_description": "When and where Arise Dothan gathers — our Thursday Disciple Making Community at 6 PM, location moving around Dothan each week, plus our monthly Interest Night and serving the city together on the 2nd Saturday. Children are always welcome. Text Pastor Brian to plan your first Thursday.", "priority": "0.9", "changefreq": "weekly" },
     { "template": "pages/give.html",       "output": "give/index.html",        "path": "/give/",       "title": "Give", "meta_description": "Give to Arise Dothan online through our partner church — just choose 'Tithes - Arise Church (Dothan)' from the dropdown, or give in person or by mail. Every gift helps us make disciples who make disciples and build our launch team.", "priority": "0.6", "changefreq": "monthly" },
     { "template": "pages/connect.html",    "output": "connect/index.html",     "path": "/connect/",    "title": "Say Hello | Arise Dothan", "meta_description": "Planning a first visit to Arise Dothan? Skip the form — send a quick text straight to Pastor Brian and start a real conversation before you ever visit.", "priority": "0.9", "changefreq": "monthly" }
