@@ -34,7 +34,7 @@
 
   "seo": {
     "title_suffix": " | Arise Dothan",
-    "default_meta_description": "Arise Dothan is a Spirit-filled, Bible-centered church plant in Dothan, AL. We gather at Mural City Coffee to follow Jesus, become like Him, and do what He did. All are welcome — text Pastor Brian to start the conversation.",
+    "default_meta_description": "Arise Dothan is a Spirit-filled, Bible-centered church plant in Dothan, AL. Our Thursday gathering moves around the city — text Pastor Brian to find out where. All are welcome.",
     "default_og_image": "images/hero-family.webp"
   },
 
@@ -72,7 +72,7 @@
     "gatherings": {
       "eyebrow": "Gatherings",
       "hero_title": "Come and see. We saved you a seat.",
-      "hero_sub": "We meet at Mural City Coffee in Dothan. Casual, warm, and centered on Jesus."
+      "hero_sub": "We gather every Thursday at 6 — the location moves around Dothan, so text Pastor Brian and he'll tell you where we'll be this week."
     },
     "give": {
       "eyebrow": "Give",
@@ -131,10 +131,18 @@
   ],
 
   "gatherings": [
-    { "when": "Every Thursday", "time": "6:00 PM", "what": "Disciple Making Community", "detail": "Making disciples who make disciples and building our launch team — coffee, prayer, Scripture, and conversation at Mural City Coffee." },
+    { "when": "Every Thursday", "time": "6:00 PM", "what": "Disciple Making Community", "detail": "Making disciples who make disciples and building our launch team — coffee, prayer, Scripture, and conversation. The location moves around Dothan — text Pastor Brian for this week's spot." },
     { "when": "2nd Saturday", "time": "Monthly", "what": "Serve the City", "detail": "Once a month, we move out together to serve Dothan and the Wiregrass — demonstrating the kingdom and loving our city in Jesus' name." },
     { "when": "Monthly", "time": "Interest Night", "what": "Date and time announced", "detail": "A relaxed evening for the curious — meet the Arise family, hear our story, and ask anything. Follow us on social or text Pastor Brian for this month's date and location." }
   ],
+
+  "_this_week_note": "WEEKLY UPDATE — edit this block every week (see CLAUDE.md 'Updating this week's gathering location'), commit, push to both repos. date_label/location_name/note are free text; map_url is optional (a Google Maps search link) and the 'Get directions' button hides automatically if it's left blank.",
+  "this_week": {
+    "date_label": "This Thursday · July 16",
+    "location_name": "Kiwanis Park",
+    "note": "Weather permitting — if it rains, we'll gather at Mural City Coffee instead.",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Kiwanis+Park+Dothan+AL"
+  },
 
   "give_options": {
     "funds": ["General Fund", "Building Fund", "Missions Fund", "Youth Fund", "Worship Fund"],
@@ -161,7 +169,7 @@
     "description": "A Spirit-filled, Bible-centered church plant in Dothan, AL.",
     "mcp_endpoint": "https://arisedothan.com/mcp",
     "services": [
-      { "id": "thursday-gathering", "category": "gathering", "name": "Disciple Making Community", "description": "Every Thursday, 6:00 PM at Mural City Coffee — making disciples and building our launch team ahead of Sunday morning worship gatherings.", "url": "https://arisedothan.com/gatherings/" },
+      { "id": "thursday-gathering", "category": "gathering", "name": "Disciple Making Community", "description": "Every Thursday, 6:00 PM — location moves around Dothan, text Pastor Brian for the week's spot — making disciples and building our launch team ahead of Sunday morning worship gatherings.", "url": "https://arisedothan.com/gatherings/" },
       { "id": "serve-the-city", "category": "outreach", "name": "Serve the City", "description": "Monthly community service, 2nd Saturday, serving Dothan and the Wiregrass.", "url": "https://arisedothan.com/gatherings/" },
       { "id": "interest-night", "category": "gathering", "name": "Interest Night", "description": "Monthly on-ramp event for newcomers; date and location announced each month.", "url": "https://arisedothan.com/gatherings/" }
     ],
@@ -169,10 +177,10 @@
   },
 
   "pages": [
-    { "template": "pages/index.html",      "output": "index.html",             "path": "/",            "title": "Arise Dothan | A Spirit-filled, Bible-centered church in Dothan, AL", "meta_description": "Arise Dothan is a church plant meeting at Mural City Coffee in Dothan. Follow Jesus, become like Him, do what He did. Text Pastor Brian to start the conversation.", "priority": "1.0", "changefreq": "weekly" },
+    { "template": "pages/index.html",      "output": "index.html",             "path": "/",            "title": "Arise Dothan | A Spirit-filled, Bible-centered church in Dothan, AL", "meta_description": "Arise Dothan is a church plant in Dothan gathering every Thursday — the location moves, so text Pastor Brian to find out where. Follow Jesus, become like Him, do what He did.", "priority": "1.0", "changefreq": "weekly" },
     { "template": "pages/our-story.html",  "output": "our-story/index.html",   "path": "/our-story/",  "title": "Our Story", "meta_description": "Meet Arise Dothan — our mission to make disciples who make disciples, our core values, and our leaders Brian & Jaclyn Turner.", "priority": "0.8", "changefreq": "monthly" },
     { "template": "pages/beliefs.html",    "output": "beliefs/index.html",     "path": "/beliefs/",    "title": "What We Believe", "meta_description": "What Arise Dothan believes — rooted in Scripture, centered on Jesus, alive by the Spirit, and lived out as we Move Up, Move In, and Move Out, plus the Foursquare Church's official Declaration of Faith.", "priority": "0.7", "changefreq": "monthly" },
-    { "template": "pages/gatherings.html", "output": "gatherings/index.html",  "path": "/gatherings/", "title": "Gatherings & What to Expect", "meta_description": "When and where Arise Dothan gathers — our Thursday Disciple Making Community at 6 PM at Mural City Coffee, plus our monthly Interest Night and serving the city together on the 2nd Saturday. Text Pastor Brian to plan your first Thursday.", "priority": "0.9", "changefreq": "weekly" },
+    { "template": "pages/gatherings.html", "output": "gatherings/index.html",  "path": "/gatherings/", "title": "Gatherings & What to Expect", "meta_description": "When and where Arise Dothan gathers — our Thursday Disciple Making Community at 6 PM, location moving around Dothan each week, plus our monthly Interest Night and serving the city together on the 2nd Saturday. Text Pastor Brian to plan your first Thursday.", "priority": "0.9", "changefreq": "weekly" },
     { "template": "pages/give.html",       "output": "give/index.html",        "path": "/give/",       "title": "Give", "meta_description": "Give to Arise Dothan online through our partner church — just choose 'Tithes - Arise Church (Dothan)' from the dropdown, or give in person or by mail. Every gift helps us make disciples who make disciples and build our launch team.", "priority": "0.6", "changefreq": "monthly" },
     { "template": "pages/connect.html",    "output": "connect/index.html",     "path": "/connect/",    "title": "Say Hello | Arise Dothan", "meta_description": "Planning a first visit to Arise Dothan? Skip the form — send a quick text straight to Pastor Brian and start a real conversation before you ever visit.", "priority": "0.9", "changefreq": "monthly" }
   ]

@@ -1,0 +1,17 @@
+<div class="this-week reveal">
+  <div class="this-week__badge" aria-hidden="true">
+    <svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
+      <path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/>
+      <circle cx="12" cy="10" r="2.6" stroke="currentColor" stroke-width="1.8"/>
+    </svg>
+  </div>
+  <div class="this-week__body">
+    <span class="eyebrow">{{this_week.date_label}}</span>
+    <h3>{{this_week.location_name}}</h3>
+    <p>{{this_week.note}}</p>
+  </div>
+  <div class="this-week__actions">
+    <a class="btn btn--gold" href="/connect/">Text Pastor Brian</a>
+    {{#if this_week.map_url}}<a class="btn btn--ghost" href="{{this_week.map_url}}" target="_blank" rel="noopener">Get directions</a>{{/if}}
+  </div>
+</div>
