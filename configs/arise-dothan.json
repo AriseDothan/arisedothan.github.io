@@ -44,6 +44,17 @@
     "x": "https://x.com/arisedothan"
   },
 
+  "_blog_label_note": "Display name for the blog across this site (nav, blog index <title>, back-links, llms.txt). URLs stay /blog/. nav_links is overridden here so 'The Rising' is scoped to Arise and doesn't affect other sites that share _base.json.",
+  "blog_label": "The Rising",
+  "nav_links": [
+    { "label": "Home", "href": "/" },
+    { "label": "Our Story", "href": "/our-story/" },
+    { "label": "Gatherings", "href": "/gatherings/" },
+    { "label": "Beliefs", "href": "/beliefs/" },
+    { "label": "The Rising", "href": "/blog/" },
+    { "label": "Give", "href": "/give/" }
+  ],
+
   "integrations": {
     "google_tag_manager_id": "",
     "google_analytics_id": "",
