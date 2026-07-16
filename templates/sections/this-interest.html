@@ -1,0 +1,19 @@
+<div class="this-week this-week--interest reveal">
+  <div class="this-week__badge" aria-hidden="true">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <path d="M4 8h13v6a4 4 0 0 1-4 4H8a4 4 0 0 1-4-4z"/>
+      <path d="M17 9h1.5a2.5 2.5 0 0 1 0 5H17"/>
+      <path d="M7 2.5c-.5.8-.5 1.4 0 2.2M11 2.5c-.5.8-.5 1.4 0 2.2"/>
+    </svg>
+  </div>
+  <div class="this-week__body">
+    <span class="eyebrow">{{this_interest.date_label}}</span>
+    <h3>{{this_interest.location_name}}</h3>
+    <p><strong>{{this_interest.time}}</strong> · {{this_interest.note}}</p>
+    {{#if this_interest.confirm_note}}<p class="this-week__firsttime">{{this_interest.confirm_note}}</p>{{/if}}
+  </div>
+  <div class="this-week__actions">
+    <a class="btn btn--primary" href="/connect/">Text Pastor Brian</a>
+    {{#if this_interest.map_url}}<a class="btn btn--ghost" href="{{this_interest.map_url}}" target="_blank" rel="noopener">Get directions</a>{{/if}}
+  </div>
+</div>

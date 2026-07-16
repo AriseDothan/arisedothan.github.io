@@ -307,3 +307,10 @@
 .this-week--serve .this-week__badge { background: var(--accent); color: #fff; }
 .this-week--serve .this-week__badge::after { display: none; }
 .this-week__firsttime { margin-top: .55rem; font-weight: 600; color: var(--accent); }
+
+/* Interest Night variant — warm coral accent, distinct from the gold Thursday and cobalt serve cards */
+.this-week--interest { border-color: rgb(var(--dawn-rose));
+  background: linear-gradient(135deg, rgba(var(--dawn-rose), .18), var(--card)); }
+.this-week--interest .this-week__badge { background: rgb(var(--dawn-rose)); color: #4a2418; }
+.this-week--interest .this-week__badge::after { display: none; }
+.this-week--interest .this-week__firsttime { color: #9a4f31; }

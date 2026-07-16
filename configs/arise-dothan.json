@@ -166,6 +166,16 @@
     "map_url": "https://www.google.com/maps/search/?api=1&query=Love+in+Action+Dothan+AL"
   },
 
+  "_this_interest_note": "MONTHLY on-ramp event for newcomers. Edit this block for the next Interest Night (date_label / location_name / time / note / confirm_note). confirm_note is the optional 'text Pastor Brian to confirm' line. map_url is optional; the 'Get directions' button hides if it's blank.",
+  "this_interest": {
+    "date_label": "Interest Night · Sunday, July 26",
+    "location_name": "Mural City Coffee",
+    "time": "4:00-5:30 PM",
+    "note": "Upstairs in the conference room and gathering space. A relaxed evening to meet the Arise family, hear our story, and ask anything. Come as you are.",
+    "confirm_note": "Confirming your attendance by texting Pastor Brian is optional. It helps us prepare, but it is never required. If you would rather just show up, please do, and we will be glad you came.",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Mural+City+Coffee+Dothan+AL"
+  },
+
   "give_options": {
     "funds": ["General Fund", "Building Fund", "Missions Fund", "Youth Fund", "Worship Fund"],
     "amounts": [25, 50, 100, 250]
