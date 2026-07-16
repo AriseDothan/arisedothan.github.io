@@ -136,10 +136,11 @@
     { "when": "Monthly", "time": "Interest Night", "what": "Date and time announced", "detail": "A relaxed evening for the curious — meet the Arise family, hear our story, and ask anything. Follow us on social or text Pastor Brian for this month's date and location." }
   ],
 
-  "_this_week_note": "WEEKLY UPDATE — edit this block every week (see CLAUDE.md 'Updating this week's gathering location'), commit, push to both repos. date_label/location_name/note are free text; map_url is optional (a Google Maps search link) and the 'Get directions' button hides automatically if it's left blank.",
+  "_this_week_note": "WEEKLY UPDATE — edit this block every week (see CLAUDE.md 'Updating this week's gathering location'), commit, push to both repos. date_label/location_name/time/note are free text (time renders as a bold prefix on the note, e.g. '6:00 PM · …', and is optional); map_url is optional (a Google Maps search link) and the 'Get directions' button hides automatically if it's left blank.",
   "this_week": {
     "date_label": "This Thursday · July 16",
     "location_name": "Mural City Coffee",
+    "time": "6:00 PM",
     "note": "We're at Mural City Coffee this week — 192 S. Foster St. Grab a coffee and pull up a seat.",
     "map_url": "https://www.google.com/maps/search/?api=1&query=Mural+City+Coffee+Dothan+AL"
   },
