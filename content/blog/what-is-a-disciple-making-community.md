@@ -22,7 +22,7 @@ Read that again slowly, because every phrase is doing work. *Together with other
 
 A Disciple Making Community isn't a lecture and it isn't a hangout — it's somewhere better than both. Every Thursday at 6:00 PM we gather for coffee, prayer, open Scripture, and honest conversation. We read the Bible together and actually talk about it. We pray for each other by name. We tell the truth about where we're struggling and where God is at work. It's the slow, unhurried work of following Jesus in the company of people who know you.
 
-Our spot moves around Dothan — a park one week, a coffee shop the next — so there's no single address to memorize. If you want to come, text Pastor Brian and I'll tell you exactly where we'll be that week. Come as you are. Bring your questions. There's a seat for you.
+Our spot moves around Dothan — a home one week, a coffee shop the next — so there's no single address to memorize. If you want to come, text Pastor Brian and I'll tell you exactly where we'll be that week. Come as you are. Bring your questions. There's a seat for you.
 
 ## Why "making," and why "multiplying"
 

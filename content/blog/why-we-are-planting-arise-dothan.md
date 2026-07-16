@@ -32,7 +32,7 @@ That's what we mean when we say our mission is to participate in God's kingdom b
 
 I'm not going to pretend we're something we're not. We're young and we're small — a launch team in the making, not yet a Sunday morning church, but building toward one with real intention.
 
-Every Thursday at 6:00 PM, we gather as a Disciple Making Community for coffee, prayer, open Scripture, and honest conversation. Our gathering spot moves around Dothan — a park one week, a coffee shop the next — so if you want to come, text Pastor Brian and I'll tell you exactly where we'll be. Once a month, on the second Saturday, we move out together to serve our city. That's the whole rhythm right now, and it's enough to build something real on.
+Every Thursday at 6:00 PM, we gather as a Disciple Making Community for coffee, prayer, open Scripture, and honest conversation. Our gathering spot moves around Dothan — a home one week, a coffee shop the next — so if you want to come, text Pastor Brian and I'll tell you exactly where we'll be. Once a month, on the second Saturday, we move out together to serve our city. That's the whole rhythm right now, and it's enough to build something real on.
 
 It's not flashy. There's no fog machine, no big stage. What there is: real people, an open Bible, and a growing conviction that God is doing something in this city that's bigger than any one room. Every dawn starts small. We're praying this is one of those mornings.
 
