@@ -1,0 +1,18 @@
+<div class="this-week this-week--serve reveal">
+  <div class="this-week__badge" aria-hidden="true">
+    <svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
+      <path d="M12 20.5S4.5 16 4.5 9.8A4.3 4.3 0 0 1 12 6.9a4.3 4.3 0 0 1 7.5 2.9C19.5 16 12 20.5 12 20.5z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/>
+      <path d="M9.4 12.2l1.7 1.6 3.2-3.3" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+  </div>
+  <div class="this-week__body">
+    <span class="eyebrow">{{this_saturday.date_label}}</span>
+    <h3>{{this_saturday.location_name}}</h3>
+    <p><strong>{{this_saturday.time}}</strong> · {{this_saturday.note}}</p>
+    {{#if this_saturday.first_time_note}}<p class="this-week__firsttime">{{this_saturday.first_time_note}}</p>{{/if}}
+  </div>
+  <div class="this-week__actions">
+    <a class="btn btn--primary" href="/connect/">Text Pastor Brian</a>
+    {{#if this_saturday.map_url}}<a class="btn btn--ghost" href="{{this_saturday.map_url}}" target="_blank" rel="noopener">Get directions</a>{{/if}}
+  </div>
+</div>

@@ -144,6 +144,16 @@
     "map_url": "https://www.google.com/maps/search/?api=1&query=Mural+City+Coffee+Dothan+AL"
   },
 
+  "_this_saturday_note": "MONTHLY UPDATE — the 2nd-Saturday 'Serve the City' / Move Out day. Edit this block once a month for that month's serve (date_label / location_name / time / note), independent of the weekly this_week Thursday block so the two never clobber each other. first_time_note is the newcomer 'text Pastor Brian' prompt. map_url is optional — the 'Get directions' button hides if it's blank.",
+  "this_saturday": {
+    "date_label": "Next Serve · Saturday, August 8",
+    "location_name": "Love in Action",
+    "time": "9:00 AM",
+    "note": "We'll meet at Love in Action and serve from there.",
+    "first_time_note": "First time serving with us? Text Pastor Brian and he'll tell you exactly where and when we're meeting.",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Love+in+Action+Dothan+AL"
+  },
+
   "give_options": {
     "funds": ["General Fund", "Building Fund", "Missions Fund", "Youth Fund", "Worship Fund"],
     "amounts": [25, 50, 100, 250]

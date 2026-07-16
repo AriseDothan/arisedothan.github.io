@@ -300,3 +300,10 @@
 .this-week__body p { color: var(--muted); font-size: .95rem; }
 .this-week__actions { display: flex; gap: .8rem; flex-wrap: wrap; }
 .section--dark .this-week { background: linear-gradient(135deg, rgba(var(--dawn-amber), .24), rgba(255,255,255,.06)); }
+
+/* Serve the City / Move Out variant — cobalt accent + serving icon so it reads clearly distinct from the gold Thursday card */
+.this-week--serve { border-color: var(--accent);
+  background: linear-gradient(135deg, rgba(var(--dawn-cobalt), .12), var(--card)); }
+.this-week--serve .this-week__badge { background: var(--accent); color: #fff; }
+.this-week--serve .this-week__badge::after { display: none; }
+.this-week__firsttime { margin-top: .55rem; font-weight: 600; color: var(--accent); }
