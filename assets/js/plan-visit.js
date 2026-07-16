@@ -1,8 +1,8 @@
-/* Arise Dothan — plan-visit.js
+/* Arise Dothan, plan-visit.js
    The "Plan your visit" composer: the visitor enters their first name +
    what brings them, and this live-builds a friendly message and opens
    their phone's Messages app pre-filled to Pastor Brian's number.
-   Direct, personal first contact — no form, no CRM.
+   Direct, personal first contact, no form, no CRM.
    Config injected by the connect page: window.ARISE_PLAN = { pastorSms }. */
 (function () {
   "use strict";

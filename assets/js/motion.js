@@ -1,4 +1,4 @@
-/* Arise Dothan — motion.js
+/* Arise Dothan, motion.js
    The "rises like dawn" motion layer: scroll reveals, rising-ember
    particles, hero parallax, horizon scroll-beam, timeline glow-spine,
    CTA ignite, counters. All rAF-throttled and motion/touch-gated. */

@@ -1,4 +1,4 @@
-/* Arise Dothan — form-handler.js
+/* Arise Dothan, form-handler.js
    Handles contact / prayer / connect forms.
    Posts JSON to the form's data-endpoint (Supabase Edge Function or
    email relay). If no endpoint is configured yet, it validates and
@@ -18,7 +18,7 @@
     form.addEventListener("submit", function (e) {
       e.preventDefault();
 
-      // Honeypot — silently drop bots
+      // Honeypot, silently drop bots
       var trap = form.querySelector('input[name="company"]');
       if (trap && trap.value) return;
 
@@ -47,7 +47,7 @@
       };
 
       if (!endpoint || endpoint.indexOf("PLACEHOLDER") !== -1) {
-        // Not wired yet — confirm locally so the form is testable.
+        // Not wired yet, confirm locally so the form is testable.
         setTimeout(function () { done(true, "Thank you! We'll be in touch soon. (Form backend not yet connected.)"); }, 500);
         return;
       }
@@ -69,7 +69,7 @@
               ok = body.success === true || body.success === "true";
               // FormSubmit's one-time activation gate: a brand-new destination
               // inbox returns success:"false" with an "Activation" message and
-              // emails the inbox owner an activation link — the submission was
+              // emails the inbox owner an activation link, the submission was
               // still received, so treat this as success for the visitor. Once
               // the owner clicks the link, later submissions return success
               // normally and never hit this branch again.
@@ -80,7 +80,7 @@
           });
         })
         .catch(function () {
-          done(false, "Sorry — something went wrong. Please call us at " + (form.getAttribute("data-phone") || "334-216-1587") + ".");
+          done(false, "Sorry, something went wrong. Please call us at " + (form.getAttribute("data-phone") || "334-216-1587") + ".");
         });
     });
   }

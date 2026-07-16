@@ -30,7 +30,7 @@
         <div class="give-card stack">
           <span class="eyebrow">Start a conversation</span>
           <h2 style="margin-top:.2rem">Text Pastor <span class="ti">Brian</span> directly</h2>
-          <p>No crowd, no cold walk-in. Fill this in and we'll open your phone's messages with a friendly note ready to send — Brian will be expecting you.</p>
+          <p>No crowd, no cold walk-in. Fill this in and we'll open your phone's messages with a friendly note ready to send, Brian will be expecting you.</p>
 
           <div class="field">
             <label for="planName">Your first name</label>
@@ -62,7 +62,7 @@
             <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true"><path d="M20 2H4a2 2 0 0 0-2 2v18l4-4h14a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2z"/></svg>
             Text Pastor Brian now
           </a>
-          <p class="help">This opens your messages with the note above — you can edit anything before you hit send. On a computer? Text <a href="tel:{{business.phone_raw}}">{{business.phone}}</a> or email <a href="mailto:{{business.email}}">{{business.email}}</a>.</p>
+          <p class="help">This opens your messages with the note above, you can edit anything before you hit send. On a computer? Text <a href="tel:{{business.phone_raw}}">{{business.phone}}</a> or email <a href="mailto:{{business.email}}">{{business.email}}</a>.</p>
         </div>
       </div>
 
@@ -72,9 +72,9 @@
         <h2>You won't walk in as a <span class="ti">stranger</span>.</h2>
         <p class="lede">The hardest part of visiting a new church is the first step. So we made it a conversation, not a crowd.</p>
         <div class="grid" style="gap:.9rem">
-          <div class="card"><div class="card__icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor" aria-hidden="true"><path d="M20 2H4a2 2 0 0 0-2 2v18l4-4h14a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2z"/></svg></div><h3>A real person</h3><p>Your text goes straight to Pastor Brian — not a form or an inbox no one checks.</p></div>
+          <div class="card"><div class="card__icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor" aria-hidden="true"><path d="M20 2H4a2 2 0 0 0-2 2v18l4-4h14a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2z"/></svg></div><h3>A real person</h3><p>Your text goes straight to Pastor Brian, not a form or an inbox no one checks.</p></div>
           <div class="card"><div class="card__icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor" aria-hidden="true"><path d="M12 21s-7-4.35-9.5-8.5C.9 9.6 2.3 6 5.5 6 7.4 6 8.8 7 12 9.8 15.2 7 16.6 6 18.5 6 21.7 6 23.1 9.6 21.5 12.5 19 16.65 12 21 12 21z"/></svg></div><h3>He'll be expecting you</h3><p>Come Thursday, you'll already have a friendly face who knows your name.</p></div>
-          <div class="card"><div class="card__icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor" aria-hidden="true"><path d="M12 2C8.1 2 5 5.1 5 9c0 5.2 7 13 7 13s7-7.8 7-13c0-3.9-3.1-7-7-7zm0 9.5A2.5 2.5 0 1 1 12 6.5a2.5 2.5 0 0 1 0 5z"/></svg></div><h3>Come as you are</h3><p>We gather every Thursday somewhere new around {{business.address.city}} as a Disciple Making Community — text Pastor Brian and he'll tell you where. Casual, warm, and centered on Jesus.</p></div>
+          <div class="card"><div class="card__icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor" aria-hidden="true"><path d="M12 2C8.1 2 5 5.1 5 9c0 5.2 7 13 7 13s7-7.8 7-13c0-3.9-3.1-7-7-7zm0 9.5A2.5 2.5 0 1 1 12 6.5a2.5 2.5 0 0 1 0 5z"/></svg></div><h3>Come as you are</h3><p>We gather every Thursday somewhere new around {{business.address.city}} as a Disciple Making Community, text Pastor Brian and he'll tell you where. Casual, warm, and centered on Jesus.</p></div>
         </div>
         <div class="btn-row"><a class="btn btn--ghost" href="{{business.map_url}}" target="_blank" rel="noopener">Our home base</a></div>
         {{#if social.facebook}}<p class="help">Follow along: <a href="{{social.facebook}}" target="_blank" rel="noopener">Facebook</a>{{#if social.instagram}} · <a href="{{social.instagram}}" target="_blank" rel="noopener">Instagram</a>{{/if}}{{#if social.x}} · <a href="{{social.x}}" target="_blank" rel="noopener">X</a>{{/if}}</p>{{/if}}

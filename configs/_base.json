@@ -1,7 +1,7 @@
 {
   "_comment": "Base config deep-merged UNDER every site config (build.js loadConfig → deepMerge). Put ONLY cross-site defaults here: branding tokens + fonts + shared nav. Arrays (nav_links) are REPLACED wholesale by a site config that redefines them, not merged.",
 
-  "_branding_note": "Extracted from the live arisedothan.com brand: cobalt-blue logo (rising-sun motif) = primary; warm sunrise gold + cream = secondary accents; deep navy for dark sections. KEY NAMES are load-bearing — generateVariablesCSS() maps each to a :root CSS var (accent→--accent, gold→--gold, black→--black, font_heading→--font-heading, …) that the stylesheets reference. Keep the keys; change values only.",
+  "_branding_note": "Extracted from the live arisedothan.com brand: cobalt-blue logo (rising-sun motif) = primary; warm sunrise gold + cream = secondary accents; deep navy for dark sections. KEY NAMES are load-bearing, generateVariablesCSS() maps each to a :root CSS var (accent→--accent, gold→--gold, black→--black, font_heading→--font-heading, …) that the stylesheets reference. Keep the keys; change values only.",
   "branding": {
     "black": "#0e1726",
     "charcoal": "#14233a",
@@ -26,7 +26,7 @@
 
   "fonts_url": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;0,9..144,900;1,9..144,500;1,9..144,600;1,9..144,700&family=Jost:wght@300;400;500;600;700&display=swap",
 
-  "_nav_note": "Church navigation for a launch-phase plant. The header CTA button is 'Text Pastor Brian' (→ /connect/, the text-Pastor-Brian composer) — the site's primary call to action this season — so 'Connect' is intentionally NOT in this array. 'Give' was re-added once online giving went live through the partner church's PushPay portal.",
+  "_nav_note": "Church navigation for a launch-phase plant. The header CTA button is 'Text Pastor Brian' (→ /connect/, the text-Pastor-Brian composer), the site's primary call to action this season, so 'Connect' is intentionally NOT in this array. 'Give' was re-added once online giving went live through the partner church's PushPay portal.",
   "nav_links": [
     { "label": "Home", "href": "/" },
     { "label": "Our Story", "href": "/our-story/" },

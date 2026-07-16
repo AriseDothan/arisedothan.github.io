@@ -1,4 +1,4 @@
-/* Arise Dothan — main.js : header + mobile nav */
+/* Arise Dothan, main.js : header + mobile nav */
 (function () {
   "use strict";
 
@@ -36,7 +36,7 @@
     });
   }
 
-  // Sticky mobile "Text Pastor Brian" — hide once the footer scrolls into view
+  // Sticky mobile "Text Pastor Brian", hide once the footer scrolls into view
   var stickyCta = document.getElementById("sticky-cta");
   var footer = document.querySelector(".site-footer");
   if (stickyCta && footer && "IntersectionObserver" in window) {

@@ -1,4 +1,4 @@
-/* Arise Dothan — give.js
+/* Arise Dothan, give.js
    Front end for the Give page. Talks to Arise's existing Stripe +
    Supabase backend (AriseDothan/arise-giving-api on Render):
      POST {apiBase}/create-payment-intent   (one-time)
@@ -111,7 +111,7 @@
     var base = Number(state.amount) || 0;
     if (base < 1) return say("Please choose or enter an amount.", false);
     if (!els.name.value || !els.email.value) return say("Please add your name and email.", false);
-    if (!pkReady) return say("Online giving is being connected — please check back soon, or give in person. Thank you!", false);
+    if (!pkReady) return say("Online giving is being connected, please check back soon, or give in person. Thank you!", false);
 
     els.submit.disabled = true; var label = els.submit.textContent; els.submit.textContent = "Processing…";
     var payload = {

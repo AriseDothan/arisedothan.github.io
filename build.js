@@ -443,7 +443,7 @@ function generateAgentSkills(config, pages) {
     if (Array.isArray(config.gatherings) && config.gatherings.length) {
       md += `## Gatherings\n\n`;
       for (const g of config.gatherings) {
-        md += `- ${[g.when, g.time, g.what].filter(Boolean).join(' — ')}${g.detail ? `: ${g.detail}` : ''}\n`;
+        md += `- ${[g.when, g.time, g.what].filter(Boolean).join(', ')}${g.detail ? `: ${g.detail}` : ''}\n`;
       }
       md += `\n`;
     }
@@ -458,12 +458,12 @@ function generateAgentSkills(config, pages) {
     md += `\n## Reference\n\n`;
     if (area) md += `- Area served: ${area}\n`;
     md += `- Machine-readable site index: ${base}/llms.txt\n`;
-    skills.push({ name: 'plan-a-visit', description: `How to plan a first visit to ${b.name} — gathering times, location, and how to connect.`, md });
+    skills.push({ name: 'plan-a-visit', description: `How to plan a first visit to ${b.name}: gathering times, location, and how to connect.`, md });
   }
 
   // Skill: business info (contact, hours, location, service area).
   {
-    let md = `# ${b.name} — Business Information\n\n`;
+    let md = `# ${b.name}: Business Information\n\n`;
     if (b.tagline) md += `> ${b.tagline}\n\n`;
     md += `## Contact\n\n`;
     if (b.phone) md += `- Phone: ${b.phone}\n`;
