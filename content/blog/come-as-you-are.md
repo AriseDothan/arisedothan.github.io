@@ -24,13 +24,13 @@ Our Thursday gatherings are ordinary on purpose, coffee, an open Bible, honest c
 
 ## Why we can say it
 
-We can promise this because it isn't really about us, it's about Jesus, and how He actually treated people. He was forever at tables with the very people the religious crowd had written off. He didn't wait for anyone to get respectable first; He came to them, ate with them, and loved them into something new. Grace was always the front door, never the reward at the end.
+We can promise this because it isn't really about us, it's about Jesus, and how he actually treated people. He was forever at tables with the very people the religious crowd had written off. He didn't wait for anyone to get respectable first; he came to them, ate with them, and loved them into something new. Grace was always the front door, never the reward at the end.
 
-So when we say come as you are, we're just trying to do what He did. We don't have the power to change anyone, but we've staked our lives on the conviction that He does, and that He tends to start right where a person actually is, not where they wish they were.
+So when we say come as you are, we're just trying to do what he did. We don't have the power to change anyone, but we've staked our lives on the conviction that he does, and that he tends to start right where a person actually is, not where they wish they were.
 
 ## The honest catch
 
-Come as you are, and don't expect to stay exactly as you are. That's not a bait-and-switch; it's the best news in the world. Jesus loves you as you are, and He loves you far too much to leave you there. Following Him changes people, slowly and for good, in the company of others walking the same road. But that change is His work on His timing, not a condition you have to meet before you're allowed in.
+Come as you are, and don't expect to stay exactly as you are. That's not a bait-and-switch; it's the best news in the world. Jesus loves you as you are, and he loves you far too much to leave you there. Following him changes people, slowly and for good, in the company of others walking the same road. But that change is his work on his timing, not a condition you have to meet before you're allowed in.
 
 ## So, come
 

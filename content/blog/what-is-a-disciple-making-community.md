@@ -26,7 +26,7 @@ Our spot moves around Dothan, a home one week, a coffee shop the next, so there'
 
 ## Why "making," and why "multiplying"
 
-Here's the part that makes it more than a small group: we're not just trying to grow disciples, we're trying to grow disciples *who make disciples*. Jesus didn't tell us to accumulate followers, He told us to go and make more. So a healthy Disciple Making Community is always looking outward, praying that the people being formed in it will one day help form someone else.
+Here's the part that makes it more than a small group: we're not just trying to grow disciples, we're trying to grow disciples *who make disciples*. Jesus didn't tell us to accumulate followers, he told us to go and make more. So a healthy Disciple Making Community is always looking outward, praying that the people being formed in it will one day help form someone else.
 
 That's why we talk about *multiplying* disciples across our city. One table becomes two. Two become four. That's not a growth strategy we invented; it's the way the kingdom has always moved, ordinary people, changed by Jesus, helping the next person take a step. It's how a launch team gets built, and it's how a church keeps growing long after launch day.
 

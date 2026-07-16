@@ -24,7 +24,7 @@ Arise Dothan exists for all three. There's a seat at this table for you, whereve
 
 ## Follow. Become. Do.
 
-Everything we do traces back to three words: **Follow. Become. Do.** We want to help people follow Jesus, become like Him, and do what He did, right here in the Wiregrass, in the power of the Holy Spirit. Not as a program to complete, but as the whole shape of a life waking up to God.
+Everything we do traces back to three words: **Follow. Become. Do.** We want to help people follow Jesus, become like him, and do what he did, right here in the Wiregrass, in the power of the Holy Spirit. Not as a program to complete, but as the whole shape of a life waking up to God.
 
 That's what we mean when we say our mission is to participate in God's kingdom by multiplying disciples across our city. Not just gathering a crowd, forming people who follow Jesus and then help others do the same. A church that multiplies, not just adds.
 

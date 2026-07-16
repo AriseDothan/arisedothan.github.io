@@ -38,7 +38,7 @@ And mission? Mission isn't a someday. On the second Saturday of every month, we 
 
 ## Held together by disciples
 
-Here's what ties worship and mission into one life instead of two competing programs: disciples. People who follow Jesus, become like Him, and do what He did. A disciple worships *and* is sent, those aren't two different kinds of Christian, they're the same person breathing in and breathing out. So when we say our mission is to multiply disciples across our city, we mean people who will fill a worship gathering on Sunday and love their neighbors on Tuesday, without ever thinking they had to choose.
+Here's what ties worship and mission into one life instead of two competing programs: disciples. People who follow Jesus, become like him, and do what he did. A disciple worships *and* is sent, those aren't two different kinds of Christian, they're the same person breathing in and breathing out. So when we say our mission is to multiply disciples across our city, we mean people who will fill a worship gathering on Sunday and love their neighbors on Tuesday, without ever thinking they had to choose.
 
 Gather and send. Move Up and Move Out. At Arise Dothan, it was never going to be one or the other. Come see both take shape, text Pastor Brian, and let's talk.
 

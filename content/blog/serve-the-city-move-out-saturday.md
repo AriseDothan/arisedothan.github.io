@@ -32,7 +32,7 @@ Our next Move Out is coming up on the second Saturday, this month we're serving 
 
 ## Where it's all headed
 
-None of this is a program we run to look good. It's part of something bigger: multiplying disciples across Dothan, people who follow Jesus, become like Him, and do what He did, long after our launch team becomes a whole church. A service project changes an afternoon. A rhythm of showing up, month after month in Jesus' name, helps change a city.
+None of this is a program we run to look good. It's part of something bigger: multiplying disciples across Dothan, people who follow Jesus, become like him, and do what he did, long after our launch team becomes a whole church. A service project changes an afternoon. A rhythm of showing up, month after month in Jesus' name, helps change a city.
 
 Come move out with us. There's room for you in this part of the rhythm too.
 

@@ -14,7 +14,7 @@ If you spend time with us, you'll notice we pray a lot, and not as a formality t
 
 We could try to build this church on good strategy and hard work. Plenty of organizations run fine on those two things. But a church isn't an organization, it's a people depending on God to do what only God can do. One of our core convictions is that we're Spirit-led: we depend on the Holy Spirit to guide, empower, and transform us as we follow Jesus.
 
-Take prayer away, and we're just self-improvement with a cross on top. Prayer is how we admit, out loud and together, that we can't manufacture the things we most want, changed hearts, a city coming awake to God, disciples who make disciples. Those are His to give. So we ask.
+Take prayer away, and we're just self-improvement with a cross on top. Prayer is how we admit, out loud and together, that we can't manufacture the things we most want, changed hearts, a city coming awake to God, disciples who make disciples. Those are his to give. So we ask.
 
 ## What it actually looks like
 
@@ -24,11 +24,11 @@ You don't have to be good at it. You don't need the right words or a certain ton
 
 ## Praying for Dothan
 
-We don't only pray for ourselves. We pray for this city, for the Wiregrass to come awake to God, for the people who've written church off, for the neighbors we serve on our monthly Move Out Saturdays. We believe God was already at work in Dothan long before we arrived, and prayer is how we join what He's doing instead of launching our own plans and asking Him to bless them.
+We don't only pray for ourselves. We pray for this city, for the Wiregrass to come awake to God, for the people who've written church off, for the neighbors we serve on our monthly Move Out Saturdays. We believe God was already at work in Dothan long before we arrived, and prayer is how we join what he's doing instead of launching our own plans and asking him to bless them.
 
 ## An invitation to depend
 
-Here's the quiet truth under all of it: prayer is mostly about dependence. It's the daily, humbling admission that we need God, and the wonderful discovery that He's actually there, actually listening, and actually at work.
+Here's the quiet truth under all of it: prayer is mostly about dependence. It's the daily, humbling admission that we need God, and the wonderful discovery that he's actually there, actually listening, and actually at work.
 
 If your own prayer life feels rusty, or fake, or nonexistent, you're in good company, and you don't have to fix it before you come. Come pray with people who are learning too. Text Pastor Brian and I'll tell you where we're gathering this week. We'll save you a seat, and, if you're willing, we'll pray for you by name.
 

@@ -78,7 +78,7 @@
     "our_story": {
       "eyebrow": "Our Story",
       "hero_title": "A new church rising in the heart of Dothan.",
-      "hero_sub": "We exist to help people follow Jesus, become like Him, and do what He did, right here in the Wiregrass."
+      "hero_sub": "We exist to help people follow Jesus, become like him, and do what he did, right here in the Wiregrass."
     },
     "gatherings": {
       "eyebrow": "Gatherings",
@@ -106,7 +106,7 @@
     { "title": "Love People", "text": "We love others with the compassion, grace, and truth of Christ." },
     { "title": "Serve Humbly", "text": "We follow Jesus by putting others before ourselves and serving with humility." },
     { "title": "Give Generously", "text": "We live open-handed with our time, talents, and resources for God's kingdom." },
-    { "title": "Steward Well", "text": "We faithfully manage everything God has entrusted to us for His glory." },
+    { "title": "Steward Well", "text": "We faithfully manage everything God has entrusted to us for his glory." },
     { "title": "Be Spirit Led", "text": "We depend on the Holy Spirit to guide, empower, and transform us as we follow Jesus." }
   ],
 
@@ -114,13 +114,13 @@
     "vision": {
       "eyebrow": "Vision · What do we see?",
       "title": "The future we're praying toward",
-      "lede": "We see people in Dothan follow Jesus, become like Him, and do what He did in the power of the Spirit."
+      "lede": "We see people in Dothan follow Jesus, become like him, and do what he did in the power of the Spirit."
     },
     "mission": {
       "eyebrow": "Mission · What are we doing?",
       "title": "Multiplying disciples across our city",
       "lede": "We participate in God's kingdom by multiplying disciples across our city.",
-      "text": "We believe God is already at work in Dothan, and our role is to join Him by making disciples who make disciples."
+      "text": "We believe God is already at work in Dothan, and our role is to join him by making disciples who make disciples."
     }
   },
 
@@ -209,7 +209,7 @@
   },
 
   "pages": [
-    { "template": "pages/index.html",      "output": "index.html",             "path": "/",            "title": "Arise Dothan | A Spirit-filled, Bible-centered church in Dothan, AL", "meta_description": "Arise Dothan is a church plant gathering every Thursday as a Disciple Making Community, the location moves, so text Pastor Brian for this week's spot. We Move Up, Move In, and Move Out: follow Jesus, become like Him, do what He did.", "priority": "1.0", "changefreq": "weekly" },
+    { "template": "pages/index.html",      "output": "index.html",             "path": "/",            "title": "Arise Dothan | A Spirit-filled, Bible-centered church in Dothan, AL", "meta_description": "Arise Dothan is a church plant gathering every Thursday as a Disciple Making Community, the location moves, so text Pastor Brian for this week's spot. We Move Up, Move In, and Move Out: follow Jesus, become like him, do what he did.", "priority": "1.0", "changefreq": "weekly" },
     { "template": "pages/our-story.html",  "output": "our-story/index.html",   "path": "/our-story/",  "title": "Our Story", "meta_description": "Meet Arise Dothan, our mission to make disciples who make disciples, our core values, and our leaders Brian & Jaclyn Turner.", "priority": "0.8", "changefreq": "monthly" },
     { "template": "pages/beliefs.html",    "output": "beliefs/index.html",     "path": "/beliefs/",    "title": "What We Believe", "meta_description": "What Arise Dothan believes, centered in Jesus, rooted in Scripture, alive by the Spirit, and lived out as we Move Up, Move In, and Move Out, plus the Foursquare Church's official Declaration of Faith.", "priority": "0.7", "changefreq": "monthly" },
     { "template": "pages/gatherings.html", "output": "gatherings/index.html",  "path": "/gatherings/", "title": "Gatherings & What to Expect", "meta_description": "When and where Arise Dothan gathers, our Thursday Disciple Making Community at 6 PM, location moving around Dothan each week, plus our monthly Interest Night and serving the city together on the 2nd Saturday. Children are always welcome. Text Pastor Brian to plan your first Thursday.", "priority": "0.9", "changefreq": "weekly" },
