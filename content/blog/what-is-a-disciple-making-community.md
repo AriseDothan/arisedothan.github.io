@@ -8,7 +8,7 @@ category: "Discipleship"
 excerpt: "It's the heart of how we gather right now, a smaller community learning to follow Jesus together and equipped to help others do the same. Here's what that actually means."
 ---
 
-If you've spent any time around Arise Dothan, you've heard us use a phrase that might be new to you: **Disciple Making Community**. It's what we call our Thursday gathering, and it's the center of gravity for everything we're doing in this season. So let me tell you plainly what it is, and why it matters.
+If you've spent any time around Arise Dothan, you've heard us use a phrase that might be new to you: **Disciple Making Community**. It's what we call our Sunday gathering, and it's the center of gravity for everything we're doing in this season. So let me tell you plainly what it is, and why it matters.
 
 ## Start with the word *disciple*
 
@@ -18,11 +18,11 @@ Before we can talk about a disciple-*making* community, we have to be honest abo
 
 Read that again slowly, because every phrase is doing work. *Together with others*, discipleship is not a solo project. *By the power of the Holy Spirit*, it's not self-improvement; it's God's work in us. *Pursues Jesus, is being changed by Jesus, engaged in the mission of Jesus*, following, becoming, and doing, all at once. That's a disciple. And a Disciple Making Community is simply a group of people helping one another become exactly that.
 
-## What actually happens on a Thursday
+## What actually happens on a Sunday
 
-A Disciple Making Community isn't a lecture and it isn't a hangout, it's somewhere better than both. Every Thursday at 6:00 PM we gather for coffee, prayer, open Scripture, and honest conversation. We read the Bible together and actually talk about it. We pray for each other by name. We tell the truth about where we're struggling and where God is at work. It's the slow, unhurried work of following Jesus in the company of people who know you.
+A Disciple Making Community isn't a lecture and it isn't a hangout, it's somewhere better than both. Every Sunday at 10:00 AM we gather at Mural City Coffee for coffee, prayer, open Scripture, and honest conversation. We read the Bible together and actually talk about it. We pray for each other by name. We tell the truth about where we're struggling and where God is at work. It's the slow, unhurried work of following Jesus in the company of people who know you.
 
-Our spot moves around Dothan, a home one week, a coffee shop the next, so there's no single address to memorize. If you want to come, text Pastor Brian and I'll tell you exactly where we'll be that week. Come as you are. Bring your questions. There's a seat for you.
+We meet at Mural City Coffee, 192 S. Foster St., so there's one easy address to remember. If you want to come, text Pastor Brian and he'll be expecting you. Come as you are. Bring your questions. There's a seat for you.
 
 ## Why "making," and why "multiplying"
 
@@ -32,8 +32,8 @@ That's why we talk about *multiplying* disciples across our city. One table beco
 
 ## Not a placeholder, the foundation
 
-It would be easy to look at where we are and see a waiting room: *we'll do the real thing once Sunday mornings launch.* I want to push back on that as hard as I can. The Disciple Making Community isn't a holding pattern until the "real church" starts. It **is** the church, doing the most important work a church can do, forming people into the likeness of Jesus and equipping them to go do the same. Everything we build on Sunday mornings will only be as healthy as the disciples being made on Thursdays right now.
+It would be easy to look at where we are and see a waiting room: *we'll do the real thing once our Sunday celebration launches.* I want to push back on that as hard as I can. The Disciple Making Community isn't a holding pattern until the "real church" starts, even though, for now, it happens to meet on the same morning we're building toward. It **is** the church, doing the most important work a church can do, forming people into the likeness of Jesus and equipping them to go do the same. Everything we build toward that Sunday celebration will only be as healthy as the disciples being made right now. And when we launch, this Disciple Making Community won't end, it'll multiply into other days and times too.
 
-So if you're wondering where to start with Arise Dothan, start here. This is the ground floor, and there's room for you to help build it. Text Pastor Brian, come to a Thursday, and see what it looks like to follow Jesus together.
+So if you're wondering where to start with Arise Dothan, start here. This is the ground floor, and there's room for you to help build it. Text Pastor Brian, come to a Sunday, and see what it looks like to follow Jesus together.
 
 Pastor Brian

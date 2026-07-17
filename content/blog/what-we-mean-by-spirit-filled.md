@@ -18,13 +18,13 @@ Before it's an adjective, the Holy Spirit is a Person, God himself, present with
 
 That's Acts 1:8, and the whole Christian life runs on it. God doesn't just ask us to follow him, he comes to live in us and give us the power to actually do it. So when we say "Spirit-filled," we're not describing a style of music or a volume level. We're saying we depend on the real presence of God.
 
-## What it looks like on an ordinary Thursday
+## What it looks like on an ordinary Sunday
 
 Here's the part I most want you to hear: being Spirit-filled is for ordinary people, in ordinary life. It's one of our core values, *we depend on the Holy Spirit to guide, empower, and transform us as we follow Jesus.* That's not reserved for pastors or "super-Christians."
 
 Our whole vision is to see people follow Jesus, become like him, and do what he did, *in the power of the Spirit.* Take that last phrase away and everything else is just self-improvement. We're not interested in trying to be good Christians on our own steam. We're interested in what God does through people who lean on him.
 
-On a Thursday, that can look quiet: someone praying for a friend and truly meaning it, a hard heart softening over an open Bible, the courage to be honest in a room full of people. It doesn't have to look dramatic to be the Spirit at work.
+On a Sunday, that can look quiet: someone praying for a friend and truly meaning it, a hard heart softening over an open Bible, the courage to be honest in a room full of people. It doesn't have to look dramatic to be the Spirit at work.
 
 ## Fruit before fireworks
 
@@ -38,7 +38,7 @@ Let me say the quiet part out loud, because some of you have been burned. Being 
 
 ## Come and see
 
-If all of this is new, or a little intimidating, you don't have to have it figured out to come. There's nothing to perform and no words you have to get right. Come as you are, bring your questions, and see for yourself what it looks like when ordinary people depend on God together. That's the whole invitation, text Pastor Brian and join us this Thursday.
+If all of this is new, or a little intimidating, you don't have to have it figured out to come. There's nothing to perform and no words you have to get right. Come as you are, bring your questions, and see for yourself what it looks like when ordinary people depend on God together. That's the whole invitation, text Pastor Brian and join us this Sunday.
 
 The same glory that's rising over Dothan is the Spirit of God himself. We'd love for you to meet him with us.
 

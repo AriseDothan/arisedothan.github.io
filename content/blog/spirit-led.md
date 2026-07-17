@@ -32,6 +32,6 @@ Being led by the Spirit is not weird or reckless. It grows in the same soil as e
 
 If you've been white-knuckling your way through life, trying to figure it all out alone, there's a better way. Ask the Spirit to lead you, then take the next small step he shows you. This is the "Follow" in Follow, Become, Do, and it's meant to be a walk, not a sprint you do by yourself.
 
-Next in the series, the last one: all of this together is simply a life in the Spirit. Until then, come learn his pace with us, text Pastor Brian and join us this week.
+Next in the series, the last one: all of this together is simply a life in the Spirit. Until then, come learn his pace with us, text Pastor Brian and join us this Sunday.
 
 Pastor Brian

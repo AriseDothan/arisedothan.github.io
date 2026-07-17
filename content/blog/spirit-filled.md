@@ -32,6 +32,6 @@ At Arise, that's why we pray the way we do, and why we call ourselves Spirit-fil
 
 If you feel dry, that's not a disqualification, it's an invitation. Come back to the well. Ask him to fill you again, and expect that he will. Being filled isn't reserved for the spiritually impressive. It's for anyone willing to keep yielding.
 
-Next in the series: as the Spirit fills you, he also forms you into the likeness of Jesus. Until then, come be filled with us, text Pastor Brian and join us this week.
+Next in the series: as the Spirit fills you, he also forms you into the likeness of Jesus. Until then, come be filled with us, text Pastor Brian and join us this Sunday.
 
 Pastor Brian

@@ -18,7 +18,7 @@ Take prayer away, and we're just self-improvement with a cross on top. Prayer is
 
 ## What it actually looks like
 
-Our praying isn't fancy. On a Thursday, in our Disciple Making Community, it looks like ordinary people praying for each other by name, the job interview, the hard marriage, the wandering kid, the diagnosis. It looks like reading a bit of Scripture and then actually talking to God about it instead of just closing the book. It looks like sitting quietly long enough to listen, not only to talk.
+Our praying isn't fancy. On a Sunday morning, in our Disciple Making Community, it looks like ordinary people praying for each other by name, the job interview, the hard marriage, the wandering kid, the diagnosis. It looks like reading a bit of Scripture and then actually talking to God about it instead of just closing the book. It looks like sitting quietly long enough to listen, not only to talk.
 
 You don't have to be good at it. You don't need the right words or a certain tone of voice. If you've never prayed out loud in your life, you can just listen while others do, no pressure, no performance. Some of the most honest prayers in our gatherings are three words long.
 
@@ -30,6 +30,6 @@ We don't only pray for ourselves. We pray for this city, for the Wiregrass to co
 
 Here's the quiet truth under all of it: prayer is mostly about dependence. It's the daily, humbling admission that we need God, and the wonderful discovery that he's actually there, actually listening, and actually at work.
 
-If your own prayer life feels rusty, or fake, or nonexistent, you're in good company, and you don't have to fix it before you come. Come pray with people who are learning too. Text Pastor Brian and I'll tell you where we're gathering this week. We'll save you a seat, and, if you're willing, we'll pray for you by name.
+If your own prayer life feels rusty, or fake, or nonexistent, you're in good company, and you don't have to fix it before you come. Come pray with people who are learning too. Text Pastor Brian, and come join us Sunday morning at Mural City Coffee. We'll save you a seat, and, if you're willing, we'll pray for you by name.
 
 Pastor Brian

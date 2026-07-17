@@ -16,7 +16,7 @@ Let me tell you what those Saturdays are actually about, because it's one of the
 
 Plenty of churches do a service project once a year, take the photos, and call it done. That's not what this is. Move Out is a *rhythm*, the same slot, every month, on purpose. We'd rather show up for our city faithfully and unglamorously, again and again, than make one big splash and disappear.
 
-Whatever our Thursday Disciple Making Community receives during the week, encouragement, prayer, the Scriptures, each other, Move Out is where we carry it back out. A people who only ever gather eventually turn inward. We want to be a people who are gathered *and* sent.
+Whatever our Sunday Disciple Making Community receives during the week, encouragement, prayer, the Scriptures, each other, Move Out is where we carry it back out. A people who only ever gather eventually turn inward. We want to be a people who are gathered *and* sent.
 
 ## What it's actually about
 

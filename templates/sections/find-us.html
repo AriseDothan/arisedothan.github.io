@@ -6,12 +6,12 @@
     </svg>
   </div>
   <div class="this-week__body">
-    <span class="eyebrow">{{this_week.date_label}}</span>
-    <h3>{{this_week.location_name}}</h3>
-    <p>{{#if this_week.time}}<strong>{{this_week.time}}</strong> · {{/if}}{{this_week.note}}</p>
+    <span class="eyebrow">{{business.address.full}}</span>
+    <h3>{{business.address.venue}}</h3>
+    <p>Sundays at 10:00 AM. Casual, warm, and centered on Jesus, come as you are.</p>
   </div>
   <div class="this-week__actions">
     <a class="btn btn--gold" href="/connect/">Text Pastor Brian</a>
-    {{#if this_week.map_url}}<a class="btn btn--ghost" href="{{this_week.map_url}}" target="_blank" rel="noopener">Get directions</a>{{/if}}
+    <a class="btn btn--ghost" href="{{business.map_url}}" target="_blank" rel="noopener">Get directions</a>
   </div>
 </div>

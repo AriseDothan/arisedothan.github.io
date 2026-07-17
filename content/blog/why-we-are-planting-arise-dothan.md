@@ -30,15 +30,15 @@ That's what we mean when we say our mission is to participate in God's kingdom b
 
 ## The season we're in
 
-I'm not going to pretend we're something we're not. We're young and we're small, a launch team in the making, not yet a Sunday morning church, but building toward one with real intention.
+I'm not going to pretend we're something we're not. We're young and we're small, a launch team in the making. We gather Sundays at 10 for now, but we're not yet a Sunday celebration church, we're building toward one with real intention.
 
-Every Thursday at 6:00 PM, we gather as a Disciple Making Community for coffee, prayer, open Scripture, and honest conversation. Our gathering spot moves around Dothan, a home one week, a coffee shop the next, so if you want to come, text Pastor Brian and I'll tell you exactly where we'll be. Once a month, on the second Saturday, we move out together to serve our city. That's the whole rhythm right now, and it's enough to build something real on.
+Every Sunday at 10:00 AM, we gather as a Disciple Making Community at Mural City Coffee for coffee, prayer, open Scripture, and honest conversation. If you want to come, text Pastor Brian and I'll be expecting you. Once a month, on the second Saturday, we move out together to serve our city. That's the whole rhythm right now, and it's enough to build something real on.
 
 It's not flashy. There's no fog machine, no big stage. What there is: real people, an open Bible, and a growing conviction that God is doing something in this city that's bigger than any one room. Every dawn starts small. We're praying this is one of those mornings.
 
 ## An invitation, not a pitch
 
-If you're reading this because you're curious about Arise Dothan, here's my honest word to you: come see for yourself. Bring your questions, your doubts, your kids, your coffee order. There's no test to pass and no performance to sit through, just a group of ordinary people learning to follow Jesus together, building toward a Sunday we can't wait for you to see. And if you want to help form that launch team from the ground up, I would love to talk with you.
+If you're reading this because you're curious about Arise Dothan, here's my honest word to you: come see for yourself. Bring your questions, your doubts, your kids, your coffee order. There's no test to pass and no performance to sit through, just a group of ordinary people learning to follow Jesus together, building toward a Sunday celebration we can't wait for you to see. And if you want to help form that launch team from the ground up, I would love to talk with you.
 
 The glory of the Lord is rising over Dothan. I believe that with everything in me. I'd love for you to rise with us and see it for yourself.
 

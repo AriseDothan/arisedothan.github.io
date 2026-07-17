@@ -17,9 +17,9 @@
   var link = root.querySelector("[data-plan-send]");
 
   var INTENTS = {
-    visit: "I'd love to plan a visit to a Thursday gathering",
+    visit: "I'd love to plan a visit to a Sunday gathering",
     launch: "I'd love to hear about joining the launch team",
-    meet: "I'd love to meet you before I come on a Thursday",
+    meet: "I'd love to meet you before I come on a Sunday",
     question: "I have a question I was hoping you could help me with",
     prayer: "I have something I'd really appreciate prayer for"
   };

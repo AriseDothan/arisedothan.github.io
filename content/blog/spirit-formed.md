@@ -32,6 +32,6 @@ This is the "Become" in our mission, Follow, Become, Do. We're not trying to man
 
 You don't have to be far along to start. You just have to keep saying yes. The Spirit is patient, and he is not finished with you.
 
-Next in the series: the Spirit who forms us also leads us. Until then, come be formed alongside us, text Pastor Brian and join us this week.
+Next in the series: the Spirit who forms us also leads us. Until then, come be formed alongside us, text Pastor Brian and join us this Sunday.
 
 Pastor Brian

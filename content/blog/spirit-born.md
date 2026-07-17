@@ -32,6 +32,6 @@ When the Spirit gives you birth, he doesn't just hand you a fresh start. He fold
 
 If you have never begun, this is the beginning, and it is not complicated. Turn toward Jesus, trust him, and receive the Spirit he gives. You don't have to clean yourself up first or understand everything. Being born of the Spirit is how a life comes awake to God, and it is offered to you as you are.
 
-Next in the series: once the Spirit gives you birth, he keeps filling you. Come see for yourself in the meantime, text Pastor Brian and join us this week.
+Next in the series: once the Spirit gives you birth, he keeps filling you. Come see for yourself in the meantime, text Pastor Brian and join us this Sunday.
 
 Pastor Brian

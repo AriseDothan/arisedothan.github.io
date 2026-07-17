@@ -32,7 +32,7 @@ That's why we hold them together. We move out *because* we've moved up. We serve
 
 ## What that looks like right now
 
-I'll be honest about our season. Our Sunday morning worship gatherings are still ahead of us, they launch once our core team is formed, and I'd rather do that right than rush it. But worship isn't waiting on a launch date. It's already woven through our Thursday Disciple Making Communities, growing toward the morning we get to do it with all of Dothan.
+I'll be honest about our season. Our Disciple Making Community happens to gather on Sunday mornings right now, a temporary rhythm while we build the team, but our Sunday celebration gathering is still ahead of us, it launches once our core team is formed, and I'd rather do that right than rush it. Worship isn't waiting on a launch date, though. It's already woven through our Disciple Making Communities, growing toward the morning we get to do it with all of Dothan, and when that morning comes, these communities won't disappear, they'll multiply into other days and times across the week.
 
 And mission? Mission isn't a someday. On the second Saturday of every month, we already move out together to serve Dothan and the Wiregrass, real hands, real work, real people who need to know somebody showed up for them in Jesus' name. It's happening now, in this small season, before we're anywhere near a Sunday launch.
 

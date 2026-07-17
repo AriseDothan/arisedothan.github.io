@@ -33,6 +33,6 @@ Maybe all of this sounds wonderful and completely out of reach. Maybe your own e
 
 So here's the whole invitation, in one line: come and be immersed. Be born of the Spirit if you never have. Keep being filled. Let him form you and lead you. Do it with other ordinary people who are learning the same thing, in the unhurried rhythm of following Jesus together.
 
-The same glory that's rising over Dothan is the Spirit of God himself. We'd love for you to meet him with us. Text Pastor Brian and join us this week.
+The same glory that's rising over Dothan is the Spirit of God himself. We'd love for you to meet him with us. Text Pastor Brian and join us this Sunday.
 
 Pastor Brian
