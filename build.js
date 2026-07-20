@@ -1136,6 +1136,21 @@ async function buildSite(siteId) {
 
   const config = loadConfig(siteId);
 
+  // Special one-off announcement (e.g. announcement.expires: "2026-08-02")
+  // auto-clears itself once its date has passed, using the same
+  // BUILD_DATE-aware UTC-day comparison as scheduled blog posts, so the
+  // daily 13:05 UTC site rebuild drops it automatically the next day with
+  // no manual cleanup.
+  if (config.announcement && config.announcement.expires) {
+    const buildDateUTC = getBuildDateUTC();
+    const exp = new Date(config.announcement.expires);
+    const expiresDateUTC = Date.UTC(exp.getUTCFullYear(), exp.getUTCMonth(), exp.getUTCDate());
+    if (buildDateUTC > expiresDateUTC) {
+      console.log(`  ANNOUNCEMENT: expired ${config.announcement.expires} — dropping from build`);
+      delete config.announcement;
+    }
+  }
+
   // Staging: strip production TRACKING IDs so no real analytics/conversions
   // fire from test traffic. Webhook URLs are KEPT so form submissions can be
   // E2E-tested on staging — staged leads are distinguishable in GHL because

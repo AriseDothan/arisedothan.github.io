@@ -159,12 +159,20 @@
 
   "_this_interest_note": "MONTHLY on-ramp event for newcomers. Edit this block for the next Interest Night (date_label / location_name / time / note / confirm_note). confirm_note is the optional 'text Pastor Brian to confirm' line. map_url is optional; the 'Get directions' button hides if it's blank.",
   "this_interest": {
-    "date_label": "Interest Night · Sunday, July 26",
+    "date_label": "Interest Night · Sunday, August 23",
     "location_name": "Mural City Coffee",
     "time": "4:00-5:30 PM",
     "note": "Upstairs in the conference room and gathering space. A relaxed evening to meet the Arise family, hear our story, and ask anything. Come as you are.",
     "confirm_note": "Confirming your attendance by texting Pastor Brian is optional. It helps us prepare, but it is never required. If you would rather just show up, please do, and we will be glad you came.",
     "map_url": "https://www.google.com/maps/search/?api=1&query=Mural+City+Coffee+Dothan+AL"
+  },
+
+  "_announcement_note": "SPECIAL ONE-OFF SUNDAY ANNOUNCEMENT (e.g. an off-site or guest-preaching Sunday). Renders as a navy notice banner above the gold find-us card on the homepage and Gatherings page, ONLY while today <= expires. Auto-expires: the daily 13:05 UTC site rebuild drops it the day after 'expires' passes (same BUILD_DATE-aware UTC-day check used for scheduled blog posts), no manual cleanup needed. Delete this block once it's expired, or just leave it, it'll stay hidden.",
+  "announcement": {
+    "expires": "2026-08-02",
+    "tag": "Join us for a special Sunday",
+    "note": "Sunday, August 2 at 10:45 AM: we're gathering at New Seasons Fellowship in Headland, 613 Cleveland St. Pastor Brian is preaching that morning. Text Pastor Brian for details. Our regular Mural City Coffee rhythm resumes the following Sunday.",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=613+Cleveland+St+Headland+AL+36345"
   },
 
   "give_options": {

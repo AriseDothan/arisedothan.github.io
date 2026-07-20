@@ -64,6 +64,7 @@
         <span class="eyebrow">Find us</span>
         <h2>We'll tell you where to <span class="ti">find</span> us.</h2>
         <p class="lede">We gather every Sunday morning at Mural City Coffee. Here's where to find us, plus where we're serving next.</p>
+        {{#if announcement}}{{> special-announcement}}{{/if}}
         {{> find-us}}
         {{> this-saturday}}
         {{> this-interest}}

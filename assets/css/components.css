@@ -308,6 +308,20 @@
 .this-week--serve .this-week__badge::after { display: none; }
 .this-week__firsttime { margin-top: .55rem; font-weight: 600; color: var(--accent); }
 
+/* Special one-off announcement banner — navy + gold, sits above the gold find-us card, deliberately distinct so a temporary notice never gets mistaken for the standing gathering info */
+.special-note { display: flex; align-items: center; gap: 1.4rem; flex-wrap: wrap;
+  background: var(--dark); color: #fff; border-radius: 18px;
+  padding: 1.5rem 1.8rem; margin-bottom: 1.2rem; box-shadow: 0 16px 38px rgba(10,26,46,.3); position: relative; overflow: hidden; }
+.special-note::before { content: ""; position: absolute; inset: 0; pointer-events: none;
+  background: linear-gradient(120deg, rgba(var(--dawn-amber), .16), transparent 60%); }
+.special-note__icon { position: relative; width: 48px; height: 48px; border-radius: 50%; flex: none;
+  background: var(--gold); color: #3a2708; display: grid; place-items: center; }
+.special-note__icon svg { width: 24px; height: 24px; }
+.special-note__body { position: relative; flex: 1 1 320px; min-width: 220px; }
+.special-note__tag { display: block; font-size: .72rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--gold); margin-bottom: .35rem; }
+.special-note__body p { margin: 0; font-size: .96rem; line-height: 1.6; color: #e8ecf3; }
+.special-note__actions { position: relative; }
+
 /* Interest Night variant — warm coral accent, distinct from the gold Thursday and cobalt serve cards */
 .this-week--interest { border-color: rgb(var(--dawn-rose));
   background: linear-gradient(135deg, rgba(var(--dawn-rose), .18), var(--card)); }
