@@ -58,6 +58,7 @@ Handlebars.registerHelper('concat', (...args) => {
   return args.join('');
 });
 Handlebars.registerHelper('cachebust', () => BUILD_HASH);
+Handlebars.registerHelper('urlencode', (str) => encodeURIComponent(str || ''));
 Handlebars.registerHelper('formatDate', (isoDate) => {
   if (!isoDate) return '';
   const d = new Date(isoDate);
@@ -911,6 +912,7 @@ function loadBlogPosts(config) {
       data.published_date_display = d.toLocaleDateString('en-US', {
         year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC'
       });
+      data.url = `https://${config.domain}/blog/${data.slug}/`;
       data._noindex = !!data.noindex;
       posts.push(data);
     } catch (e) {
