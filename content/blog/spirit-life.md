@@ -1,7 +1,7 @@
 ---
 title: "Spirit Life: A Life Immersed in the Spirit"
 slug: spirit-life
-published_at: "2026-09-22"
+published_at: "2026-09-29"
 draft: false
 author: "Pastor Brian"
 category: "Spiritual Life"

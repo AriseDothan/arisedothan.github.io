@@ -1,7 +1,7 @@
 ---
 title: "Spirit Formed: Becoming Like Jesus"
 slug: spirit-formed
-published_at: "2026-09-08"
+published_at: "2026-09-15"
 draft: false
 author: "Pastor Brian"
 category: "Spiritual Life"

@@ -1,7 +1,7 @@
 ---
 title: "Spirit Led: Keeping in Step with the Spirit"
 slug: spirit-led
-published_at: "2026-09-15"
+published_at: "2026-09-22"
 draft: false
 author: "Pastor Brian"
 category: "Spiritual Life"

@@ -1,7 +1,7 @@
 ---
 title: "Come As You Are, And What We Actually Mean By It"
 slug: come-as-you-are
-published_at: "2026-07-28"
+published_at: "2026-08-11"
 draft: false
 author: "Pastor Brian"
 category: "Welcome"

@@ -1,7 +1,7 @@
 ---
 title: "Spirit Born: Where the Spirit-Filled Life Begins"
 slug: spirit-born
-published_at: "2026-08-25"
+published_at: "2026-09-01"
 draft: false
 author: "Pastor Brian"
 category: "Spiritual Life"

@@ -1,7 +1,7 @@
 ---
 title: "How We Pray, and Why It's the Engine of Everything"
 slug: how-we-pray
-published_at: "2026-08-18"
+published_at: "2026-08-25"
 draft: false
 author: "Pastor Brian"
 category: "Spiritual Life"

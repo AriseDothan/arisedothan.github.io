@@ -1,7 +1,7 @@
 ---
 title: "Why We're Not Rushing to Sunday"
 slug: why-were-not-rushing-to-sunday
-published_at: "2026-08-11"
+published_at: "2026-08-18"
 draft: false
 author: "Pastor Brian"
 category: "Vision"

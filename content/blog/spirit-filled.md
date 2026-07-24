@@ -1,7 +1,7 @@
 ---
 title: "Spirit Filled: Be Being Filled"
 slug: spirit-filled
-published_at: "2026-09-01"
+published_at: "2026-09-08"
 draft: false
 author: "Pastor Brian"
 category: "Spiritual Life"
