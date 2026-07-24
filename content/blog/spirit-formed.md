@@ -14,17 +14,17 @@ So far in this series we've said the Spirit gives us birth and keeps filling us.
 
 When people think about the Spirit, they often jump straight to power. Scripture puts character first. Paul lists what the Spirit grows in a yielded life:
 
-> The fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness and self-control.
+> The fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control.
 
 That's Galatians 5:22-23. Fruit grows slowly, quietly, and from the inside. It's the surest evidence that the Spirit is at work, more telling than anything dramatic. A person becoming more patient, more kind, less proud over time is a walking miracle, even if nobody claps.
 
 ## Freedom from sin, not just guilt about it
 
-Being formed by the Spirit is also how we actually change, not just feel bad and try again. "Live by the Spirit," Paul says, "and you will not gratify the desires of the sinful nature" (Galatians 5:16). The Spirit doesn't merely forgive us and leave us stuck; he gives us power to walk in a new direction. Real formation means old patterns loosening their grip, one Spirit-empowered choice at a time.
+Being formed by the Spirit is also how we actually change, not just feel bad and try again. "Walk by the Spirit," Paul says, "and you will not gratify the desires of the flesh" (Galatians 5:16). The Spirit doesn't merely forgive us and leave us stuck; he gives us power to walk in a new direction. Real formation means old patterns loosening their grip, one Spirit-empowered choice at a time.
 
 ## And yes, the gifts
 
-Character comes first, but it doesn't crowd out power. The same Spirit "gives gifts to each one, just as he determines" (from 1 Corinthians 12:7-11), wisdom, knowledge, faith, healing, prophecy, and more, for the good of everyone. Being formed by the Spirit means both: the fruit that makes you like Jesus and the gifts that let you do the kind of things he did. We don't pick one. We want a people marked by love and open to the Spirit's power, the fruit and the gifts held together.
+Character comes first, but it doesn't crowd out power. The same Spirit distributes gifts "to each one, just as he determines" (1 Corinthians 12:7-11), wisdom, knowledge, faith, healing, prophecy, and more, for the good of everyone. Being formed by the Spirit means both: the fruit that makes you like Jesus and the gifts that let you do the kind of things he did. We don't pick one. We want a people marked by love and open to the Spirit's power, the fruit and the gifts held together.
 
 ## Becoming, on purpose
 

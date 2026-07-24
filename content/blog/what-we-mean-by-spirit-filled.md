@@ -30,7 +30,7 @@ On a Sunday, that can look quiet: someone praying for a friend and truly meaning
 
 We're planted in partnership with The Foursquare Church, and part of what we hold in common is the conviction that the Holy Spirit still gives gifts to his people today, he hasn't gone quiet. We believe that, and we don't apologize for it. But we hold it with a strong emphasis: the point of the Spirit's power is never a show.
 
-Scripture measures a Spirit-filled life first by its fruit, "love, joy, peace, longsuffering, gentleness, goodness, faith, meekness, temperance" (Galatians 5:22-23). If someone seems very "spiritual" but they're unkind, proud, or using God to manipulate people, something is off, no matter how impressive it looks. We'd rather be a people marked by love than by spectacle. Character is the real evidence.
+Scripture measures a Spirit-filled life first by its fruit, "love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control" (Galatians 5:22-23). If someone seems very "spiritual" but they're unkind, proud, or using God to manipulate people, something is off, no matter how impressive it looks. We'd rather be a people marked by love than by spectacle. Character is the real evidence.
 
 ## Not hype, not pressure
 

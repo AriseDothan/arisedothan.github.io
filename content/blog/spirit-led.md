@@ -12,13 +12,13 @@ We've said the Spirit gives us birth, keeps filling us, and forms us into the li
 
 ## A guide, not a formula
 
-On the night before he died, Jesus made his followers a promise about the Spirit: "when he, the Spirit of truth, comes, he will guide you into all truth" (John 16:13). Guide is a relational word. It doesn't mean God hands you a map and walks off. It means he goes with you, showing you the next step as you need it.
+On the night before he died, Jesus made his followers a promise about the Spirit: "when he, the Spirit of truth, comes, he will guide you into all the truth" (John 16:13). Guide is a relational word. It doesn't mean God hands you a map and walks off. It means he goes with you, showing you the next step as you need it.
 
 That's good news for anyone who has ever felt stuck at a decision, wanting to do the right thing but unsure what it is. You are not on your own. The Spirit who lives in you is willing to lead.
 
 ## Led, and therefore his
 
-Paul draws a striking line between being led by the Spirit and belonging to God: "those who are led by the Spirit of God are the sons of God" (Romans 8:14). Being led isn't an advanced feature for spiritual professionals. It's a family trait. If you belong to God, being led by his Spirit is your birthright, not something you have to earn.
+Paul draws a striking line between being led by the Spirit and belonging to God: "those who are led by the Spirit of God are the children of God" (Romans 8:14). Being led isn't an advanced feature for spiritual professionals. It's a family trait. If you belong to God, being led by his Spirit is your birthright, not something you have to earn.
 
 ## Keeping in step
 
