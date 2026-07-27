@@ -328,3 +328,61 @@
 .this-week--interest .this-week__badge { background: rgb(var(--dawn-rose)); color: #4a2418; }
 .this-week--interest .this-week__badge::after { display: none; }
 .this-week--interest .this-week__firsttime { color: #9a4f31; }
+/* Arise Dothan — 404 "Page Not Found" page (templates/pages/404.html).
+   Leans on the shared hero + card system; adds only 404-specific pieces. */
+
+.err404__inner {
+  position: relative;
+}
+
+/* Oversized, faint "404" watermark behind the headline */
+.err404__code {
+  display: block;
+  font-family: var(--font-display, Georgia, serif);
+  font-weight: 800;
+  line-height: 1;
+  font-size: clamp(4.5rem, 18vw, 12rem);
+  letter-spacing: -0.02em;
+  color: rgba(255, 255, 255, 0.10);
+  margin-bottom: -0.35em;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+/* Quick-link cards grid on the lower section */
+.err404__links {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin-top: 1.6rem;
+  text-align: left;
+}
+
+.err404__link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+}
+
+.err404__link h3 {
+  margin: 0 0 0.35rem;
+}
+
+.err404__link p {
+  margin: 0;
+  color: var(--muted, #5b6472);
+  font-size: 0.95rem;
+}
+
+.err404__link:hover,
+.err404__link:focus-visible {
+  transform: translateY(-3px);
+  border-color: var(--gold, #d8a24a);
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.12);
+}
+
+@media (max-width: 640px) {
+  .err404__code { margin-bottom: -0.25em; }
+  .err404__links { grid-template-columns: 1fr; }
+}
