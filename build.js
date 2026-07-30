@@ -863,6 +863,46 @@ function getBuildDateUTC() {
   return Date.UTC(raw.getUTCFullYear(), raw.getUTCMonth(), raw.getUTCDate());
 }
 
+// ─── Monthly rotating event dates ──────────────────────────────────────
+// The Serve card (2nd Saturday) and Interest Night card (4th Sunday)
+// auto-advance every month: build.js computes the next occurrence from the
+// build date, so the daily rebuild rolls the date over on its own with no
+// manual monthly edit. These are fixed church rhythms — if a rhythm ever
+// changes, update the weekday/nth here (and the config label if needed).
+function nthWeekdayOfMonth(year, month, weekday, n) {
+  // month 0-indexed; weekday 0=Sun … 6=Sat; n = 1..5. Returns a UTC Date.
+  const firstWeekday = new Date(Date.UTC(year, month, 1)).getUTCDay();
+  const day = 1 + ((weekday - firstWeekday + 7) % 7) + (n - 1) * 7;
+  return new Date(Date.UTC(year, month, day));
+}
+function nextMonthlyEvent(buildDateUTC, weekday, n) {
+  const d = new Date(buildDateUTC);
+  let y = d.getUTCFullYear(), m = d.getUTCMonth();
+  let ev = nthWeekdayOfMonth(y, m, weekday, n);
+  if (Date.UTC(ev.getUTCFullYear(), ev.getUTCMonth(), ev.getUTCDate()) < buildDateUTC) {
+    m += 1; if (m > 11) { m = 0; y += 1; }   // this month's date already passed
+    ev = nthWeekdayOfMonth(y, m, weekday, n);
+  }
+  return ev;
+}
+function fmtEventDate(dt) {
+  return dt.toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric', timeZone: 'UTC' });
+}
+// Overwrites each card's date_label with the computed next date, keeping
+// label_prefix / time / location / notes from config. A config `date_override`
+// (full label string) pins a one-off date and skips the computation.
+function applyMonthlyEventDates(config) {
+  const buildDateUTC = getBuildDateUTC();
+  const set = (evt, weekday, n, defPrefix) => {
+    if (!evt) return;
+    if (evt.date_override) { evt.date_label = evt.date_override; return; }
+    const prefix = evt.label_prefix || defPrefix;
+    evt.date_label = `${prefix} · ${fmtEventDate(nextMonthlyEvent(buildDateUTC, weekday, n))}`;
+  };
+  set(config.this_saturday, 6, 2, 'Next Serve');    // Serve = 2nd Saturday
+  set(config.this_interest, 0, 4, 'Interest Night'); // Interest Night = 4th Sunday
+}
+
 function loadBlogPosts(config) {
   // Support per-site blog content directory via config.blog_content_dir
   const blogDir = config && config.blog_content_dir
@@ -1135,6 +1175,11 @@ async function buildSite(siteId) {
   console.log('  ' + '─'.repeat(50));
 
   const config = loadConfig(siteId);
+
+  // Serve (2nd Saturday) and Interest Night (4th Sunday) cards auto-advance
+  // each month — computed from the build date, so the daily rebuild rolls
+  // them over with no manual edit. See applyMonthlyEventDates.
+  applyMonthlyEventDates(config);
 
   // Special one-off announcement (e.g. announcement.expires: "2026-08-02")
   // auto-clears itself once its date has passed, using the same
