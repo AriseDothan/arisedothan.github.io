@@ -144,8 +144,8 @@
 
   "gatherings": [
     { "when": "Every Sunday", "time": "10:00 AM", "what": "Disciple Making Community", "detail": "Making disciples who make disciples and building our launch team, coffee, prayer, Scripture, and conversation at Mural City Coffee." },
-    { "when": "2nd Saturday", "time": "Monthly", "what": "Serve the City", "detail": "Once a month, we move out together to serve Dothan and the Wiregrass, demonstrating the kingdom and loving our city in Jesus' name. Follow us on social or text Pastor Brian for this month's date and location." },
-    { "when": "Monthly", "time": "Interest Night", "what": "Date and time announced", "detail": "A relaxed evening for the curious, meet the Arise family, hear our story, and ask anything. Follow us on social or text Pastor Brian for this month's date and location." }
+    { "when": "Love our city", "what": "Serve the City", "detail": "Loving our neighbors is part of who we are. Once a month we head out together to serve Dothan and the Wiregrass, simple, practical help offered freely in Jesus' name. No experience and no long commitment needed; it's one of the easiest, most low-pressure ways to get to know us. Text Pastor Brian and he'll fill you in on the next one." },
+    { "when": "New here?", "what": "Interest Night", "detail": "New to Arise, or just curious? Interest Night is a relaxed evening to meet the Arise family, hear our story, and ask us anything, no pressure, no commitment, come exactly as you are. It's an easy first step before you ever walk into a Sunday. Text Pastor Brian and he'll let you know when the next one is." }
   ],
 
   "_this_saturday_note": "AUTO-DATED. The 2nd-Saturday 'Serve the City' / Move Out card. The DATE now advances automatically each month at build time (2nd Saturday of the month, rolling to next month once it passes) — no monthly edit needed. Only edit the stable details: label_prefix, location_name, time, note, first_time_note, map_url. To pin a one-off different date, add a 'date_override' with a full label (e.g. 'Next Serve · Saturday, September 5'); remove it to resume auto-dating.",

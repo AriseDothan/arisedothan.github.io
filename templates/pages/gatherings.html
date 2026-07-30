@@ -46,7 +46,7 @@
       {{#each gatherings}}
       <div class="time-card reveal rd{{@index}}">
         <div class="time-card__when">{{this.when}}</div>
-        <p style="font-weight:600;margin-top:.4rem">{{this.time}} &middot; {{this.what}}</p>
+        <p style="font-weight:600;margin-top:.4rem">{{#if this.time}}{{this.time}} &middot; {{/if}}{{this.what}}</p>
         <p class="time-card__what">{{this.detail}}</p>
       </div>
       {{/each}}
