@@ -52,6 +52,7 @@
     { "label": "Gatherings", "href": "/gatherings/" },
     { "label": "Beliefs", "href": "/beliefs/" },
     { "label": "The Rising", "href": "/blog/" },
+    { "label": "Arise TV", "href": "/watch/" },
     { "label": "Give", "href": "/give/" }
   ],
 
@@ -95,6 +96,10 @@
       "eyebrow": "Say hello",
       "hero_title": "Let's start with a hello.",
       "hero_sub": "No pressure, just a quick hello. Text Pastor Brian, or write us a message right here, whichever feels easier. Either way you'll be talking to a real person before you ever walk in the door."
+    },
+    "watch": {
+      "eyebrow": "Arise TV",
+      "hero_sub": "Sermons, teaching, and worship from Arise Dothan, wherever you are. Follow Jesus, become like him, and do what he did, one message at a time."
     },
     "beliefs": {
       "eyebrow": "What We Believe",
@@ -168,6 +173,17 @@
     "map_url": "https://www.google.com/maps/search/?api=1&query=Mural+City+Coffee+Dothan+AL"
   },
 
+  "_videos_note": "WATCH page (/watch/) FEATURED row — hand-picked videos. Add an entry to 'videos' with a YouTube link (bare URL string, or {url,title,description}); any youtube.com/watch, youtu.be, /live, or /shorts link works. These always show first, above the auto-feed. Order here is the order shown. An unrecognized URL is skipped, never breaks the build. Leave empty to show only the auto-feed (see 'youtube' below). If BOTH featured and feed are empty, the /watch/ page and its nav link are hidden automatically.",
+  "videos": [
+  ],
+  "_youtube_note": "WATCH page AUTO-FEED. When auto_feed is true, build.js pulls the channel's latest uploads from its public RSS feed at build time (the daily rebuild keeps it current) and lists them under 'Latest from YouTube'. channel_id is the Arise Dothan channel. feed_limit caps how many show. A video that's also in the featured list above is skipped from the feed so it never doubles up. Fetch is best-effort: if YouTube is unreachable the feed is just empty that build, never an error. channel_url powers the 'Subscribe on YouTube' button.",
+  "youtube": {
+    "channel_id": "UCLjrke7bXqR1TL2_dk01rIQ",
+    "channel_url": "https://www.youtube.com/@arisedothan",
+    "auto_feed": true,
+    "feed_limit": 12
+  },
+
   "_announcement_note": "SPECIAL ONE-OFF SUNDAY ANNOUNCEMENT (e.g. an off-site or guest-preaching Sunday). Renders as a navy notice banner above the gold find-us card on the homepage and Gatherings page, ONLY while today <= expires. Auto-expires: the daily 13:05 UTC site rebuild drops it the day after 'expires' passes (same BUILD_DATE-aware UTC-day check used for scheduled blog posts), no manual cleanup needed. Delete this block once it's expired, or just leave it, it'll stay hidden.",
   "announcement": {
     "expires": "2026-08-02",
@@ -213,6 +229,7 @@
     { "template": "pages/our-story.html",  "output": "our-story/index.html",   "path": "/our-story/",  "title": "Our Story", "meta_description": "Meet Arise Dothan, our mission to make disciples who make disciples, our core values, and our leaders Brian & Jaclyn Turner.", "priority": "0.8", "changefreq": "monthly" },
     { "template": "pages/beliefs.html",    "output": "beliefs/index.html",     "path": "/beliefs/",    "title": "What We Believe", "meta_description": "What Arise Dothan believes, centered in Jesus, rooted in Scripture, alive by the Spirit, and lived out as we Move Up, Move In, and Move Out, plus the Foursquare Church's official Declaration of Faith.", "priority": "0.7", "changefreq": "monthly" },
     { "template": "pages/gatherings.html", "output": "gatherings/index.html",  "path": "/gatherings/", "title": "Gatherings & What to Expect", "meta_description": "When and where Arise Dothan gathers, our Sunday Disciple Making Community at 10 AM at Mural City Coffee, plus our monthly Interest Night and serving the city together on the 2nd Saturday. Children are always welcome. Text Pastor Brian to plan your first Sunday.", "priority": "0.9", "changefreq": "weekly" },
+    { "template": "pages/watch.html",      "output": "watch/index.html",       "path": "/watch/",      "title": "Arise TV", "meta_description": "Watch sermons, teaching, and worship from Arise Dothan, a Spirit-filled, Bible-centered Foursquare church in Dothan, AL. Follow Jesus, become like him, and do what he did.", "priority": "0.7", "changefreq": "weekly" },
     { "template": "pages/give.html",       "output": "give/index.html",        "path": "/give/",       "title": "Give", "meta_description": "Give to Arise Dothan online through our partner church, just choose 'Tithes - Arise Church (Dothan)' from the dropdown, or give in person or by mail. Every gift helps us make disciples who make disciples and build our launch team.", "priority": "0.6", "changefreq": "monthly" },
     { "template": "pages/connect.html",    "output": "connect/index.html",     "path": "/connect/",    "title": "Say Hello | Arise Dothan", "meta_description": "Reach Arise Dothan the way that's easiest for you: send a message straight to Pastor Brian right from the page, or text him directly. A real person reads every one and replies personally, no pressure, no walk-in required.", "priority": "0.9", "changefreq": "monthly" }
   ]

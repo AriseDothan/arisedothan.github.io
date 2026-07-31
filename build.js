@@ -903,6 +903,91 @@ function applyMonthlyEventDates(config) {
   set(config.this_interest, 0, 4, 'Interest Night'); // Interest Night = 4th Sunday
 }
 
+// ─── Watch page videos ─────────────────────────────────────────────────
+// Two sources feed the /watch/ page: a hand-picked "Featured" list from
+// config.videos, and an auto "Latest from YouTube" list pulled from the
+// channel's public RSS feed at build time (so the daily rebuild keeps it
+// current). Featured always shows first; a featured video is skipped from the
+// feed so it never appears twice. If both are empty, the page + nav are hidden.
+
+// Pull the 11-char YouTube id out of any common link shape (watch?v=,
+// youtu.be/, /embed/, /live/, /shorts/). Returns '' if none found.
+function youtubeId(url) {
+  const m = String(url || '').trim().match(
+    /(?:youtube\.com\/(?:watch\?(?:.*&)?v=|embed\/|live\/|shorts\/|v\/)|youtu\.be\/)([A-Za-z0-9_-]{11})/
+  );
+  return m ? m[1] : '';
+}
+function makeVideoObj(id, title, description) {
+  return {
+    title: title || '',
+    description: description || '',
+    video_id: id,
+    embed_url: `https://www.youtube-nocookie.com/embed/${id}?autoplay=1&rel=0`,
+    thumb_url: `https://i.ytimg.com/vi/${id}/hqdefault.jpg`,
+    watch_url: `https://www.youtube.com/watch?v=${id}`,
+  };
+}
+// Manual, hand-picked videos from config.videos (bare URL string or
+// {url,title,description}). Invalid links are dropped so a typo can't break
+// the build. Order in the config is the order shown.
+function processFeaturedVideos(config) {
+  const list = Array.isArray(config.videos) ? config.videos : [];
+  config.featured_videos = list.map((v) => {
+    const raw = typeof v === 'string' ? { url: v } : (v || {});
+    const id = youtubeId(raw.url);
+    if (!id) { console.log(`  WATCH: skipping featured video with unrecognized URL: ${raw.url}`); return null; }
+    return makeVideoObj(id, raw.title, raw.description);
+  }).filter(Boolean);
+}
+// Auto-feed: newest uploads from the channel's public RSS feed. Best-effort —
+// any failure (offline, HTTP error, timeout, or no videos yet) yields an empty
+// list so the build never breaks. Dedupes against the featured list.
+async function fetchChannelVideos(config) {
+  config.feed_videos = [];
+  const yt = config.youtube || {};
+  if (!yt.auto_feed || !yt.channel_id) return;
+  const limit = Number(yt.feed_limit) || 12;
+  const url = `https://www.youtube.com/feeds/videos.xml?channel_id=${encodeURIComponent(yt.channel_id)}`;
+  try {
+    const ctrl = new AbortController();
+    const timer = setTimeout(() => ctrl.abort(), 12000);
+    const res = await fetch(url, { signal: ctrl.signal, headers: { 'User-Agent': 'arise-sites-build/1.0' } });
+    clearTimeout(timer);
+    if (!res.ok) { console.log(`  WATCH: auto-feed HTTP ${res.status} — skipping`); return; }
+    const xml = await res.text();
+    const featuredIds = new Set((config.featured_videos || []).map((v) => v.video_id));
+    const out = [];
+    for (const entry of xml.split('<entry>').slice(1)) {
+      const idm = entry.match(/<yt:videoId>([^<]+)<\/yt:videoId>/);
+      if (!idm) continue;
+      const id = idm[1];
+      if (featuredIds.has(id)) continue;                 // don't repeat a featured video
+      const tm = entry.match(/<title>([\s\S]*?)<\/title>/);
+      const title = tm ? decodeHtmlEntities(tm[1]).trim() : '';
+      out.push(makeVideoObj(id, title, ''));
+      if (out.length >= limit) break;
+    }
+    config.feed_videos = out;
+    console.log(`  WATCH: auto-feed loaded ${out.length} video(s) from ${yt.channel_id}`);
+  } catch (err) {
+    console.log(`  WATCH: auto-feed unavailable (${err.message}) — continuing without it`);
+  }
+}
+// Hide the /watch/ page + nav link when there's nothing to show (no featured
+// and no feed). They reappear automatically once a video exists in either.
+function hideWatchIfEmpty(config) {
+  const featured = (config.featured_videos || []).length;
+  const feed = (config.feed_videos || []).length;
+  if (featured + feed > 0) {
+    console.log(`  WATCH: ${featured} featured + ${feed} from feed → building /watch/`);
+    return;
+  }
+  if (Array.isArray(config.pages)) config.pages = config.pages.filter((p) => p.path !== '/watch/');
+  if (Array.isArray(config.nav_links)) config.nav_links = config.nav_links.filter((n) => n.href !== '/watch/');
+  console.log('  WATCH: no videos (manual or feed) — /watch/ page and nav link omitted');
+}
+
 function loadBlogPosts(config) {
   // Support per-site blog content directory via config.blog_content_dir
   const blogDir = config && config.blog_content_dir
@@ -1180,6 +1265,13 @@ async function buildSite(siteId) {
   // each month — computed from the build date, so the daily rebuild rolls
   // them over with no manual edit. See applyMonthlyEventDates.
   applyMonthlyEventDates(config);
+
+  // Watch page: hand-picked "Featured" videos (config.videos) + an auto-feed
+  // of the channel's latest uploads (fetched from YouTube's RSS at build time).
+  // If both are empty, the page and its nav link are omitted.
+  processFeaturedVideos(config);
+  await fetchChannelVideos(config);
+  hideWatchIfEmpty(config);
 
   // Special one-off announcement (e.g. announcement.expires: "2026-08-02")
   // auto-clears itself once its date has passed, using the same

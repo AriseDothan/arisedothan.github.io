@@ -1,0 +1,79 @@
+<section class="hero" id="main">
+  <img class="hero__bg" data-parallax src="/images/wide-1.webp" alt="" aria-hidden="true">
+  <div class="hero__overlay"></div>
+  <div class="hero__sun"></div>
+  <div class="ember-field" aria-hidden="true"></div>
+  <div class="container">
+    <div class="hero__inner">
+      <span class="eyebrow">{{cro.watch.eyebrow}}</span>
+      <h1>
+        <span class="hero__line">Watch and</span>
+        <span class="hero__line"><span class="tg">grow</span> with us.</span>
+      </h1>
+      <p class="hero__sub">{{cro.watch.hero_sub}}</p>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    {{#if featured_videos.length}}
+    <div class="stack" style="margin-bottom:2.8rem">
+      <span class="eyebrow">Featured</span>
+      <div class="video-grid">
+        {{#each featured_videos}}{{> video-card}}{{/each}}
+      </div>
+    </div>
+    {{/if}}
+
+    {{#if feed_videos.length}}
+    <div class="stack">
+      <span class="eyebrow">Latest from YouTube</span>
+      <div class="video-grid">
+        {{#each feed_videos}}{{> video-card}}{{/each}}
+      </div>
+    </div>
+    {{/if}}
+
+    {{#unless featured_videos.length}}{{#unless feed_videos.length}}
+    <div class="text-center stack maxw-680 mx-auto">
+      <h2>Videos are on the <span class="tg">way</span>.</h2>
+      <p class="lede">We're just getting started. Subscribe on YouTube and you'll be the first to see our messages, worship, and gatherings.</p>
+    </div>
+    {{/unless}}{{/unless}}
+
+    <div class="text-center" style="margin-top:2.8rem">
+      <a class="btn btn--gold btn--lg" href="{{youtube.channel_url}}" target="_blank" rel="noopener">Subscribe on YouTube</a>
+    </div>
+  </div>
+</section>
+
+<style>
+  .video-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:1.8rem;margin-top:1rem}
+  .video-card{display:flex;flex-direction:column}
+  .video-embed{position:relative;display:block;width:100%;aspect-ratio:16/9;border:0;padding:0;margin:0;border-radius:16px;overflow:hidden;cursor:pointer;background:#0b1b3a center/cover no-repeat;box-shadow:0 10px 30px rgba(11,27,58,.16);transition:transform .18s ease,box-shadow .18s ease}
+  .video-embed::after{content:"";position:absolute;inset:0;background:rgba(11,27,58,.28);transition:background .2s ease}
+  .video-embed:hover{transform:translateY(-3px);box-shadow:0 16px 40px rgba(11,27,58,.24)}
+  .video-embed:hover::after{background:rgba(11,27,58,.12)}
+  .video-embed__play{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;z-index:1}
+  .video-embed__play svg{filter:drop-shadow(0 4px 12px rgba(0,0,0,.35));transition:transform .18s ease}
+  .video-embed:hover .video-embed__play svg{transform:scale(1.06)}
+  .video-card iframe{width:100%;aspect-ratio:16/9;border:0;border-radius:16px;display:block;box-shadow:0 10px 30px rgba(11,27,58,.16)}
+  .video-card__title{margin:.9rem 0 .25rem}
+  .video-card__desc{color:var(--muted);font-size:.95rem;margin:0}
+</style>
+<script>
+  (function () {
+    document.querySelectorAll('.video-embed').forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        var f = document.createElement('iframe');
+        f.src = btn.getAttribute('data-embed');
+        f.title = btn.getAttribute('aria-label') || 'YouTube video';
+        f.setAttribute('allow', 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share');
+        f.setAttribute('allowfullscreen', '');
+        f.setAttribute('loading', 'lazy');
+        btn.replaceWith(f);
+      });
+    });
+  })();
+</script>
