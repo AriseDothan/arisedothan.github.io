@@ -185,12 +185,6 @@
   },
 
   "_announcement_note": "SPECIAL ONE-OFF SUNDAY ANNOUNCEMENT (e.g. an off-site or guest-preaching Sunday). Renders as a navy notice banner above the gold find-us card on the homepage and Gatherings page, ONLY while today <= expires. Auto-expires: the daily 13:05 UTC site rebuild drops it the day after 'expires' passes (same BUILD_DATE-aware UTC-day check used for scheduled blog posts), no manual cleanup needed. Delete this block once it's expired, or just leave it, it'll stay hidden.",
-  "announcement": {
-    "expires": "2026-08-02",
-    "tag": "Join us for a special Sunday",
-    "note": "Sunday, August 2 at 10:45 AM: we're gathering at New Seasons Fellowship in Headland, 613 Cleveland St. Pastor Brian is preaching that morning. Text Pastor Brian for details. Our regular Mural City Coffee rhythm resumes the following Sunday.",
-    "map_url": "https://www.google.com/maps/search/?api=1&query=613+Cleveland+St+Headland+AL+36345"
-  },
 
   "give_options": {
     "funds": ["General Fund", "Building Fund", "Missions Fund", "Youth Fund", "Worship Fund"],
