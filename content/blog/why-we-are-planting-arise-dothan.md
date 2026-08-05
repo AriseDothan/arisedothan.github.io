@@ -20,7 +20,7 @@ I believe that's God's word for Dothan.
 
 I didn't plant this church because Dothan lacks churches. It doesn't. I planted it because I believe God isn't finished here, and because so many people in this city have quietly set church aside. Some have never set foot in one. Some walked away and never found a reason to walk back. Some sat through a thousand services and are still hungry for something real.
 
-Arise Dothan exists for all three. There's a seat at this table for you, wherever you're starting from. Come as you are, that isn't a slogan, it's the whole posture of this church.
+Arise Dothan exists for all three. There's a place at this table for you, wherever you're starting from. Come as you are, that isn't a slogan, it's the whole posture of this church.
 
 ## Follow. Become. Do.
 

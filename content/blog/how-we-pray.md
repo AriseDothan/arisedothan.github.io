@@ -30,6 +30,6 @@ We don't only pray for ourselves. We pray for this city, for the Wiregrass to co
 
 Here's the quiet truth under all of it: prayer is mostly about dependence. It's the daily, humbling admission that we need God, and the wonderful discovery that he's actually there, actually listening, and actually at work.
 
-If your own prayer life feels rusty, or fake, or nonexistent, you're in good company, and you don't have to fix it before you come. Come pray with people who are learning too. Text Pastor Brian, and come join us Sunday morning at Mural City Coffee. We'll save you a seat, and, if you're willing, we'll pray for you by name.
+If your own prayer life feels rusty, or fake, or nonexistent, you're in good company, and you don't have to fix it before you come. Come pray with people who are learning too. Text Pastor Brian, and come join us Sunday morning at Mural City Coffee. There'll be a place for you, and, if you're willing, we'll pray for you by name.
 
 Pastor Brian

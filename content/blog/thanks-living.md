@@ -34,6 +34,6 @@ We're a Spirit-filled church, and thankfulness is one of the surest signs the Sp
 
 If this has been a hard year, you are especially welcome here. You don't have to feel thankful to come; sometimes gratitude is the very thing you come to find. Around an open Bible, in honest company, thanks has a way of returning.
 
-Happy Thanksgiving from our family to yours. However full or thin your table feels this week, there's a seat saved for you at ours. Come as you are, text Pastor Brian, and let's be a thankful people together.
+Happy Thanksgiving from our family to yours. However full or thin your table feels this week, there's a place for you at ours. Come as you are, text Pastor Brian, and let's be a thankful people together.
 
 Pastor Brian
