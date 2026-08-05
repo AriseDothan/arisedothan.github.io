@@ -18,7 +18,7 @@
 
   var INTENTS = {
     visit: "I'd love to plan a visit to a Sunday gathering",
-    launch: "I'd love to hear about joining the launch team",
+    worship: "I'd love to hear about your next worship night",
     meet: "I'd love to meet you before I come on a Sunday",
     question: "I have a question I was hoping you could help me with",
     prayer: "I have something I'd really appreciate prayer for"

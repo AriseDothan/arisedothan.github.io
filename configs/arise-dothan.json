@@ -90,7 +90,7 @@
     "give": {
       "eyebrow": "Give",
       "hero_title": "Generosity that builds something eternal.",
-      "hero_sub": "Every gift helps us make disciples who make disciples and build the team launching our Sunday celebration gathering in Dothan, and beyond."
+      "hero_sub": "Every gift helps us make disciples who make disciples and multiply Disciple Making Communities across Dothan, and beyond."
     },
     "connect": {
       "eyebrow": "Say hello",
@@ -148,7 +148,8 @@
   ],
 
   "gatherings": [
-    { "when": "Every Sunday", "time": "10:00 AM", "what": "Disciple Making Community", "detail": "Making disciples who make disciples and building our launch team, coffee, prayer, Scripture, and conversation at Mural City Coffee." },
+    { "when": "Every Sunday", "time": "10:00 AM", "what": "Disciple Making Community", "detail": "Making disciples who make disciples, our core rhythm: coffee, prayer, Scripture, and conversation at Mural City Coffee." },
+    { "when": "From time to time", "what": "Worship Night", "detail": "Every so often we gather to worship Jesus together, praise, prayer, and the Word. We announce each one on social media, our website, and by email, so follow along and get on our list to know when the next one is coming." },
     { "when": "Love our city", "what": "Serve the City", "detail": "Loving our neighbors is part of who we are. Once a month we head out together to serve Dothan and the Wiregrass, simple, practical help offered freely in Jesus' name. No experience and no long commitment needed; it's one of the easiest, most low-pressure ways to get to know us. Text Pastor Brian and he'll fill you in on the next one." },
     { "when": "New here?", "what": "Interest Night", "detail": "New to Arise, or just curious? Interest Night is a relaxed evening to meet the Arise family, hear our story, and ask us anything, no pressure, no commitment, come exactly as you are. It's an easy first step before you ever walk into a Sunday. Text Pastor Brian and he'll let you know when the next one is." }
   ],
@@ -211,7 +212,7 @@
     "description": "A Spirit-filled, Bible-centered church plant in Dothan, AL.",
     "mcp_endpoint": "https://arisedothan.com/mcp",
     "services": [
-      { "id": "sunday-gathering", "category": "gathering", "name": "Disciple Making Community", "description": "Every Sunday, 10:00 AM at Mural City Coffee, making disciples and building our launch team.", "url": "https://arisedothan.com/gatherings/" },
+      { "id": "sunday-gathering", "category": "gathering", "name": "Disciple Making Community", "description": "Every Sunday, 10:00 AM at Mural City Coffee, making disciples who make disciples.", "url": "https://arisedothan.com/gatherings/" },
       { "id": "serve-the-city", "category": "outreach", "name": "Serve the City", "description": "Monthly community service, 2nd Saturday, serving Dothan and the Wiregrass.", "url": "https://arisedothan.com/gatherings/" },
       { "id": "interest-night", "category": "gathering", "name": "Interest Night", "description": "Monthly on-ramp event for newcomers; date and location announced each month.", "url": "https://arisedothan.com/gatherings/" }
     ],
@@ -224,7 +225,7 @@
     { "template": "pages/beliefs.html",    "output": "beliefs/index.html",     "path": "/beliefs/",    "title": "What We Believe", "meta_description": "What Arise Dothan believes, centered in Jesus, rooted in Scripture, alive by the Spirit, and lived out as we Move Up, Move In, and Move Out, plus the Foursquare Church's official Declaration of Faith.", "priority": "0.7", "changefreq": "monthly" },
     { "template": "pages/gatherings.html", "output": "gatherings/index.html",  "path": "/gatherings/", "title": "Gatherings & What to Expect", "meta_description": "When and where Arise Dothan gathers, our Sunday Disciple Making Community at 10 AM at Mural City Coffee, plus our monthly Interest Night and serving the city together on the 2nd Saturday. Children are always welcome. Text Pastor Brian to plan your first Sunday.", "priority": "0.9", "changefreq": "weekly" },
     { "template": "pages/watch.html",      "output": "watch/index.html",       "path": "/watch/",      "title": "Arise TV", "meta_description": "Watch sermons, teaching, and worship from Arise Dothan, a Spirit-filled, Bible-centered Foursquare church in Dothan, AL. Follow Jesus, become like him, and do what he did.", "priority": "0.7", "changefreq": "weekly" },
-    { "template": "pages/give.html",       "output": "give/index.html",        "path": "/give/",       "title": "Give", "meta_description": "Give to Arise Dothan online through our partner church, just choose 'Tithes - Arise Church (Dothan)' from the dropdown, or give in person or by mail. Every gift helps us make disciples who make disciples and build our launch team.", "priority": "0.6", "changefreq": "monthly" },
+    { "template": "pages/give.html",       "output": "give/index.html",        "path": "/give/",       "title": "Give", "meta_description": "Give to Arise Dothan online through our partner church, just choose 'Tithes - Arise Church (Dothan)' from the dropdown, or give in person or by mail. Every gift helps us make disciples who make disciples and multiply Disciple Making Communities across Dothan.", "priority": "0.6", "changefreq": "monthly" },
     { "template": "pages/connect.html",    "output": "connect/index.html",     "path": "/connect/",    "title": "Say Hello | Arise Dothan", "meta_description": "Reach Arise Dothan the way that's easiest for you: send a message straight to Pastor Brian right from the page, or text him directly. A real person reads every one and replies personally, no pressure, no walk-in required.", "priority": "0.9", "changefreq": "monthly" }
   ]
 }

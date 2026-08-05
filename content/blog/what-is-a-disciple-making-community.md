@@ -5,10 +5,10 @@ published_at: "2026-07-08"
 draft: false
 author: "Pastor Brian"
 category: "Discipleship"
-excerpt: "It's the heart of how we gather right now, a smaller community learning to follow Jesus together and equipped to help others do the same. Here's what that actually means."
+excerpt: "It's the heart of how we gather, a community learning to follow Jesus together and equipped to help others do the same. Here's what that actually means."
 ---
 
-If you've spent any time around Arise Dothan, you've heard us use a phrase that might be new to you: **Disciple Making Community**. It's what we call our Sunday gathering, and it's the center of gravity for everything we're doing in this season. So let me tell you plainly what it is, and why it matters.
+If you've spent any time around Arise Dothan, you've heard us use a phrase that might be new to you: **Disciple Making Community**. It's what we call our Sunday gathering, and it's the center of gravity for everything we're doing. So let me tell you plainly what it is, and why it matters.
 
 ## Start with the word *disciple*
 
@@ -28,12 +28,12 @@ We meet at Mural City Coffee, 192 S. Foster St., so there's one easy address to 
 
 Here's the part that makes it more than a small group: we're not just trying to grow disciples, we're trying to grow disciples *who make disciples*. Jesus didn't tell us to accumulate followers, he told us to go and make more. So a healthy Disciple Making Community is always looking outward, praying that the people being formed in it will one day help form someone else.
 
-That's why we talk about *multiplying* disciples across our city. One table becomes two. Two become four. That's not a growth strategy we invented; it's the way the kingdom has always moved, ordinary people, changed by Jesus, helping the next person take a step. It's how a launch team gets built, and it's how a church keeps growing long after launch day.
+That's why we talk about *multiplying* disciples across our city. One table becomes two. Two become four. That's not a growth strategy we invented; it's the way the kingdom has always moved, ordinary people, changed by Jesus, helping the next person take a step. It's how a church keeps growing, one changed life at a time.
 
 ## Not a placeholder, the foundation
 
-It would be easy to look at where we are and see a waiting room: *we'll do the real thing once our Sunday celebration launches.* I want to push back on that as hard as I can. The Disciple Making Community isn't a holding pattern until the "real church" starts, even though, for now, it happens to meet on the same morning we're building toward. It **is** the church, doing the most important work a church can do, forming people into the likeness of Jesus and equipping them to go do the same. Everything we build toward that Sunday celebration will only be as healthy as the disciples being made right now. And when we launch, this Disciple Making Community won't end, it'll multiply into other days and times too.
+It would be easy to look at a small group over coffee and see a waiting room, something to pass through until the *real* church arrives. I want to push back on that as hard as I can. The Disciple Making Community isn't a holding pattern for something bigger later. It **is** the church, doing the most important work a church can do, forming people into the likeness of Jesus and equipping them to go do the same. It's our core rhythm, and it's here to stay, and as we grow it multiplies across our city into new groups, days, and times.
 
-So if you're wondering where to start with Arise Dothan, start here. This is the ground floor, and there's room for you to help build it. Text Pastor Brian, come to a Sunday, and see what it looks like to follow Jesus together.
+So if you're wondering where to start with Arise Dothan, start here. This is the heart of it, and there's room for you. Text Pastor Brian, come to a Sunday, and see what it looks like to follow Jesus together.
 
 Pastor Brian
