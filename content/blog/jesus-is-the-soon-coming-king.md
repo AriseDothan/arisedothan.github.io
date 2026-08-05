@@ -36,7 +36,7 @@ That's the hope that lets us look at hard headlines and hard diagnoses without d
 
 You might think a doctrine about the future would make people check out of the present. It does the opposite. Because we know how the story ends, we throw ourselves into the work now, with courage and without panic.
 
-It shapes our whole mission. We help people follow Jesus, become like him, and do what he did, precisely because the King is coming and we want our neighbors ready to meet him. It's why we're building disciples in this launch season instead of rushing to look impressive, and why we serve our city, participating in a kingdom that is already breaking in and will one day come in full. Live like he could return today; build like his kingdom will outlast everything.
+It shapes our whole mission. We help people follow Jesus, become like him, and do what he did, precisely because the King is coming and we want our neighbors ready to meet him. It's why we're pouring into disciples instead of rushing to look impressive, and why we serve our city, participating in a kingdom that is already breaking in and will one day come in full. Live like he could return today; build like his kingdom will outlast everything.
 
 ## Come and see
 

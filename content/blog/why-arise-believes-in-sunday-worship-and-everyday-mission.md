@@ -16,7 +16,7 @@ At Arise Dothan, we don't believe that for a second. We believe in **both**, bec
 
 We talk about three integrated rhythms that shape life at Arise: Move Up, Move In, and Move Out. Two of them are the subject of this post.
 
-**Move Up is worship**, gathering for Sunday celebration to worship Jesus through prayer, Scripture, communion, praise, preaching, and attentiveness to the Holy Spirit. It's where we lift our eyes, remember who God is, and are filled.
+**Move Up is worship**, gathering for worship nights to worship Jesus through prayer, Scripture, praise, and attentiveness to the Holy Spirit. It's where we lift our eyes, remember who God is, and are filled.
 
 **Move Out is mission**, participating in God's mission together and as individuals, through everyday witness, service, compassion, and Spirit-led engagement across Dothan. It's where we turn outward and carry what we've received back into the city.
 
@@ -32,9 +32,9 @@ That's why we hold them together. We move out *because* we've moved up. We serve
 
 ## What that looks like right now
 
-I'll be honest about our season. Our Disciple Making Community happens to gather on Sunday mornings right now, a temporary rhythm while we build the team, but our Sunday celebration gathering is still ahead of us, it launches once our core team is formed, and I'd rather do that right than rush it. Worship isn't waiting on a launch date, though. It's already woven through our Disciple Making Communities, growing toward the morning we get to do it with all of Dothan, and when that morning comes, these communities won't disappear, they'll multiply into other days and times across the week.
+Let me be honest about where we are. Our core rhythm is our Disciple Making Community, gathering every Sunday morning at Mural City Coffee, and it's here to stay. As we grow, these communities multiply across our city into new groups, days, and times. Worship is already woven through them, and from time to time we also gather for worship nights to praise Jesus together as a wider family. We announce each one on social media, our website, and by email, so follow along and you'll know when the next one is coming.
 
-And mission? Mission isn't a someday. On the second Saturday of every month, we already move out together to serve Dothan and the Wiregrass, real hands, real work, real people who need to know somebody showed up for them in Jesus' name. It's happening now, in this small season, before we're anywhere near a Sunday launch.
+And mission? Mission isn't a someday. On the second Saturday of every month, we already move out together to serve Dothan and the Wiregrass, real hands, real work, real people who need to know somebody showed up for them in Jesus' name. It's happening now, right in the ordinary rhythm of our life together.
 
 ## Held together by disciples
 

@@ -14,7 +14,7 @@ You'll see three words all over everything we do at Arise: *come as you are.* Th
 
 When we say come as you are, we're talking to real people with real stories. Maybe you've never set foot in a church and you wouldn't know what to do with your hands. Maybe you grew up in one and walked away, and the thought of going back makes your chest tight. Maybe you gave church years of your life and came out worn down, or hurt, and you're in no hurry to hand it your trust again.
 
-You are exactly who we had in mind. There's a seat at this table for you, not once you've cleaned yourself up, not once your theology is sorted, not once you feel ready. Now. As you are.
+You are exactly who we had in mind. There's a place at this table for you, not once you've cleaned yourself up, not once your theology is sorted, not once you feel ready. Now. As you are.
 
 ## It's not "come and perform"
 
@@ -34,7 +34,7 @@ Come as you are, and don't expect to stay exactly as you are. That's not a bait-
 
 ## So, come
 
-If you've read this far, maybe something in you is a little curious, even if a bigger part is hesitant. That's okay. You don't have to resolve all of it first. Text Pastor Brian, we gather every Sunday morning at Mural City Coffee, and he'll be expecting you. Come see for yourself that the seat we saved you is real.
+If you've read this far, maybe something in you is a little curious, even if a bigger part is hesitant. That's okay. You don't have to resolve all of it first. Text Pastor Brian, we gather every Sunday morning at Mural City Coffee, and he'll be expecting you. Come see for yourself that the place we've made for you is real.
 
 Come as you are. We mean it.
 
