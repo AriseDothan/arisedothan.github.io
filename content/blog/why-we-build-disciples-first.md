@@ -26,7 +26,7 @@ Why that order? Because everything a church does is only ever as healthy as the 
 
 I want to be clear: this isn't a holding pattern. We're not biding time until the "real" church starts. What happens in our Disciple Making Community *is* the real work of the church, making disciples who make disciples. It's our core rhythm, and it's here to stay. As we grow, these communities multiply across our city into new groups, days, and times, because that was always the engine, not a stepping stone we kick away later.
 
-Worship has its place in all of this too. From time to time we gather for worship nights to praise Jesus together as a wider family, and we announce each one on social media, our website, and by email, so follow along and you'll know when the next one is coming.
+Worship has its place in all of this too. We're building toward Gathered Worship, when our communities come together as one to praise Jesus, hear the Word, and share the Lord's Table. We'll announce the first gathering on social media, our website, and by email, so follow along and you'll know when it's here.
 
 Every dawn starts small. We're okay being small and real, because we're praying for something that outlasts any one gathering.
 
