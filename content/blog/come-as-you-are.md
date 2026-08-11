@@ -8,7 +8,7 @@ category: "Welcome"
 excerpt: "'Come as you are' is on nearly everything we make. It isn't a marketing line, it's a promise. Here's what it actually means, especially if church is the last place you feel like you belong."
 ---
 
-You'll see three words all over everything we do at Arise: *come as you are.* They're on our site, in our conversations, probably in the text that led you here. I don't want them to wash over you as one more church slogan, because we mean them as a promise, especially if church is the last place you feel like you belong.
+You'll see four words all over everything we do at Arise: *come as you are.* They're on our site, in our conversations, probably in the text that led you here. I don't want them to wash over you as one more church slogan, because we mean them as a promise, especially if church is the last place you feel like you belong.
 
 ## Who "as you are" is for
 
