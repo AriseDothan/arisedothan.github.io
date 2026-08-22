@@ -289,7 +289,7 @@
 .footer__social a { width: 42px; height: 42px; display: grid; place-items: center; border-radius: 50%; background: rgba(255,255,255,.08); color: #fff; transition: background .3s, transform .3s; }
 .footer__social a:hover { background: var(--accent); transform: translateY(-2px); }
 .footer__social svg { width: 20px; height: 20px; }
-.footer__bottom { position: relative; margin-top: 2.8rem; padding-top: 1.5rem; border-top: 1px solid rgba(255,255,255,.12); display: flex; flex-direction: column; align-items: flex-start; gap: .6rem; font-size: .86rem; color: #8398ba; }
+.footer__bottom { position: relative; margin-top: 2.8rem; padding-top: 1.5rem; border-top: 1px solid rgba(255,255,255,.12); display: flex; flex-direction: column; align-items: center; text-align: center; gap: .6rem; font-size: .86rem; color: #8398ba; }
 
 /* ---- This Week (rotating gathering location — unmissable) ---- */
 .this-week { display: flex; align-items: center; gap: 1.6rem; flex-wrap: wrap;
