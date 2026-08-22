@@ -2,10 +2,13 @@
   <div class="container">
     <div class="footer__grid">
       <div class="footer__brand">
-        <a class="brand" href="/">
-          <img class="brand__logo" src="/images/logo.webp" width="42" height="42" alt="{{business.name}} logo">
-          <span>{{business.name}}</span>
-        </a>
+        <div class="brand-group">
+          <a class="brand" href="/">
+            <img class="brand__logo" src="/images/logo.webp" width="42" height="42" alt="{{business.name}} logo">
+            <span>{{business.name}}</span>
+          </a>
+          <a href="https://www.foursquare.org" target="_blank" rel="noopener" aria-label="The Foursquare Church" title="A Foursquare church plant" style="display:inline-flex;align-items:center"><img src="/images/foursquare-logo-white.webp" alt="The Foursquare Church" width="108" height="20" style="height:20px;width:auto;display:block"></a>
+        </div>
         <p>{{business.tagline}} We gather in {{business.address.city}} to follow Jesus, become like him, and do what he did.</p>
         <div class="footer__social">
           {{#if social.facebook}}<a href="{{social.facebook}}" aria-label="Facebook" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M14 9h3l.5-3H14V4.3c0-.9.3-1.5 1.6-1.5H17V.1C16.6 0 15.6 0 14.5 0 12 0 10.3 1.5 10.3 4v2H7.5v3h2.8v8H14V9z"/></svg></a>{{/if}}
@@ -35,8 +38,8 @@
 
     <div class="footer__bottom">
       <span>&copy; {{year}} {{business.name}}. All rights reserved.</span>
-      <span class="footer__fsq"><a href="https://www.foursquare.org" target="_blank" rel="noopener" aria-label="The Foursquare Church" style="display:inline-flex;align-items:center;background:#f2ead1;border-radius:7px;padding:5px 8px;margin-right:9px;vertical-align:middle"><img src="/images/foursquare-logo.webp" alt="The Foursquare Church" width="108" height="20" style="height:20px;width:auto;display:block" loading="lazy"></a>A Foursquare church plant</span>
       <span>{{business.tagline}}</span>
+      <span>A Foursquare church plant</span>
     </div>
   </div>
 </footer>

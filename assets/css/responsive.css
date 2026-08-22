@@ -27,6 +27,8 @@
   .amount-grid { grid-template-columns: repeat(2, 1fr); }
   .footer__grid { grid-template-columns: 1fr; gap: 1.9rem; }
   .footer__bottom { flex-direction: column; align-items: flex-start; }
+  .brand-group { gap: .5rem; }
+  .header-fsq img { height: 16px; }
   .hero__rays { width: 220px; height: 220px; top: -50px; right: -50px; }
   .hero__bg { height: 100%; }
 

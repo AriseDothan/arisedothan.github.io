@@ -1,10 +1,13 @@
 <a class="skip-link" href="#main">Skip to content</a>
 <header class="site-header">
   <div class="container site-header__inner">
-    <a class="brand" href="/" aria-label="{{business.name}} home">
-      <img class="brand__logo" src="/images/logo.webp" width="42" height="42" alt="{{business.name}} logo" fetchpriority="high">
-      <span>{{business.name}}</span>
-    </a>
+    <div class="brand-group">
+      <a class="brand" href="/" aria-label="{{business.name}} home">
+        <img class="brand__logo" src="/images/logo.webp" width="42" height="42" alt="{{business.name}} logo" fetchpriority="high">
+        <span>{{business.name}}</span>
+      </a>
+      <a class="header-fsq" href="https://www.foursquare.org" target="_blank" rel="noopener" aria-label="The Foursquare Church" title="A Foursquare church plant"><img src="/images/foursquare-logo.webp" alt="The Foursquare Church" width="108" height="20"></a>
+    </div>
 
     <nav id="primary-nav" class="nav" aria-label="Primary">
       {{#each nav_links}}
