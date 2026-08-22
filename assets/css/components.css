@@ -283,6 +283,8 @@
 .footer__links { list-style: none; padding: 0; display: grid; gap: .65rem; }
 .footer__links a { color: #b8c6df; }
 .footer__links a:hover { color: var(--gold); }
+.footer__verse { margin-top: 1rem; font-family: var(--font-heading); font-style: italic; font-size: .98rem; line-height: 1.55; color: #c3cfe0; max-width: 34ch; }
+.footer__verse-ref { display: block; font-style: normal; font-size: .78rem; letter-spacing: .06em; text-transform: uppercase; color: var(--gold); margin-top: .4rem; }
 .footer__social { display: flex; gap: .7rem; margin-top: 1.3rem; }
 .footer__social a { width: 42px; height: 42px; display: grid; place-items: center; border-radius: 50%; background: rgba(255,255,255,.08); color: #fff; transition: background .3s, transform .3s; }
 .footer__social a:hover { background: var(--accent); transform: translateY(-2px); }
