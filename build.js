@@ -1162,7 +1162,7 @@ async function buildBlogPages(config, templatesDir, outputDir, context, baseLayo
         title: pageNum === 1
           ? `${config.blog_label || 'Blog'}${config.seo.title_suffix}`
           : `${config.blog_label || 'Blog'} — Page ${pageNum}${config.seo.title_suffix}`,
-        meta_description: `Stories, reflections, and updates from ${config.business.name} as we follow Jesus, become like Him, and do what He did in Dothan.`,
+        meta_description: `Stories, reflections, and updates from ${config.business.name} as we follow Jesus, become like him, and do what he did in Dothan.`,
         path: pageNum === 1 ? '/blog/' : `/blog/page/${pageNum}/`,
         og_image: config.seo.default_og_image,
         content: ''
