@@ -20,7 +20,7 @@
       "zip": "36301",
       "full": "Dothan, AL"
     },
-    "geo": { "lat": "31.2232", "lng": "-85.3905" },
+    "geo": { "lat": "", "lng": "" },
     "map_url": "https://www.google.com/maps/search/?api=1&query=Arise%20Dothan&query_place_id=ChIJNbDAPgGTkogR5frivFsokug",
     "service_area": ["Dothan", "Wiregrass", "Houston County"],
     "metro_area": "the Wiregrass"
