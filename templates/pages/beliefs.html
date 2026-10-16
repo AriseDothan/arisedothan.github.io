@@ -21,7 +21,7 @@
       <p class="hero__sub">{{cro.beliefs.hero_sub}}</p>
       <div class="btn-row hero__actions">
         <a class="btn btn--gold btn--lg btn--pulse" href="/connect/">Text Pastor Brian</a>
-        <a class="btn btn--on-dark btn--lg" href="/our-story/">Our story</a>
+        <a class="btn btn--on-dark btn--lg" href="/gatherings/">See our gatherings</a>
       </div>
     </div>
   </div>
@@ -271,6 +271,29 @@
     </details>
 
     <p class="declaration-attribution">Declaration of Faith compiled by Aimee Semple McPherson. Reproduced, with supporting Scripture references, from The Foursquare Church's official statement of faith, learn more at <a href="https://www.foursquare.org/about/beliefs/" target="_blank" rel="noopener">foursquare.org</a>.</p>
+  </div>
+</section>
+
+<section class="section section--warm">
+  <div class="container">
+    <div class="text-center maxw-680 mx-auto stack reveal">
+      <span class="eyebrow mx-auto">Who leads us</span>
+      <h2>Meet our <span class="ti">leaders</span></h2>
+      <p class="lede">Familiar faces who love this city and would love to know you.</p>
+    </div>
+    <div class="grid grid--2" style="margin-top:2.6rem">
+      {{#each leadership}}
+      <div class="card reveal">
+        <img src="{{this.image}}" alt="Portrait of {{this.name}}, {{this.role}} at Arise Dothan" loading="lazy" style="width:100%;aspect-ratio:4/3;object-fit:cover;object-position:{{this.image_position}};border-radius:14px;margin-bottom:1rem">
+        <h3>{{this.name}}</h3>
+        <p style="color:var(--gold);font-weight:600;margin-bottom:.55rem">{{this.role}}</p>
+        <p>{{this.bio}}</p>
+      </div>
+      {{/each}}
+    </div>
+    <div style="margin-top:2.6rem">
+      {{> text-brian secondary_label="See our gatherings" secondary_href="/gatherings/"}}
+    </div>
   </div>
 </section>
 

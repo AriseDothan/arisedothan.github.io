@@ -34,7 +34,7 @@ Come as you are, and don't expect to stay exactly as you are. That's not a bait-
 
 ## So, come
 
-If you've read this far, maybe something in you is a little curious, even if a bigger part is hesitant. That's okay. You don't have to resolve all of it first. Text Pastor Brian, we gather every Sunday morning at Mural City Coffee, and he'll be expecting you. Come see for yourself that the place we've made for you is real.
+If you've read this far, maybe something in you is a little curious, even if a bigger part is hesitant. That's okay. You don't have to resolve all of it first. Text Pastor Brian and he'll be expecting you. Come see for yourself that the place we've made for you is real.
 
 Come as you are. We mean it.
 

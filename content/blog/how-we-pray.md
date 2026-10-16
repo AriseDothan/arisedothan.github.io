@@ -38,6 +38,6 @@ So we put on the armor God gives, we stand firm, and we pray. Our weapons aren't
 
 Here's the quiet truth under all of it: prayer is mostly about dependence. It's the daily, humbling admission that we need God, and the wonderful discovery that he's actually there, actually listening, and actually at work by his Spirit.
 
-If your own prayer life feels rusty, or fake, or nonexistent, you're in good company, and you don't have to fix it before you come. Come pray with people who are learning too. Text Pastor Brian, and join us Sunday morning at Mural City Coffee. There'll be a place for you, and if you're willing, we'll lay hands on you, pray for you by name, and ask the Spirit to meet you right where you are.
+If your own prayer life feels rusty, or fake, or nonexistent, you're in good company, and you don't have to fix it before you come. Come pray with people who are learning too. Text Pastor Brian and he'll tell you how to join us. There'll be a place for you, and if you're willing, we'll lay hands on you, pray for you by name, and ask the Spirit to meet you right where you are.
 
 Pastor Brian

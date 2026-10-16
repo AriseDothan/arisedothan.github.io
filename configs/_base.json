@@ -29,7 +29,6 @@
   "_nav_note": "Church navigation. The header CTA button is 'Text Pastor Brian' (→ /connect/, the text-Pastor-Brian composer), the site's primary call to action, so 'Connect' is intentionally NOT in this array. 'Give' was re-added once online giving went live through the partner church's PushPay portal.",
   "nav_links": [
     { "label": "Home", "href": "/" },
-    { "label": "Our Story", "href": "/our-story/" },
     { "label": "Gatherings", "href": "/gatherings/" },
     { "label": "Beliefs", "href": "/beliefs/" },
     { "label": "Blog", "href": "/blog/" },

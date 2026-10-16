@@ -18,7 +18,7 @@ We didn't want to rush to fill a room. We wanted to build something that lasts.
 
 ## Disciples first, then everything else
 
-So here's our order of operations, and it's on purpose: **disciples first.** Our core rhythm is the Disciple Making Community, a group doing the slow, unhurried work of following Jesus together, gathering every Sunday at 10:00 AM at Mural City Coffee for coffee, prayer, open Scripture, and honest conversation.
+So here's our order of operations, and it's on purpose: **disciples first.** Our core rhythm is the Disciple Making Community, a group doing the slow, unhurried work of following Jesus together, gathering for coffee, prayer, open Scripture, and honest conversation.
 
 Why that order? Because everything a church does is only ever as healthy as the people carrying it. Fill a room with strangers and you have an event. Fill it with disciples who've learned to follow Jesus, pray, open the Scriptures, and love each other in the ordinary weeks, and you have a church that can hold up under weight. We'd rather spend our energy building people than building a production.
 

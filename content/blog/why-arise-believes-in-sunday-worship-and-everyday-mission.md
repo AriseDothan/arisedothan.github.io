@@ -32,7 +32,7 @@ That's why we hold them together. We move out *because* we've moved up. We serve
 
 ## What that looks like right now
 
-Let me be honest about where we are. Our core rhythm is our Disciple Making Community, gathering every Sunday morning at Mural City Coffee, and it's here to stay. As we grow, these communities multiply across our city into new groups, days, and times. Worship is already woven through them, and we're building toward Gathered Worship, when our communities come together as one to praise Jesus, hear the Word, and share the Lord's Table. We'll announce the first gathering on social media, our website, and by email, so follow along and you'll know when it's here.
+Let me be honest about where we are. Our core rhythm is our Disciple Making Community, and it's the heart of who we are. As we grow, these communities multiply across our city into new groups, days, and times. Worship is already woven through them, and we're building toward Gathered Worship, when our communities come together as one to praise Jesus, hear the Word, and share the Lord's Table. We'll announce the first gathering on social media, our website, and by email, so follow along and you'll know when it's here.
 
 And mission? Mission isn't a someday. On the second Saturday of every month, we already move out together to serve Dothan and the Wiregrass, real hands, real work, real people who need to know somebody showed up for them in Jesus' name. It's happening now, right in the ordinary rhythm of our life together.
 

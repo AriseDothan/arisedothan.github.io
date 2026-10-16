@@ -1288,6 +1288,27 @@ async function buildSite(siteId) {
     }
   }
 
+  // Blog "Gather with us" items auto-expire: each item is { text, expires? }.
+  // A dated event drops from blog pages the day AFTER its `expires` date (same
+  // BUILD_DATE-aware UTC-day check); an item with no `expires` is evergreen.
+  // renderEmailHtml in scripts/publish-post.js applies the identical filter for
+  // emails. After filtering, items are flattened to plain strings so the
+  // template's {{#each blog_gatherings.items}}{{this}} renders unchanged.
+  if (config.blog_gatherings && Array.isArray(config.blog_gatherings.items)) {
+    const buildDateUTC = getBuildDateUTC();
+    config.blog_gatherings.items = config.blog_gatherings.items
+      .filter((it) => {
+        if (!it || (typeof it === 'object' && !it.text)) return false;
+        const expires = typeof it === 'object' ? it.expires : null;
+        if (!expires) return true;
+        const e = new Date(expires);
+        const keep = buildDateUTC <= Date.UTC(e.getUTCFullYear(), e.getUTCMonth(), e.getUTCDate());
+        if (!keep) console.log(`  BLOG GATHERINGS: expired ${expires} — dropping "${(it.text || '').slice(0, 40)}..."`);
+        return keep;
+      })
+      .map((it) => (typeof it === 'string' ? it : it.text));
+  }
+
   // Staging: strip production TRACKING IDs so no real analytics/conversions
   // fire from test traffic. Webhook URLs are KEPT so form submissions can be
   // E2E-tested on staging — staged leads are distinguishable in GHL because

@@ -20,9 +20,9 @@ Read that again slowly, because every phrase is doing work. *Together with other
 
 ## What actually happens on a Sunday
 
-A Disciple Making Community isn't a lecture and it isn't a hangout, it's somewhere better than both. Every Sunday at 10:00 AM we gather at Mural City Coffee for coffee, prayer, open Scripture, and honest conversation. We read the Bible together and actually talk about it. We pray for each other by name. We tell the truth about where we're struggling and where God is at work. It's the slow, unhurried work of following Jesus in the company of people who know you.
+A Disciple Making Community isn't a lecture and it isn't a hangout, it's somewhere better than both. When we gather, it's for coffee, prayer, open Scripture, and honest conversation. We read the Bible together and actually talk about it. We pray for each other by name. We tell the truth about where we're struggling and where God is at work. It's the slow, unhurried work of following Jesus in the company of people who know you.
 
-We meet at Mural City Coffee, 192 S. Foster St., so there's one easy address to remember. If you want to come, text Pastor Brian and he'll be expecting you. Come as you are. Bring your questions. There's a place for you.
+If you want to come, text Pastor Brian and he'll tell you where we're meeting and be expecting you. Come as you are. Bring your questions. There's a place for you.
 
 ## Why "making," and why "multiplying"
 

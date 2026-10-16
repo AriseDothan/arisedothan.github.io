@@ -30,9 +30,9 @@ That's what we mean when we say our mission is to participate in God's kingdom b
 
 ## The season we're in
 
-I'm not going to pretend we're something we're not. We're young and we're small, and our core rhythm is our Disciple Making Community. We gather every Sunday at 10:00 AM, and as we grow these communities multiply across our city into new groups, days, and times.
+I'm not going to pretend we're something we're not. We're young and we're small, and our core rhythm is our Disciple Making Community. As we grow, these communities multiply across our city into new groups, days, and times.
 
-Every Sunday at 10:00 AM, we gather as a Disciple Making Community at Mural City Coffee for coffee, prayer, open Scripture, and honest conversation. If you want to come, text Pastor Brian and I'll be expecting you. Once a month, on the second Saturday, we move out together to serve our city. That's the whole rhythm right now, and it's enough to build something real on.
+We gather as a Disciple Making Community for coffee, prayer, open Scripture, and honest conversation. If you want to come, text Pastor Brian and I'll be expecting you. Once a month, on the second Saturday, we move out together to serve our city. That's the whole rhythm right now, and it's enough to build something real on.
 
 It's not flashy. There's no fog machine, no big stage. What there is: real people, an open Bible, and a growing conviction that God is doing something in this city that's bigger than any one room. Every dawn starts small. We're praying this is one of those mornings.
 
