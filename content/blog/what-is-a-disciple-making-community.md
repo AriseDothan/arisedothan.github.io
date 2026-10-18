@@ -8,7 +8,7 @@ category: "Discipleship"
 excerpt: "It's the heart of how we gather, a community learning to follow Jesus together and equipped to help others do the same. Here's what that actually means."
 ---
 
-If you've spent any time around Arise Dothan, you've heard us use a phrase that might be new to you: **Disciple Making Community**. It's what we call our Sunday gathering, and it's the center of gravity for everything we're doing. So let me tell you plainly what it is, and why it matters.
+If you've spent any time around Arise Dothan, you've heard us use a phrase that might be new to you: **Disciple Making Community**. It's what we call our core gathering, and it's the center of gravity for everything we're doing. So let me tell you plainly what it is, and why it matters.
 
 ## Start with the word *disciple*
 
@@ -18,7 +18,7 @@ Before we can talk about a disciple-*making* community, we have to be honest abo
 
 Read that again slowly, because every phrase is doing work. *Together with others*, discipleship is not a solo project. *By the power of the Holy Spirit*, it's not self-improvement; it's God's work in us. *Pursues Jesus, is being changed by Jesus, engaged in the mission of Jesus*, following, becoming, and doing, all at once. That's a disciple. And a Disciple Making Community is simply a group of people helping one another become exactly that.
 
-## What actually happens on a Sunday
+## What actually happens when we gather
 
 A Disciple Making Community isn't a lecture and it isn't a hangout, it's somewhere better than both. When we gather, it's for coffee, prayer, open Scripture, and honest conversation. We read the Bible together and actually talk about it. We pray for each other by name. We tell the truth about where we're struggling and where God is at work. It's the slow, unhurried work of following Jesus in the company of people who know you.
 
@@ -34,6 +34,6 @@ That's why we talk about *multiplying* disciples across our city. One table beco
 
 It would be easy to look at a small group over coffee and see a waiting room, something to pass through until the *real* church arrives. I want to push back on that as hard as I can. The Disciple Making Community isn't a holding pattern for something bigger later. It **is** the church, doing the most important work a church can do, forming people into the likeness of Jesus and equipping them to go do the same. It's our core rhythm, and it's here to stay, and as we grow it multiplies across our city into new groups, days, and times.
 
-So if you're wondering where to start with Arise Dothan, start here. This is the heart of it, and there's room for you. Text Pastor Brian, come to a Sunday, and see what it looks like to follow Jesus together.
+So if you're wondering where to start with Arise Dothan, start here. This is the heart of it, and there's room for you. Text Pastor Brian, come be part of it, and see what it looks like to follow Jesus together.
 
 Pastor Brian

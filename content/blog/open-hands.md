@@ -38,6 +38,6 @@ And yes, it includes what we do with our finances. Giving to God's work isn't a 
 
 ## Come and see
 
-If money has had a grip on you, or generosity has only ever felt like pressure, there's freedom on the other side of open hands, and it's better than anything you're holding onto. You don't have to have it all figured out to begin. Come as you are, text Pastor Brian, and let's learn to live open-handed together this Sunday.
+If money has had a grip on you, or generosity has only ever felt like pressure, there's freedom on the other side of open hands, and it's better than anything you're holding onto. You don't have to have it all figured out to begin. Come as you are, text Pastor Brian, and let's learn to live open-handed together.
 
 Pastor Brian

@@ -40,7 +40,7 @@ Until that day, we don't do pain alone. "Is anyone among you sick? Let them call
 
 ## Come and see
 
-If you're hurting today, you don't need the right words or enough faith to come. You just need to come. Let us pray with you, sit with you, and hope with you. Bring the very thing you're most tired of carrying. That's the invitation, text Pastor Brian and join us this Sunday.
+If you're hurting today, you don't need the right words or enough faith to come. You just need to come. Let us pray with you, sit with you, and hope with you. Bring the very thing you're most tired of carrying. That's the invitation, text Pastor Brian and join us.
 
 Next week we close the series with the fourth truth: Jesus is the soon-coming King, our reason to keep hope alive no matter what.
 

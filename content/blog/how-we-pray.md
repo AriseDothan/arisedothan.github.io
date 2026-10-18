@@ -18,7 +18,7 @@ So we make room for him. Sometimes that means praying with clear words and a cle
 
 ## What it actually looks like
 
-Our praying isn't fancy. On a Sunday morning, in our Disciple Making Community, it looks like ordinary people praying for each other by name, the job interview, the hard marriage, the wandering kid, the diagnosis. It looks like opening the Scriptures and then actually talking to God about them. It looks like laying hands on someone who's hurting and asking God to heal, because he still does. It looks like sitting quietly long enough to listen, expecting the Spirit to lead.
+Our praying isn't fancy. In our Disciple Making Community, it looks like ordinary people praying for each other by name, the job interview, the hard marriage, the wandering kid, the diagnosis. It looks like opening the Scriptures and then actually talking to God about them. It looks like laying hands on someone who's hurting and asking God to heal, because he still does. It looks like sitting quietly long enough to listen, expecting the Spirit to lead.
 
 You don't have to be good at it. You don't need the right words or a certain tone of voice. If you've never prayed out loud in your life, you can listen while others do, no pressure and no performance. Some of the most honest prayers in our gatherings are three words long. And when we pray for the sick, we do it gently and in faith, anointing with oil as Scripture teaches, asking boldly and then leaving the results with God. We never treat healing like a formula, and we never shame anyone whose healing hasn't come yet. We simply trust the good Father who loves them.
 

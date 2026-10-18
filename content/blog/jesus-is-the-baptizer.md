@@ -38,7 +38,7 @@ If you've been in rooms where the Spirit was used to pressure people, manufactur
 
 ## Come and see
 
-You don't have to have any of this figured out to come. You don't even have to fully believe it yet. Come as you are, bring your questions, and see for yourself what it looks like when ordinary people depend on the Spirit of God together. That's the whole invitation, text Pastor Brian and join us this Sunday.
+You don't have to have any of this figured out to come. You don't even have to fully believe it yet. Come as you are, bring your questions, and see for yourself what it looks like when ordinary people depend on the Spirit of God together. That's the whole invitation, text Pastor Brian and join us.
 
 Next week we'll turn to the third truth: Jesus is Healer. The same Spirit who fills us is the Spirit who makes us whole.
 

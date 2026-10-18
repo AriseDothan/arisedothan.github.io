@@ -44,6 +44,6 @@ That's it. It sounds almost too simple to matter. But grateful hearts are built 
 
 If you're weary, or you've forgotten what it even feels like to be thankful, you don't have to work your way back before you come. Bring the weariness with you. Some of the most grateful people you'll ever meet are the ones who have been through the most and found God faithful anyway.
 
-This is where following Jesus begins, and where our whole month is headed: a grateful heart that spills over into a generous life. We'd love to give thanks alongside you. Come as you are, text Pastor Brian, and join us this Sunday.
+This is where following Jesus begins, and where our whole month is headed: a grateful heart that spills over into a generous life. We'd love to give thanks alongside you. Come as you are, text Pastor Brian, and join us.
 
 Pastor Brian

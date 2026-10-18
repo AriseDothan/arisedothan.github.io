@@ -42,7 +42,7 @@ It's also where our whole mission begins. We say we exist to help people follow 
 
 Maybe you've never actually met Jesus as your Savior, or maybe it's been a long time and you've wandered. Either way, the door is open and the invitation is real. You don't have to clean yourself up first, that's backwards. Come as you are, bring your questions and your baggage, and meet the One who came to carry it.
 
-That's the whole invitation. Text Pastor Brian, come sit with us this Sunday, and let's talk about it in person. Next week we'll turn to the second truth: Jesus is the Baptizer in the Holy Spirit.
+That's the whole invitation. Text Pastor Brian, come sit with us, and let's talk about it in person. Next week we'll turn to the second truth: Jesus is the Baptizer in the Holy Spirit.
 
 The glory rising over Dothan has a name, and his name is Jesus, the Savior. We'd love for you to meet him.
 

@@ -34,6 +34,6 @@ Every dawn starts small. We're okay being small and real, because we're praying 
 
 Here's the invitation hidden in all of this: there's room for you to help build this from the foundation. Most people who join a church walk into something already finished. Here you could help *form* it, praying, gathering, serving, and shaping the kind of church Dothan will know for years to come.
 
-If that stirs something in you, I'd love to talk. Text Pastor Brian, come to a Sunday, and see what it looks like to build slow and build right.
+If that stirs something in you, I'd love to talk. Text Pastor Brian, reach out, and see what it looks like to build slow and build right.
 
 Pastor Brian

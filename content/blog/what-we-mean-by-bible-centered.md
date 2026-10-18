@@ -22,9 +22,9 @@ Here's the part I most want you to hear, because I know some of you have been on
 
 Jesus himself said the Scriptures point to him (John 5:39). So the goal was never to master a book, it was to meet a Person through it. When we open the Bible together, we're not hunting for ammunition or a checklist. We're listening for the voice of the God who loves us and wants to set us free. Truth and grace came together in Jesus, and they belong together in how we handle his word.
 
-## What it looks like on an ordinary Sunday
+## What it looks like when we gather
 
-On a normal Sunday, being Bible-centered is pretty undramatic. We open the Scriptures and actually read them. We try to understand what they meant before we ask what they mean for us. We let the text set the agenda instead of using it to decorate an agenda we already had. And then we ask the harder question: not just "what does this say," but "what does this ask of me?"
+When we gather, being Bible-centered is pretty undramatic. We open the Scriptures and actually read them. We try to understand what they meant before we ask what they mean for us. We let the text set the agenda instead of using it to decorate an agenda we already had. And then we ask the harder question: not just "what does this say," but "what does this ask of me?"
 
 You don't need a theology degree or a lifetime of church to be part of that. You just need to be willing to look. Some of the best questions we've heard came from people who'd never opened a Bible before, or who'd walked away from one years ago. There's room for all of it here, the doubts, the pushback, the "wait, does it really say that?" Honest wrestling with the text is welcome, it's how many of us got here.
 
@@ -36,7 +36,7 @@ A Bible-centered church isn't one that argues the most about Scripture. It's one
 
 ## Come and see
 
-If the Bible feels intimidating, or if it's mostly been used against you, you don't have to have it sorted out to come. There's nothing to prove and no verses you're expected to have memorized. Come as you are, bring the hardest questions you've got, and see what happens when a few ordinary people open God's word together and let him speak. That's the invitation, text Pastor Brian and join us this Sunday.
+If the Bible feels intimidating, or if it's mostly been used against you, you don't have to have it sorted out to come. There's nothing to prove and no verses you're expected to have memorized. Come as you are, bring the hardest questions you've got, and see what happens when a few ordinary people open God's word together and let him speak. That's the invitation, text Pastor Brian and join us.
 
 The same glory that's rising over Dothan speaks to us in his word. We'd love to open it with you.
 

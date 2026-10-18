@@ -40,7 +40,7 @@ It shapes our whole mission. We help people follow Jesus, become like him, and d
 
 ## Come and see
 
-If you've never made peace with the King, there's no better day than now, while the door is still open. And if you're weary, let this be the hope that steadies you: the story ends in his hands, and it ends in glory. Come as you are and let's talk about it. That's the invitation, text Pastor Brian and join us this Sunday.
+If you've never made peace with the King, there's no better day than now, while the door is still open. And if you're weary, let this be the hope that steadies you: the story ends in his hands, and it ends in glory. Come as you are and let's talk about it. That's the invitation, text Pastor Brian and join us.
 
 That's the four: Savior, Baptizer, Healer, and soon-coming King. Four faces of one Jesus, and the reason our name is Arise. "Arise, shine, for your light has come, and the glory of the LORD rises upon you" (Isaiah 60:1). The light has come. The King is coming. We'd love for you to rise with us.
 

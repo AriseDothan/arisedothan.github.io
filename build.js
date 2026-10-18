@@ -178,7 +178,7 @@ async function build404Page(templatesDir, baseLayout, context, config, outputDir
     <p class="lede">The page you're looking for doesn't exist or has moved. Let's get you back home.</p>
     <div class="btn-row" style="justify-content:center">
       <a class="btn btn--primary btn--lg" href="/">Back to Home</a>
-      <a class="btn btn--ghost btn--lg" href="/gatherings/">Plan a visit</a>
+      <a class="btn btn--ghost btn--lg" href="/gatherings/">See our gatherings</a>
     </div>
   </div>
 </section>`;
@@ -436,9 +436,9 @@ function generateAgentSkills(config, pages) {
   {
     const gatherPath = findPath(/gather/i);
     const connectPath = findPath(/connect|contact/i);
-    let md = `# Plan a Visit to ${b.name}\n\n`;
-    md += `Help someone plan a first visit to ${b.name}`;
-    md += addr.city ? ` in ${addr.city}, ${addr.state}, or get connected.\n\n` : `, or get connected.\n\n`;
+    let md = `# Connect with ${b.name}\n\n`;
+    md += `Help someone connect with ${b.name}, a church still forming`;
+    md += addr.city ? ` in ${addr.city}, ${addr.state}, and find out about current gatherings.\n\n` : `, and find out about current gatherings.\n\n`;
     if (b.tagline) md += `> ${b.tagline}\n\n`;
     if (Array.isArray(config.gatherings) && config.gatherings.length) {
       md += `## Gatherings\n\n`;
@@ -452,13 +452,13 @@ function generateAgentSkills(config, pages) {
     }
     md += `## Steps\n\n`;
     let n = 1;
-    if (gatherPath) md += `${n++}. See gathering times & what to expect: ${base}${gatherPath}\n`;
+    if (gatherPath) md += `${n++}. See our current gatherings and what to expect: ${base}${gatherPath}\n`;
     if (connectPath) md += `${n++}. Say hello, ask a question, or request prayer: ${base}${connectPath}\n`;
     if (b.phone) md += `${n++}. Call or text ${b.phone}.\n`;
     md += `\n## Reference\n\n`;
     if (area) md += `- Area served: ${area}\n`;
     md += `- Machine-readable site index: ${base}/llms.txt\n`;
-    skills.push({ name: 'plan-a-visit', description: `How to plan a first visit to ${b.name}: gathering times, location, and how to connect.`, md });
+    skills.push({ name: 'plan-a-visit', description: `How to connect with ${b.name}, a church still forming in ${addr.city || 'Dothan'}: current gatherings and how to reach Pastor Brian.`, md });
   }
 
   // Skill: business info (contact, hours, location, service area).

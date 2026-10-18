@@ -20,7 +20,7 @@ You are exactly who we had in mind. There's a place at this table for you, not o
 
 Here's what come as you are is *not.* It's not "come and pretend." It's not "come once you look the part." It's not a soft welcome that turns into pressure the minute you show up. We're not running a performance you're expected to match, and there's no test at the door.
 
-Our Sunday gatherings are ordinary on purpose, coffee, an open Bible, honest conversation, prayer for each other by name. No stage, no spotlight, no one scoring how spiritual you seem. You can bring your questions and your doubts through the front door. You can sit quietly the whole time. You can show up with your kids and your guard up. All of it is welcome.
+Our gatherings are ordinary on purpose, coffee, an open Bible, honest conversation, prayer for each other by name. No stage, no spotlight, no one scoring how spiritual you seem. You can bring your questions and your doubts through the front door. You can sit quietly the whole time. You can show up with your kids and your guard up. All of it is welcome.
 
 ## Why we can say it
 

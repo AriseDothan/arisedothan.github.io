@@ -26,7 +26,7 @@ So this Thanksgiving, let the gratitude go somewhere. Say the thank-you you've b
 
 ## A people who give thanks
 
-When we gather on Sundays, a lot of what we're doing is simply this: giving thanks together. We remember what God has done, we thank him for grace we didn't earn, and we let that gratitude tune our hearts before the week begins. It's one of the healthiest things a person can do, and it's better in a room full of people doing it with you.
+When we gather, a lot of what we're doing is simply this: giving thanks together. We remember what God has done, we thank him for grace we didn't earn, and we let that gratitude tune our hearts before the week begins. It's one of the healthiest things a person can do, and it's better in a room full of people doing it with you.
 
 We're a Spirit-filled church, and thankfulness is one of the surest signs the Spirit is at work in a life, quiet, steady, and glad. Not hype. Just a deep-down gladness that God is who he says he is.
 

@@ -38,6 +38,6 @@ This is why "Spirit-filled" is not decoration on our website; it is our life. Ou
 
 If you have never begun, this is the beginning, and it is not complicated. Turn toward Jesus, trust him, and receive the Spirit he gives. You don't have to clean yourself up first or understand everything, any more than a newborn does. Being born of the Spirit is how a life comes awake to God, and it is offered to you as you are.
 
-Next in the series, we'll look at what it means to keep being filled. In the meantime, come and see for yourself. Text Pastor Brian and join us this Sunday.
+Next in the series, we'll look at what it means to keep being filled. In the meantime, come and see for yourself. Text Pastor Brian and join us.
 
 Pastor Brian
