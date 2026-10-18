@@ -32,6 +32,6 @@ Joy, like the shepherds, doesn't stay put. Once they'd seen the child, they coul
 
 If joy feels far off this December, please hear this: you don't have to fake it to belong here. Come sad if you're sad. Some of the most joyful gatherings you'll ever be part of are full of people carrying real burdens, who have simply found someone worth being glad about anyway.
 
-This Sunday we light the candle of joy. Come and find the gladness that circumstances can't give and can't take away. Come as you are, text Pastor Brian, and let's rejoice together.
+This Tuesday night, at our Advent study, we light the candle of joy. Come and find the gladness that circumstances can't give and can't take away. Come as you are, text Pastor Brian, and let's rejoice together.
 
 Pastor Brian

@@ -32,6 +32,6 @@ A church that has been loved like this can't help but love. It's why we say "the
 
 If you've always felt like you were on the outside of God's love, looking in, Christmas is the announcement that the door is open, and always was. Love came down for you, personally, by name.
 
-This Sunday, the last before Christmas, we light the candle of love. Come and be loved, no performance required. Come as you are, text Pastor Brian, and let's celebrate the God who came near.
+This Tuesday night, the last of our Advent study before Christmas, we light the candle of love. Come and be loved, no performance required. Come as you are, text Pastor Brian, and let's celebrate the God who came near.
 
 Pastor Brian

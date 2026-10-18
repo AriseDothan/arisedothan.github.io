@@ -32,6 +32,6 @@ Long before he was born, Isaiah gave the coming child a name: "Prince of Peace."
 
 If you are anxious this December, you are in good company, and you are welcome exactly like that. You don't have to calm yourself down before you come. Bring the worry with you and lay it down among people who are learning to do the same.
 
-This Sunday we light the candle of peace. Come and receive the peace you can't manufacture. Come as you are, text Pastor Brian, and let's find him together.
+This Tuesday night, at our Advent study, we light the candle of peace. Come and receive the peace you can't manufacture. Come as you are, text Pastor Brian, and let's find him together.
 
 Pastor Brian

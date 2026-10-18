@@ -8,9 +8,9 @@ category: "Spiritual Life"
 excerpt: "Advent begins with hope, but not the flimsy kind. Here's the difference between wishful thinking and the sure hope that arrived in a manger, and is coming again."
 ---
 
-This Sunday, Advent begins. For a lot of people, December is a blur of lights and lists and noise. Advent is the church's ancient, counter-cultural way of slowing down to remember what the season is actually about: a coming. God, coming to us. And the first candle we light is hope.
+This Tuesday night, Advent begins, and we're beginning it together. We're starting a four-week Advent study, *The Marvel and Miracle of Advent* by Christine Caine and Lisa Harper, gathering on Tuesday evenings through December at Pastor Brian and Jaclyn's home. For a lot of people, December is a blur of lights and lists and noise. Advent is the church's ancient, counter-cultural way of slowing down to remember what the season is actually about: a coming. God, coming to us. Each week we'll light a candle, and the first one is hope.
 
-Over the next four weeks we'll walk through the four great words of Advent, hope, peace, joy, and love, and let them do their slow work in us. It starts with hope, because hope is what you need most when the nights are long.
+Over the next four Tuesdays we'll walk through the four great words of Advent, hope, peace, joy, and love, and let them do their slow work in us. It starts with hope, because hope is what you need most when the nights are long.
 
 ## Not wishful thinking
 
@@ -34,6 +34,6 @@ That's the Spirit-filled hope we hold. Not a shallow optimism that ignores how h
 
 If your hope is running low this year, don't try to force it. Just come and stand near people whose hope is burning, and let a little of it catch. Hope is contagious in the right company.
 
-This Advent, come and wait with us for the God who always comes. Come as you are, text Pastor Brian, and let's light the first candle together this Sunday.
+This Advent, come and wait with us for the God who always comes. Come as you are, text Pastor Brian for the details, and let's light the first candle together this Tuesday night.
 
 Pastor Brian
