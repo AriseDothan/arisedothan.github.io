@@ -6,7 +6,7 @@
 
   "business": {
     "name": "Arise Dothan",
-    "tagline": "A Spirit-filled, Bible-centered church.",
+    "tagline": "A Spirit-filled, Scripture-centered church.",
     "mission": "Follow. Become. Do.",
     "phone": "(334) 216-1587",
     "phone_raw": "3342161587",
@@ -34,7 +34,7 @@
 
   "seo": {
     "title_suffix": " | Arise Dothan",
-    "default_meta_description": "Arise Dothan is a Spirit-filled, Bible-centered Foursquare church plant forming in Dothan, AL. We're praying and taking root to help people follow Jesus, become like him, and do what he did. All are welcome, text Pastor Brian to connect.",
+    "default_meta_description": "Arise Dothan is a Spirit-filled, Scripture-centered Foursquare church plant forming in Dothan, AL. We're praying and taking root to help people follow Jesus, become like him, and do what he did. All are welcome, text Pastor Brian to connect.",
     "default_og_image": "images/hero-family.webp"
   },
 
@@ -72,7 +72,7 @@
     "home": {
       "eyebrow": "Welcome to Arise Dothan",
       "hero_title": "Rise with us in the heart of Dothan.",
-      "hero_sub": "A Spirit-filled, Bible-centered church for anyone, whether you've never set foot in a church, walked away from one, or got worn out inside one. Come as you are, there's a place for you.",
+      "hero_sub": "A Spirit-filled, Scripture-centered church for anyone, whether you've never set foot in a church, walked away from one, or got worn out inside one. Come as you are, there's a place for you.",
       "cta1_text": "Text Pastor Brian",
       "cta2_text": "See our gatherings"
     },
@@ -214,7 +214,7 @@
     "short_name": "Arise",
     "version": "1.0.0",
     "timezone": "America/Chicago",
-    "description": "A Spirit-filled, Bible-centered church plant in Dothan, AL.",
+    "description": "A Spirit-filled, Scripture-centered church plant in Dothan, AL.",
     "mcp_endpoint": "https://arisedothan.com/mcp",
     "services": [
       { "id": "gatherings", "category": "gathering", "name": "Gatherings", "description": "Arise Dothan is a church still forming; where and when we gather is announced as the church takes root. Text Pastor Brian to find out what's happening.", "url": "https://arisedothan.com/gatherings/" },
@@ -224,10 +224,10 @@
   },
 
   "pages": [
-    { "template": "pages/index.html",      "output": "index.html",             "path": "/",            "title": "Arise Dothan | A Spirit-filled, Bible-centered church in Dothan, AL", "meta_description": "Arise Dothan is a Spirit-filled Foursquare church plant forming in Dothan, AL. We Move Up, Move In, and Move Out: follow Jesus, become like him, do what he did. Text Pastor Brian to connect.", "priority": "1.0", "changefreq": "weekly" },
+    { "template": "pages/index.html",      "output": "index.html",             "path": "/",            "title": "Arise Dothan | A Spirit-filled, Scripture-centered church in Dothan, AL", "meta_description": "Arise Dothan is a Spirit-filled Foursquare church plant forming in Dothan, AL. We Move Up, Move In, and Move Out: follow Jesus, become like him, do what he did. Text Pastor Brian to connect.", "priority": "1.0", "changefreq": "weekly" },
     { "template": "pages/beliefs.html",    "output": "beliefs/index.html",     "path": "/beliefs/",    "title": "What We Believe", "meta_description": "What Arise Dothan believes, centered in Jesus, rooted in Scripture, alive by the Spirit, and lived out as we Move Up, Move In, and Move Out, plus the Foursquare Church's official Declaration of Faith.", "priority": "0.7", "changefreq": "monthly" },
     { "template": "pages/gatherings.html", "output": "gatherings/index.html",  "path": "/gatherings/", "title": "Gatherings & What to Expect", "meta_description": "Arise Dothan is a church still forming. We don't have a weekly public service yet, where and when we gather is shared here and by text. We serve our city together once a month, and children are always welcome. Text Pastor Brian to connect.", "priority": "0.9", "changefreq": "weekly" },
-    { "template": "pages/watch.html",      "output": "watch/index.html",       "path": "/watch/",      "title": "Arise TV", "meta_description": "Watch sermons, teaching, and worship from Arise Dothan, a Spirit-filled, Bible-centered Foursquare church in Dothan, AL. Follow Jesus, become like him, and do what he did.", "priority": "0.7", "changefreq": "weekly" },
+    { "template": "pages/watch.html",      "output": "watch/index.html",       "path": "/watch/",      "title": "Arise TV", "meta_description": "Watch sermons, teaching, and worship from Arise Dothan, a Spirit-filled, Scripture-centered Foursquare church in Dothan, AL. Follow Jesus, become like him, and do what he did.", "priority": "0.7", "changefreq": "weekly" },
     { "template": "pages/give.html",       "output": "give/index.html",        "path": "/give/",       "title": "Give", "meta_description": "Give to Arise Dothan online through our partner church, just choose 'Tithes - Arise Church (Dothan)' from the dropdown, or give in person or by mail. Every gift helps us make disciples who make disciples and multiply Disciple Making Communities across Dothan.", "priority": "0.6", "changefreq": "monthly" },
     { "template": "pages/connect.html",    "output": "connect/index.html",     "path": "/connect/",    "title": "Say Hello | Arise Dothan", "meta_description": "Reach Arise Dothan the way that's easiest for you: send a message straight to Pastor Brian right from the page, or text him directly. A real person reads every one and replies personally, no pressure, no walk-in required.", "priority": "0.9", "changefreq": "monthly" }
   ]
