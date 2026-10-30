@@ -1309,6 +1309,34 @@ async function buildSite(siteId) {
       .map((it) => (typeof it === 'string' ? it : it.text));
   }
 
+  // Gathering cards auto-expire too: a card with an `expires` date drops from
+  // the Home and Gatherings pages the day AFTER that date (same BUILD_DATE-aware
+  // UTC-day check as blog_gatherings). Evergreen cards omit `expires`.
+  if (Array.isArray(config.gatherings)) {
+    const buildDateUTC = getBuildDateUTC();
+    config.gatherings = config.gatherings.filter((g) => {
+      if (!g || !g.expires) return true;
+      const e = new Date(g.expires);
+      const keep = buildDateUTC <= Date.UTC(e.getUTCFullYear(), e.getUTCMonth(), e.getUTCDate());
+      if (!keep) console.log(`  GATHERINGS: expired ${g.expires} — dropping "${g.what || ''}"`);
+      return keep;
+    });
+  }
+
+  // Seasonal/one-off PAGES auto-expire: a page entry with an `expires` date
+  // (e.g. the /advent/ landing page) drops from the whole build the day AFTER
+  // that date — no page, no sitemap / llms.txt / .md entry, no stale link.
+  if (Array.isArray(config.pages)) {
+    const buildDateUTC = getBuildDateUTC();
+    config.pages = config.pages.filter((p) => {
+      if (!p || !p.expires) return true;
+      const e = new Date(p.expires);
+      const keep = buildDateUTC <= Date.UTC(e.getUTCFullYear(), e.getUTCMonth(), e.getUTCDate());
+      if (!keep) console.log(`  PAGE: ${p.path} expired ${p.expires} — dropping from build`);
+      return keep;
+    });
+  }
+
   // Staging: strip production TRACKING IDs so no real analytics/conversions
   // fire from test traffic. Webhook URLs are KEPT so form submissions can be
   // E2E-tested on staging — staged leads are distinguishable in GHL because
@@ -1352,9 +1380,15 @@ async function buildSite(siteId) {
   // Register partials for this theme
   registerPartials(templatesDir);
 
+  // Advent feature cards (Home + Gatherings) show only while the /advent/ page
+  // is still live (it's dropped above once past its `expires`), so they never
+  // link to a page that no longer exists.
+  const show_advent = (config.pages || []).some((p) => p.path === '/advent/');
+
   // Build template context
   const context = {
     ...config,
+    show_advent,
     location: {
       name: config.business.name,
       phone: config.business.phone,
@@ -1596,7 +1630,7 @@ async function buildSite(siteId) {
       ...context,
       page: {
         ...page,
-        og_image: config.seo.default_og_image,
+        og_image: page.og_image || config.seo.default_og_image,
         content: pageContent
       }
     };
