@@ -1505,10 +1505,12 @@ async function buildSite(siteId) {
         const pctSaved = ((1 - newSize / originalSize) * 100).toFixed(0);
         console.log(`  IMG: ${file} → ${baseName}.webp (${(newSize / 1024).toFixed(0)} KB, saved ${pctSaved}%)`);
 
-        // Also emit the original PNG for a few small logo files: HTML email clients
-        // (notably Gmail) don't render WebP, so blog/newsletter emails reference these .png copies.
-        const EMAIL_PNG_LOGOS = ['logo', 'foursquare-logo', 'foursquare-logo-white'];
-        if (ext === '.png' && EMAIL_PNG_LOGOS.includes(baseName)) {
+        // Also emit the ORIGINAL (un-WebP'd) copy for a few files that HTML
+        // email clients must load directly: Gmail et al. don't render WebP, so
+        // blog/newsletter and campaign emails reference these .png/.jpg copies
+        // by their original filename (e.g. /images/logo.png, /images/advent-study.jpg).
+        const EMAIL_ORIGINAL_IMAGES = ['logo', 'foursquare-logo', 'foursquare-logo-white', 'advent-study'];
+        if (EMAIL_ORIGINAL_IMAGES.includes(baseName)) {
           fs.copyFileSync(filePath, path.join(imgDir, file));
         }
 
