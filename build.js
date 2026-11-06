@@ -1380,15 +1380,17 @@ async function buildSite(siteId) {
   // Register partials for this theme
   registerPartials(templatesDir);
 
-  // Advent feature cards (Home + Gatherings) show only while the /advent/ page
-  // is still live (it's dropped above once past its `expires`), so they never
-  // link to a page that no longer exists.
+  // Seasonal feature cards show only while their landing page is still live
+  // (each page is dropped above once past its `expires`), so a card never
+  // links to a page that no longer exists.
   const show_advent = (config.pages || []).some((p) => p.path === '/advent/');
+  const show_21days = (config.pages || []).some((p) => p.path === '/21-days/');
 
   // Build template context
   const context = {
     ...config,
     show_advent,
+    show_21days,
     location: {
       name: config.business.name,
       phone: config.business.phone,
@@ -1543,7 +1545,7 @@ async function buildSite(siteId) {
         // email clients must load directly: Gmail et al. don't render WebP, so
         // blog/newsletter and campaign emails reference these .png/.jpg copies
         // by their original filename (e.g. /images/logo.png, /images/advent-study.jpg).
-        const EMAIL_ORIGINAL_IMAGES = ['logo', 'foursquare-logo', 'foursquare-logo-white', 'advent-study'];
+        const EMAIL_ORIGINAL_IMAGES = ['logo', 'foursquare-logo', 'foursquare-logo-white', 'advent-study', '21-days'];
         if (EMAIL_ORIGINAL_IMAGES.includes(baseName)) {
           fs.copyFileSync(filePath, path.join(imgDir, file));
         }
